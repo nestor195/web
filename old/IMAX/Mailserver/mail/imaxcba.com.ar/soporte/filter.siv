@@ -1,6 +1,0 @@
-#!1 __WebmailJunk__
-if allof (spamtest, not address :all :is :iscontact  "From" ["Luis.Cuello@engstudios.com", "analogos@fibertel.com.ar", "arguellosebastian@gmail.com", "ariel2973@hotmail.com", "arlore@hotmail.com", "bvenier@pcartsargentina.com", "ccattaneo@teknaria.com", "elguille_g@hotmail.com", "fernandofilas@btob.com.ar", "gcaraballo@teknaria.com", "icomshops@gmail.com", "info@avixos.com.ar", "info@emprexas.com", "jp-varela@hotmail.com", "marlo123@hotmail.com", "nestor195@hotmail.com", "noraoliva2@gmail.com", "rlafon2@yahoo.com.ar", "siljuli_37@hotmail.com", "soporte@imaxcba.com.ar", "vulcanocba-ventas@hotmail.com", "horacioandreslopez@gmail.com"]) {
-  fileinto "Junk E-mail";
-  stop;
-}
-
