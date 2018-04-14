@@ -1,0 +1,289 @@
+Return-Path: <estinfantil@infovia.com.ar>
+X-Spam-Status: No, hits=1.1 required=5.0
+	tests=HTML_FONT_BIG: 0.256,HTML_MESSAGE: 0.001,MIME_HTML_ONLY: 0.001,
+	MSGID_FROM_MTA_ID: 0.927,TOTAL_SCORE: 1.185
+X-Spam-Level: *
+Return-Path: <estinfantil@infovia.com.ar>
+Delivered-To: dantemerlo@imaxcba.com.ar
+Received: from localhost (localhost [127.0.0.1])
+	by ispconfig.miinet.com.ar (Postfix) with ESMTP id 92B5B8AD46
+	for <soporte@imaxcba.com.ar>; Mon, 19 Jul 2010 08:47:28 -0300 (ART)
+X-Virus-Scanned: Debian amavisd-new at ispconfig.miinet.com.ar
+Received: from ispconfig.miinet.com.ar ([127.0.0.1])
+	by localhost (ispconfig.miinet.com.ar [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id YL3T4+kcPjH5 for <soporte@imaxcba.com.ar>;
+	Mon, 19 Jul 2010 08:47:26 -0300 (ART)
+Received: from infovia.com.ar (unknown [190.172.83.83])
+	by ispconfig.miinet.com.ar (Postfix) with SMTP id 5A6018AB9D
+	for <soporte@imaxcba.com.ar>; Mon, 19 Jul 2010 08:47:25 -0300 (ART)
+From: "Capacitacion y Utilidades" <estinfantil@infovia.com.ar>
+To: <soporte@imaxcba.com.ar>
+Subject: Estimulacion Infantil
+Sender: "Capacitacion y Utilidades" <estinfantil@infovia.com.ar>
+Mime-Version: 1.0
+Content-Type: text/html; charset="ISO-8859-1"
+Date: Mon, 19 Jul 2010 08:48:14 -0300
+Content-Transfer-Encoding: 8bit
+Message-Id: <20100719114726.5A6018AB9D@ispconfig.miinet.com.ar>
+X-EsetId: 101E3C2F2FB776690F183C7B20ED33
+
+<html xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:w="urn:schemas-microsoft-com:office:word"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=windows-1252">
+<meta name=ProgId content=Word.Document>
+<meta name=Generator content="Microsoft Word 9">
+<meta name=Originator content="Microsoft Word 9">
+<link rel=File-List href="./ESTIMULACION%20INFANTIL_archivos/filelist.xml">
+<title>ESTIMULACION INFANTIL</title>
+<!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:Author>129.12.123.78</o:Author>
+  <o:Template>Normal</o:Template>
+  <o:LastAuthor>129.12.123.78</o:LastAuthor>
+  <o:Revision>2</o:Revision>
+  <o:TotalTime>12</o:TotalTime>
+  <o:Created>2010-06-26T15:32:00Z</o:Created>
+  <o:LastSaved>2010-06-26T15:32:00Z</o:LastSaved>
+  <o:Pages>2</o:Pages>
+  <o:Words>518</o:Words>
+  <o:Characters>2956</o:Characters>
+  <o:Lines>24</o:Lines>
+  <o:Paragraphs>5</o:Paragraphs>
+  <o:CharactersWithSpaces>3630</o:CharactersWithSpaces>
+  <o:Version>9.2812</o:Version>
+ </o:DocumentProperties>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:HyphenationZone>21</w:HyphenationZone>
+ </w:WordDocument>
+</xml><![endif]-->
+<style>
+<!--
+ /* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-parent:"";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";}
+h1
+	{mso-style-next:Normal;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	page-break-after:avoid;
+	mso-outline-level:1;
+	font-size:20.0pt;
+	mso-bidi-font-size:12.0pt;
+	font-family:"Times New Roman";
+	color:blue;
+	mso-font-kerning:0pt;
+	font-weight:bold;}
+h2
+	{mso-style-next:Normal;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	page-break-after:avoid;
+	mso-outline-level:2;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	font-weight:bold;}
+h3
+	{mso-style-next:Normal;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	page-break-after:avoid;
+	mso-outline-level:3;
+	font-size:16.0pt;
+	mso-bidi-font-size:12.0pt;
+	font-family:"Times New Roman";
+	color:blue;
+	font-weight:bold;}
+a:link, span.MsoHyperlink
+	{color:blue;
+	text-decoration:underline;
+	text-underline:single;}
+a:visited, span.MsoHyperlinkFollowed
+	{color:purple;
+	text-decoration:underline;
+	text-underline:single;}
+p
+	{margin-right:0cm;
+	mso-margin-top-alt:auto;
+	mso-margin-bottom-alt:auto;
+	margin-left:0cm;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";}
+@page Section1
+	{size:612.0pt 792.0pt;
+	margin:9.0pt 3.0cm 70.85pt 9.0pt;
+	mso-header-margin:35.4pt;
+	mso-footer-margin:35.4pt;
+	mso-paper-source:0;}
+div.Section1
+	{page:Section1;}
+-->
+</style>
+</head>
+
+<body lang=ES link=blue vlink=purple style='tab-interval:35.4pt'>
+
+<div class=Section1>
+
+<h1>ESTIMULACION INFANTIL</h1>
+
+<h2>GUIA COMPLETA EN UN CD</h2>
+
+<p class=MsoNormal><b>Capacitación y Materiales necesarios para: Psicólogos,
+Psicopedagogos, T.O, Foniatras, Psicomotricistas y padres<o:p></o:p></b></p>
+
+<p class=MsoNormal><b><![if
+!supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></b></p>
+
+<p class=MsoNormal><b><u>Contenido:<o:p></o:p></u></b></p>
+
+<p class=MsoNormal><b><u><![if
+!supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></u></b></p>
+
+<p class=MsoNormal><span
+style='font-size:10.0pt;font-family:Arial'>Ejercicios
+A Partir Del Mes De Edad&nbsp;<br>
+Ejercicios A Partir De Los Dos Meses De Edad&nbsp;<br>
+Ejercicios A Partir De Los Tres Meses De Edad&nbsp;<br>
+El Niño De 4 A 6 Meses&nbsp;<br>
+Ejercicios A Partir De Los Cuatro Meses De Edad&nbsp;<br>
+Ejercicios A Partir De Los Cinco Meses De Edad&nbsp;<br>
+Ejercicios A Partir De Los Seis Meses De Edad&nbsp;<br>
+El Niño De 7 A 9 Meses&nbsp;<br>
+Ejercicios A Partir De Los Siete Meses De Edad&nbsp;<br>
+Ejercicios Partir De Los Nueve Meses De Edad<br>
+El Niño De 10 A 12 Meses&nbsp;<br>
+Ejercicios A Partir De Los Diez Meses De Edad&nbsp;<br>
+Canciones&nbsp;<br>
+Ejercicios De Grafo motricidad<br>
+Teoría Y Juegos Psicomotricidad<br>
+Aprendamos Jugando&nbsp;<br>
+Desarrollo Psicomotor Y Psicomotricidad<br>
+Desarrollo Sensorial Psicomotriz<br>
+Diseño De Planificación Psicomotricidad<br>
+Ejercicios Estimulación Temprana<br>
+El Juego En La Educación Infantil<br>
+Elementos Básicos De La Psicomotricidad<br>
+Embarazo Y Estimulación Temprana De Los Bebes<o:p></o:p></span></p>
+
+<p class=MsoNormal><span
+style='font-size:10.0pt;font-family:Arial'>Estimulación
+Desarrollo Psicomotor<br>
+Estimulación Lecto Escritura<br>
+Estimulación Precoz<br>
+<span style="mso-spacerun: yes"> </span>Estimulación Temprana, Niños
+Geniales<br>
+Etapas De La Psicomotricidad<br>
+Evaluación En El Marco De La Educación Infantil Y Primaria<br>
+Influencia De La Estimulación Temprana En El Desarrollo Psicomotor&nbsp;<br>
+Juegos Y Estímulos Para Cada Etapa De 0 A 6 Años<br>
+Audición Y Lenguaje&nbsp;<br>
+Libro Para Los Padres - Estimulación Temprana Del Recién Nacido<br>
+Estimulación Del Lenguaje En Educación Infantil&nbsp;<br>
+Actividades Para Desarrollar El Lenguaje Oral En La Escuela<br>
+Fichas De Lectoescritura<br>
+Técnicas Desarrollo Creatividad Y Lenguaje<br>
+Método De Enfoque Sensorial<br>
+Método Glenn Doman Estimulación Lectura Infantil<br>
+Métodos De Investigación En Educación<br>
+Plan De Estimulación Del Lenguaje&nbsp;<br>
+Preparación Docente<br>
+Programa Grupal Estimulación Temprana<br>
+Proyectos Educación Infantil<br>
+Pruebas De Psicomotricidad<br>
+Recursos Educación Infantil&nbsp;<o:p></o:p></span></p>
+
+<p class=MsoNormal><span
+style='font-size:10.0pt;font-family:Arial'>Técnicas De
+Comunicación Eficaz Para Psicopedagogos&nbsp;<br>
+Técnicas De Respiración Y Relajación<br>
+Terapia Ocupacional En El Sistema Escolar<br>
+Estimulación Prenatal<br>
+Actividades De Integración Sensorial<br>
+Actividades De Psicomotricidad Gruesa<br>
+Ejercicios De Psicomotricidad<br>
+Fichero De Juegos De Psicomotricidad<br>
+Introducción A Las Habilidades Básicas.<br>
+Juegos Lanzamientos Saltos, recepciones&nbsp;<o:p></o:p></span></p>
+
+<p><b><span style='font-size:10.0pt;font-family:Arial'>Test y
+escalas</span></b><span
+style='font-size:10.0pt;font-family:Arial'><br>
+Frases Incompletas De Sacks<br>
+Test De Colores De Luscher<br>
+Test De Memoria<br>
+Test Machover De La Figura Humana<br>
+Cubos De Kohs<br>
+Goodenough, Inteligencia Infantil<br>
+Indicadores Emocionales Del Test Del Dibujo De La Figura Humana&nbsp;<br>
+Test De La Figura Humana, La Familia<br>
+Test - Bender Koppitz Escala De Maduración Neuro Motriz<br>
+Test De Inteligencia De Wechsler Para Niños<br>
+Test De Inteligencia De Wechsler Para Preescolares&nbsp;<br>
+Test De Inteligencia En Bebes<br>
+Test De Inteligencia Infantil Florence Goodenough<br>
+Test De La Casa&nbsp;<br>
+Informe Del Test De Frases Incompletas De Sacks<br>
+Escala Abreviada De Desarrollo<br>
+Escala De Autoconcepto Para Niños<br>
+Escala De Evaluación Del Desarrollo Psicomotor<br>
+Escala De Inteligencia Para Preescolar Y Primaria<br>
+Evaluación De Problemas De Aprendizaje</span></p>
+
+<p><b><span style='font-size:10.0pt;font-family:Arial'>Guía de evaluación
+neurológica</span></b><span style='font-size:10.0pt;font-family:Arial'><br>
+El DSM-IV&nbsp;<br>
+El perfil evolutivo&nbsp;<br>
+Los criterios diagnósticos propuestos por el DSM-IV-TR&nbsp;<br>
+Las teorías explicativas actuales&nbsp;</span></p>
+
+<h3>Costo total: $150 con envío gratis a todo el país</h3>
+
+<p class=MsoNormal><b><span
+style='font-size:16.0pt;mso-bidi-font-size:12.0pt'>Solicite
+<span style='color:blue'>ESTIMULACIÓN TEMPRANA</span>
+a:<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><b><span
+style='font-size:22.0pt;mso-bidi-font-size:12.0pt'><a
+href="mailto:estimulainfantil@live.com.ar">estimulainfantil@live.com.ar</a>
+<o:p></o:p></span></b></p>
+
+<p><span style='font-family:Arial'>Indicando su nombre, domicilio,
+localidad y
+código postal, se la enviamos por mensajeria a Capital (indique franja
+horaria
+para recibirlo) y por correo argentino, al resto del país pago contra
+reembolso. Envío gratis</span></p>
+
+<p class=MsoNormal><b><u><![if
+!supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></u></b></p>
+
+</div>
+
+<BR>
+<BR>
+__________ Información de ESET NOD32 Antivirus, versión de la base de firmas de virus 5283 (20100716) __________<BR>
+<BR>
+ESET NOD32 Antivirus ha comprobado este mensaje.<BR>
+<BR>
+<A HREF="http://www.eset.com">http://www.eset.com</A><BR>
+
+
+</body>
+
+</html>

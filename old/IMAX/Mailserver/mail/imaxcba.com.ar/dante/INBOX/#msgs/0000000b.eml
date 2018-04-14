@@ -1,0 +1,74 @@
+Return-Path: <mariamalvarez10@gmail.com>
+X-Spam-Status: No, hits=0.0 required=5.0
+	tests=HTML_MESSAGE: 0.001,TOTAL_SCORE: 0.001
+X-Spam-Level: 
+Return-Path: <mariamalvarez10@gmail.com>
+Delivered-To: dantemerlo@imaxcba.com.ar
+Received: from localhost (localhost [127.0.0.1])
+	by ispconfig.miinet.com.ar (Postfix) with ESMTP id D60888A3D5
+	for <soporte@imaxcba.com.ar>; Sat, 29 May 2010 11:13:59 -0300 (ART)
+X-Virus-Scanned: Debian amavisd-new at ispconfig.miinet.com.ar
+Received: from ispconfig.miinet.com.ar ([127.0.0.1])
+	by localhost (ispconfig.miinet.com.ar [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id oWJcFrsNqCn7 for <soporte@imaxcba.com.ar>;
+	Sat, 29 May 2010 11:13:58 -0300 (ART)
+Received: from mail-gw0-f44.google.com (mail-gw0-f44.google.com [74.125.83.44])
+	by ispconfig.miinet.com.ar (Postfix) with ESMTP id 22AC68A3C8
+	for <soporte@imaxcba.com.ar>; Sat, 29 May 2010 11:13:57 -0300 (ART)
+Received: by gwj19 with SMTP id 19so1590924gwj.3
+        for <soporte@imaxcba.com.ar>; Sat, 29 May 2010 07:13:56 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=gamma;
+        h=domainkey-signature:mime-version:received:received:date:message-id
+         :subject:from:to:content-type;
+        bh=+zsXYegc/dTmPpfuA+SjLKP/Lu1SPEviWAub1YWE6dY=;
+        b=jhfimV9aSWEUqQSqx0hlrFYX4Px1SxDeGNO2wJqE3qFrKVQleMFuDYSfStsNZKBT3Z
+         uWb1YQEXEgrqWvHLoQDPqvD2BCSgK3MVP4y5aRWxkAOIMBt5huH3dPPmFjdHsKICgPnL
+         rl88Rj+PMPxHH6OKguoKOTu6SxVyYFz9dFhqA=
+DomainKey-Signature: a=rsa-sha1; c=nofws;
+        d=gmail.com; s=gamma;
+        h=mime-version:date:message-id:subject:from:to:content-type;
+        b=ghALU2XlfK5HwOAGVi/FpVK2Vm0ht4UcUIEFdLnTgG5HZ3QALiUKAnyCeXb6UEgH7i
+         UvRvZJOmKtQnRWPt10ft0sVfF0qhFloVbXYJolbAb4sIoY99MHHMar86/5Stmo0z825F
+         bkQ55nDxqoODSzXfMPNAqJj/poHbb1LAapZ0Y=
+MIME-Version: 1.0
+Received: by 10.231.120.137 with SMTP id d9mr2301970ibr.97.1275142436403; Sat, 
+	29 May 2010 07:13:56 -0700 (PDT)
+Received: by 10.231.145.202 with HTTP; Sat, 29 May 2010 07:13:56 -0700 (PDT)
+Date: Sat, 29 May 2010 11:13:56 -0300
+Message-ID: <AANLkTikKMI7fK9eec3LsnJWCwLSjyWvgJ9FVQjcU16VN@mail.gmail.com>
+Subject: impresora
+From: Maria Alvarez <mariamalvarez10@gmail.com>
+To: soporte@imaxcba.com.ar
+Content-Type: multipart/alternative; boundary=0016e6460578f5bce10487bc3b9e
+X-EsetId: A9F8F0295ED06469B6FEF07D578229
+
+--0016e6460578f5bce10487bc3b9e
+Content-Type: text/plain; charset=ISO-8859-1
+
+Hola buenos dias, mi nombre es Maria Alvarez y el dia jueves deje una
+impresora Hp 1460, para revisar y presupuesto, quedaron en llamarme el
+viernes y no recibi ninguna llamada.yo necesito saber si me pueden avisar lo
+antes posible, ya que a la necesito con urgencia. el numero de orden de
+reparacion es: 7499. Gracias
+
+
+
+__________ Información de ESET NOD32 Antivirus, versión de la base de firmas de virus 5154 (20100528) __________
+
+ESET NOD32 Antivirus ha comprobado este mensaje.
+
+http://www.eset.com
+
+
+--0016e6460578f5bce10487bc3b9e
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+Hola buenos dias, mi nombre es Maria Alvarez y el dia jueves deje una impre=
+sora Hp 1460, para revisar y presupuesto, quedaron en llamarme el viernes y=
+ no recibi ninguna llamada.yo necesito saber si me pueden avisar lo antes p=
+osible, ya que a la necesito con urgencia. el numero de orden de reparacion=
+ es: 7499. Gracias
+
+--0016e6460578f5bce10487bc3b9e--

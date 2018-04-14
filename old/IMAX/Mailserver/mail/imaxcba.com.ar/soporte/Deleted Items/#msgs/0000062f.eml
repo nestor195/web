@@ -1,0 +1,323 @@
+Return-Path: <coachvknd@arnet.com>
+X-Spam-Status: No, hits=4.0 required=5.0
+	tests=FRONTPAGE: 0.809,HTML_COMMENT_SAVED_URL: 0.647,HTML_FONT_BIG: 0.256,
+	HTML_MESSAGE: 0.001,MIME_HTML_ONLY: 0.001,MSGID_FROM_MTA_ID: 0.927,
+	ROUND_THE_WORLD_LOCAL: 1.429,TOTAL_SCORE: 4.070
+X-Spam-Level: ****
+Return-Path: <coachvknd@arnet.com>
+Delivered-To: soporteimax@imaxcba.com.ar
+Received: from localhost (localhost [127.0.0.1])
+	by ns3.miinetserver.com.ar (Postfix) with ESMTP id 29FDD8BB35
+	for <soporte@imaxcba.com.ar>; Wed,  1 Sep 2010 10:09:13 -0300 (ART)
+X-Virus-Scanned: Debian amavisd-new at ispconfig.miinet.com.ar
+Received: from ns3.miinetserver.com.ar ([127.0.0.1])
+	by localhost (ns3.miinetserver.com.ar [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id Ehi+Qr9XvzI4 for <soporte@imaxcba.com.ar>;
+	Wed,  1 Sep 2010 10:09:12 -0300 (ART)
+Received: from arnet.com (unknown [186.137.158.65])
+	by ns3.miinetserver.com.ar (Postfix) with SMTP id 00D628BB33
+	for <soporte@imaxcba.com.ar>; Wed,  1 Sep 2010 10:09:11 -0300 (ART)
+From: "Coach" <coachvknd@arnet.com>
+To: <soporte@imaxcba.com.ar>
+Subject: Coaching Gerencial
+Sender: "Coach" <coachvknd@arnet.com>
+Mime-Version: 1.0
+Content-Type: text/html; charset="ISO-8859-1"
+Date: Wed, 1 Sep 2010 10:09:03 -0300
+Reply-To: "Coach" <temkting@gmail.com>
+Content-Transfer-Encoding: 8bit
+Message-Id: <20100901130912.00D628BB33@ns3.miinetserver.com.ar>
+X-EsetId: 101E3C2F2FB776690F183C7B23E13B
+
+<!-- saved from url=(0022)http://internet.e-mail -->
+<html xmlns:v="urn:schemas-microsoft-com:vml"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:w="urn:schemas-microsoft-com:office:word"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=windows-1252">
+<meta name=ProgId content=FrontPage.Editor.Document>
+<meta name=Generator content="Microsoft FrontPage 4.0">
+<meta name=Originator content="Microsoft Word 9">
+<link rel=File-List
+href="./COACHING%20PARA%20GERENTES_archivos/filelist.xml">
+<title>COACHING PARA GERENTES</title>
+<!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:Author>129.12.123.78</o:Author>
+  <o:Template>Normal</o:Template>
+  <o:LastAuthor>129.12.123.78</o:LastAuthor>
+  <o:Revision>2</o:Revision>
+  <o:TotalTime>33</o:TotalTime>
+  <o:Created>2010-08-18T17:37:00Z</o:Created>
+  <o:LastSaved>2010-08-18T17:37:00Z</o:LastSaved>
+  <o:Pages>2</o:Pages>
+  <o:Words>297</o:Words>
+  <o:Characters>1697</o:Characters>
+  <o:Lines>14</o:Lines>
+  <o:Paragraphs>3</o:Paragraphs>
+  <o:CharactersWithSpaces>2084</o:CharactersWithSpaces>
+  <o:Version>9.2812</o:Version>
+ </o:DocumentProperties>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:HyphenationZone>21</w:HyphenationZone>
+ </w:WordDocument>
+</xml><![endif]-->
+<style>
+<!--
+ /* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-parent:"";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";}
+h1
+	{mso-style-next:Normal;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	page-break-after:avoid;
+	mso-outline-level:1;
+	font-size:18.0pt;
+	mso-bidi-font-size:12.0pt;
+	font-family:"Times New Roman";
+	color:blue;
+	mso-font-kerning:0pt;}
+h2
+	{mso-style-next:Normal;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	page-break-after:avoid;
+	mso-outline-level:2;
+	font-size:12.0pt;
+	font-family:"Times New Roman";}
+h3
+	{mso-style-next:Normal;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	page-break-after:avoid;
+	mso-outline-level:3;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	color:blue;}
+h4
+	{mso-style-next:Normal;
+	margin-right:0cm;
+	mso-margin-top-alt:auto;
+	mso-margin-bottom-alt:auto;
+	margin-left:0cm;
+	text-align:center;
+	mso-pagination:widow-orphan;
+	page-break-after:avoid;
+	mso-outline-level:4;
+	font-size:14.0pt;
+	mso-bidi-font-size:12.0pt;
+	font-family:Arial;
+	color:navy;
+	mso-ansi-language:EN-US;}
+p.MsoBodyText, li.MsoBodyText, div.MsoBodyText
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";
+	font-weight:bold;}
+a:link, span.MsoHyperlink
+	{color:blue;
+	text-decoration:underline;
+	text-underline:single;}
+a:visited, span.MsoHyperlinkFollowed
+	{color:purple;
+	text-decoration:underline;
+	text-underline:single;}
+@page Section1
+	{size:612.0pt 792.0pt;
+	margin:9.0pt 3.0cm 70.85pt 9.0pt;
+	mso-header-margin:35.4pt;
+	mso-footer-margin:35.4pt;
+	mso-paper-source:0;}
+div.Section1
+	{page:Section1;}
+-->
+</style>
+</head>
+
+<body lang=ES link=blue vlink=purple style='tab-interval:35.4pt'>
+
+<div class=Section1>
+
+<h1>COACHING PARA GERENTES</h1>
+
+<p class=MsoNormal><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></p>
+
+<p class=MsoBodyText>Capacitacion en un CD dirigida a directivos, gerentes,
+supervisores, jefes y a todos aquellos que deseen prepararse para acceder a
+cargos gerenciales y que requieran incorporar herramientas de coaching para
+Liderar equipos de trabajo</p>
+
+<p class=MsoNormal><b><![if
+!supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></b></p>
+
+<h3>TEMARIO</h3>
+
+<p class=MsoNormal><b><![if
+!supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></b></p>
+
+<p class=MsoNormal><b>Diferencias entre un Gerente y un
+Coach.<o:p></o:p></b></p>
+
+<p class=MsoNormal><b><span lang=EN-US
+style='mso-ansi-language:EN-US'>Coaching
+y Management.<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><b>Cómo motivar a las personas.<o:p></o:p></b></p>
+
+<p class=MsoNormal><b>Desarrollo de Visión.<o:p></o:p></b></p>
+
+<p class=MsoNormal><b>Cambio de Paradigma asociado.<o:p></o:p></b></p>
+
+<p class=MsoNormal><b>Enrolamiento de personas.<o:p></o:p></b></p>
+
+<p class=MsoNormal><b>Cómo conducir reuniones en forma
+efectiva.<o:p></o:p></b></p>
+
+<p class=MsoNormal><b>Comunicación Efectiva.<o:p></o:p></b></p>
+
+<p class=MsoNormal><b>Confianza.<o:p></o:p></b></p>
+
+<p class=MsoNormal><b>Responsabilidad.<o:p></o:p></b></p>
+
+<p class=MsoNormal><b>Compromiso.<o:p></o:p></b></p>
+
+<p class=MsoNormal><b>Autoridad y Poder.<o:p></o:p></b></p>
+
+<p class=MsoNormal><b>Diseño de Futuro.<o:p></o:p></b></p>
+
+<p class=MsoNormal><b>Cómo trabajar en Equipo.<o:p></o:p></b></p>
+
+<p class=MsoNormal><b>Problemas y quiebres: <o:p></o:p></b></p>
+
+<p class=MsoBodyText>Cambio paradigmático.</p>
+
+<p class=MsoBodyText>La palabra como generadora de resultados.</p>
+
+<p class=MsoNormal><b>Hechos: lo que no podemos cambiar.<o:p></o:p></b></p>
+
+<p class=MsoNormal><b>Construcción de confianza.<o:p></o:p></b></p>
+
+<p class=MsoNormal><b>Identidad publica e Identidad
+privada<o:p></o:p></b></p>
+
+<p class=MsoNormal><b>Naturaleza emocional del liderazgo.<o:p></o:p></b></p>
+
+<h2>Conversaciones Públicas y Privadas</h2>
+
+<p class=MsoNormal><b>Conversaciones efectivas - Tipos de
+conversaciones<o:p></o:p></b></p>
+
+<p class=MsoNormal><strong><span
+style='mso-bidi-font-size:9.0pt;color:black'>Aprendamos
+a ser Observadores y</span></strong><b><span
+style='mso-bidi-font-size:9.0pt;
+color:black'> <strong>Ofrecer Opiniones</strong></span></b><span
+style='mso-bidi-font-size:9.0pt;color:black'><br>
+<b>Interacción nociva<br>
+Hechos y juicios<br>
+Observaciones. Condiciones esenciales para la observación efectiva<br>
+Opiniones. Propiedades de las opiniones efectivas<br>
+Caracterización o Evaluación de Personas<br>
+Confrontación y Reprobación<o:p></o:p></b></span></p>
+
+<p class=MsoNormal><strong><span
+style='mso-bidi-font-size:9.0pt;color:black'>El
+Arte de Exponer e Indagar</span></strong><b><span style='mso-bidi-font-size:
+9.0pt;color:black'><br>
+Análisis de Caso<br>
+Control Unilateral o Tener siempre Razón<br>
+Exposición Improductiva<br>
+Estrategias de exposición Improductiva<br>
+Indagación Improductiva<br>
+Estrategias de indagación improductiva<br>
+Exposición Productiva: estrategias<br>
+Indagación Productiva: estrategias<br>
+Estrategias efectivas para resolver situaciones de atascamiento<br>
+Ejercicios<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><strong><span
+style='mso-bidi-font-size:9.0pt;color:black'>Hacer
+Pedidos y Promesas</span></strong><b><span style='mso-bidi-font-size:9.0pt;
+color:black'><br>
+Lenguaje y Acción<br>
+Compromisos<br>
+Promesas, Ofertas y Pedidos<br>
+Formas Canónicas<br>
+<strong>Feedback para el Aprendizaje</strong></span></b><span
+style='mso-bidi-font-size:
+9.0pt;color:black'><o:p></o:p></span></p>
+
+<p class=MsoNormal><b><span
+style='mso-bidi-font-size:9.0pt;color:black'>Feedback
+y Crítica <o:p></o:p></span></b></p>
+
+<p class=MsoNormal><b><span
+style='mso-bidi-font-size:9.0pt;color:black'><![if
+!supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></b></p>
+
+<h4 align=left style='text-align:left'><span
+style='mso-ansi-language:ES'>COSTO
+TOTAL: $150<o:p></o:p></span></h4>
+
+<h4 align=left style='text-align:left'><span
+style='mso-ansi-language:ES'>SOLICITE
+</span><span style='color:blue;mso-ansi-language:ES'>COACHING GERENCIAL
+</span><span
+style='color:windowtext;mso-ansi-language:ES'>en un CD</span><span
+style='mso-ansi-language:ES'> a:<o:p></o:p></span></h4>
+
+<p class=MsoNormal><b><span style="font-size: 18pt; font-family: 'Arial
+Narrow';"><a
+href="mailto:rrppcoaching@hotmail.com">rrppcoaching@hotmail.com</a></span>
+<span
+lang=EN-US
+style='font-family:Arial;mso-ansi-language:EN-US'><o:p></o:p></span></b></p>
+
+<p class=MsoNormal
+style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span
+style='font-family:Arial'>indicando su nombre, domicilio, localidad, codigo
+postal y horario en que desea recibirlo. </span></p>
+
+<p class=MsoNormal align=center
+style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
+auto;text-align:center'><span style='font-family:Arial'>Envios a Capital
+Federal por mensajeria, al interior por correo argentino, pago contra
+reembolso. </span></p>
+
+<h2 align=center style='text-align:center'><span
+style='font-family:Arial'>El
+envio es gratis a todo el pais</span></h2>
+
+<p class=MsoNormal><b><![if
+!supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></b></p>
+
+</div>
+
+<BR>
+<BR>
+__________ Información de ESET NOD32 Antivirus, versión de la base de firmas de virus 5415 (20100901) __________<BR>
+<BR>
+ESET NOD32 Antivirus ha comprobado este mensaje.<BR>
+<BR>
+<A HREF="http://www.eset.com">http://www.eset.com</A><BR>
+
+
+</body>
+
+</html>

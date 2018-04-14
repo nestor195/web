@@ -1,0 +1,141 @@
+Return-Path: <n-60_ZJF-h5LWc_KtJdTsW1v4HiEOJcEC0LYkQWs8e0y3Mxj2chWZRL5ec@bounce.linkedin.com>
+X-Spam-Status: No, hits=0.6 required=5.0
+	tests=HTML_IMAGE_ONLY_20: 0.64,HTML_MESSAGE: 0.001,TOTAL_SCORE: 0.641
+X-Spam-Level: 
+Return-Path: <n-60_ZJF-h5LWc_KtJdTsW1v4HiEOJcEC0LYkQWs8e0y3Mxj2chWZRL5ec@bounce.linkedin.com>
+Delivered-To: dantemerlo@imaxcba.com.ar
+Received: from localhost (localhost [127.0.0.1])
+	by ispconfig.miinet.com.ar (Postfix) with ESMTP id D6A1E8A226
+	for <soporte@imaxcba.com.ar>; Mon, 31 May 2010 13:44:42 -0300 (ART)
+X-Virus-Scanned: Debian amavisd-new at ispconfig.miinet.com.ar
+Received: from ispconfig.miinet.com.ar ([127.0.0.1])
+	by localhost (ispconfig.miinet.com.ar [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 5hr0B422aZtJ for <soporte@imaxcba.com.ar>;
+	Mon, 31 May 2010 13:44:41 -0300 (ART)
+Received: from maila-bd.linkedin.com (maila-bd.linkedin.com [208.111.172.148])
+	by ispconfig.miinet.com.ar (Postfix) with ESMTP id E0A9E8A20C
+	for <soporte@imaxcba.com.ar>; Mon, 31 May 2010 13:44:40 -0300 (ART)
+DomainKey-Signature: s=prod; d=linkedin.com; c=nofws; q=dns;
+  h=Sender:Date:From:To:Message-ID:Subject:MIME-Version:
+   Content-Type:X-LinkedIn-Class:X-LinkedIn-fbl;
+  b=GF2QGQ3q6bhV307+3k8c3TKvP5+puOqXpSagDFoNJM/7St4imZVCjfpd
+   qZs5yW3kY8/penk85QbjI3pY/QIE6vO6qDDWxHKB/Kox/E6fRfMDis7+X
+   17S+8B90mLyievq;
+Sender: messages-noreply@bounce.linkedin.com
+Date: Mon, 31 May 2010 09:44:57 -0700 (PDT)
+From: =?UTF-8?Q?Diego_Gast=C3=B3n_Spena?= <gspena@maipuautomotores.com.ar>
+To:  <soporte@imaxcba.com.ar>
+Message-ID: <509821131.13497632.1275324297181.JavaMail.app@ech3-cdn13.prod>
+Subject: =?UTF-8?Q?Diego_Gast=C3=B3n_Spena_quiere_mantener_el_contacto_en_LinkedIn?=
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_13497631_450686300.1275324297179"
+X-LinkedIn-Class: INVITE-GUEST
+X-LinkedIn-fbl: n-60_ZJF-h5LWc_KtJdTsW1v4HiEOJcEC0LYkQWs8e0y3Mxj2chWZRL5ec
+X-EsetId: 101E3C2F2FB776690F183C7B26E435
+
+------=_Part_13497631_450686300.1275324297179
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+LinkedIn
+------------
+
+  =20
+Me gustar=C3=ADa a=C3=B1adirte a mi red profesional en LinkedIn.=20
+
+- Diego Gast=C3=B3n Spena
+
+Diego Gast=C3=B3n Spena
+Ejecutivo comercial Grandes Clientes en MUNDO MAIPU=20
+Argentina
+
+Confirma que conoces a Diego Gast=C3=B3n Spena
+https://www.linkedin.com/e/isd/1348068583/u43bohMQ/
+
+
+=20
+------
+(c) 2010, LinkedIn Corporation
+
+
+__________ Informaci=F3n de ESET NOD32 Antivirus, versi=F3n de la base de f=
+irmas de virus 5158 (20100531) __________
+
+ESET NOD32 Antivirus ha comprobado este mensaje.
+
+http://www.eset.com
+
+
+------=_Part_13497631_450686300.1275324297179
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+
+<html>
+  <body>
+
+ =20
+
+<table border=3D"0" width=3D"550" cellpadding=3D"0" cellspacing=3D"0" style=
+=3D"max-width:550px; border-top:4px solid #39C; font: 12px arial, sans-seri=
+f; margin: 0 auto;"><tr><td> =20
+  <h1 style=3D"color: #000; font: bold 23px arial; margin:5px 0;" >LinkedIn=
+</h1>
+
+<div style=3D"font:13px arial, sans-serif; width:540px"> =20
+   =20
+    <p>
+      Me gustar=C3=ADa a=C3=B1adirte a mi red profesional en LinkedIn. <br/=
+>
+<br/>
+- Diego Gast=C3=B3n Spena
+    </p>
+   =20
+    <table cellpadding=3D"0" cellspacing=3D"0" style=3D"margin-bottom: 10px=
+;">
+      <tr>
+          <td style=3D"width: 50px;">
+              <IMG style=3D"padding: 5px;" src=3D"http://media.linkedin.com=
+/media/p/3/000/05e/032/159ef7d.jpg" class=3D"photo" width=3D"40" height=3D"=
+40">
+          </td>
+        <td style=3D"font: 13px arial, sans-serif; width: 490px;">
+          <div style=3D"padding: 5px 5px 5px 0">
+            Diego Gast&#xf3;n Spena<br>
+                Ejecutivo comercial Grandes Clientes en MUNDO MAIPU=20
+            <br>
+                    Argentina
+          </div>
+          </div>
+        </td>
+      </tr>
+    </table>
+
+    <p>
+              <a style=3D"background-color:#ffcc00; display:inline-block; b=
+order-right: 1px solid #7a5a20; border-bottom: 1px solid #7a5a20; padding:1=
+0px; text-decoration: none; color: #000; text-align: center; white-space:no=
+ne; font-weight: bold;" href=3D"https://www.linkedin.com/e/isd/1348068583/u=
+43bohMQ/EML-invg_59/">Confirma que conoces a Diego Gast&#xf3;n</a>
+    </p>
+</div>
+
+
+
+  <p style=3D"width: 550px; margin: 3px auto; font: 10px arial, sans-serif;=
+ color: #999;">=C2=A9 2010, LinkedIn Corporation</p>
+
+<BR>
+<BR>
+__________ Informaci=F3n de ESET NOD32 Antivirus, versi=F3n de la base de f=
+irmas de virus 5158 (20100531) __________<BR>
+<BR>
+ESET NOD32 Antivirus ha comprobado este mensaje.<BR>
+<BR>
+<A HREF=3D"http://www.eset.com">http://www.eset.com</A><BR>
+
+
+</body>
+</html>
+------=_Part_13497631_450686300.1275324297179--

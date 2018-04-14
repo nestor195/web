@@ -1,0 +1,76 @@
+Return-Path: <usuario@vps.usuarioweb.com.ar>
+X-Spam-Status: No, hits=2.9 required=5.0
+	tests=HTML_FONT_BIG: 0.256,HTML_IMAGE_ONLY_12: 1.639,HTML_MESSAGE: 0.001,
+	HTML_SHORT_LINK_IMG_2: 0.951,MIME_HTML_ONLY: 0.001,TO_CC_NONE: 0.134,
+	TOTAL_SCORE: 2.982
+X-Spam-Level: **
+Return-Path: <usuario@vps.usuarioweb.com.ar>
+Delivered-To: dantemerlo@imaxcba.com.ar
+Received: from localhost (localhost [127.0.0.1])
+	by ns3.miinetserver.com.ar (Postfix) with ESMTP id 3D6338B9FC
+	for <soporte@imaxcba.com.ar>; Fri, 27 Aug 2010 18:15:47 -0300 (ART)
+X-Virus-Scanned: Debian amavisd-new at ispconfig.miinet.com.ar
+Received: from ns3.miinetserver.com.ar ([127.0.0.1])
+	by localhost (ns3.miinetserver.com.ar [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id F2tpwjoZH5Y9 for <soporte@imaxcba.com.ar>;
+	Fri, 27 Aug 2010 18:15:45 -0300 (ART)
+Received: from vps.usuarioweb.com.ar (static-222-178-73-69.nocdirect.com [69.73.178.222])
+	by ns3.miinetserver.com.ar (Postfix) with ESMTPS id 71B808B9FB
+	for <soporte@imaxcba.com.ar>; Fri, 27 Aug 2010 18:15:45 -0300 (ART)
+Received: from usuario by vps.usuarioweb.com.ar with local (Exim 4.69)
+	(envelope-from <usuario@vps.usuarioweb.com.ar>)
+	id 1Op5FZ-0006Cf-LC; Fri, 27 Aug 2010 16:10:09 -0400
+To: 
+Subject: Viva tranquilo junto a los suyos
+X-PHP-Script: www.usuarioweb.com.ar/macrosigno/enviomail1.php for 190.49.182.226
+MIME-Version: 1.0
+Content-type: text/html; charset=iso-8859-1
+From: Sistemas de Seguridad <ventas@macrosigno.com.ar>
+Reply-To: ventas@macrosigno.com.ar
+Cc: 
+Message-Id: <E1Op5FZ-0006Cf-LC@vps.usuarioweb.com.ar>
+Date: Fri, 27 Aug 2010 16:10:09 -0400
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - vps.usuarioweb.com.ar
+X-AntiAbuse: Original Domain - imaxcba.com.ar
+X-AntiAbuse: Originator/Caller UID/GID - [504 501] / [47 12]
+X-AntiAbuse: Sender Address Domain - vps.usuarioweb.com.ar
+X-EsetId: 101E3C2F2FB776690F183C7B23E737
+
+
+
+<html>
+<head>
+   <title>Macrosigno</title>
+</head>
+<body>
+<style type="text/css">
+<!--
+.Estilo1 {
+	color: #CC0000;
+	font-weight: bold;
+	font-size: 36px;
+}
+-->
+</style>
+<p align="center"><b>Si no logra ver correctamente el mail <a href="http://www.usuarioweb.com.ar/macrosigno/mail.htm">ingrese aqui</a></b></p>
+
+<p><a href="mailto:ventas@macrosigno.com.ar"><img src="http://www.usuarioweb.com.ar/macrosigno/mail1.jpg" ></p>
+
+
+<pclass="Estilo1"><samp><code>Este mensaje cuenta con la opcion de <a href="mailto:cancelarmacro@usuarioweb.com.ar">DAR DE BAJA</a> para que dicho correo no pueda ser considerado spam.
+Si desea darse de baja de nuestra base de datos, por favor precione <a href="mailto:cancelarmacro@usuarioweb.com.ar">aquí</a> y lo daremos de baja. Muchas gracias.</code></samp></p>
+
+
+<BR>
+<BR>
+__________ Información de ESET NOD32 Antivirus, versión de la base de firmas de virus 5403 (20100827) __________<BR>
+<BR>
+ESET NOD32 Antivirus ha comprobado este mensaje.<BR>
+<BR>
+<A HREF="http://www.eset.com">http://www.eset.com</A><BR>
+
+
+</body>
+</html>
+

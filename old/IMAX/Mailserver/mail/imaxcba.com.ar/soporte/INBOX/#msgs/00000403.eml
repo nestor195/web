@@ -1,0 +1,64 @@
+Return-Path: <>
+Received: from localhost
+	by RECEPCION (Kerio MailServer 6.5.2); Thu, 27 May 2010 17:01:26 -0300
+Date: Thu, 27 May 2010 17:01:26 -0300
+Message-ID: <30466359-2476@RECEPCION>
+MIME-Version: 1.0
+From: Mail Delivery Subsystem <postmaster@RECEPCION>
+To: <soporte@imaxcba.com.ar>
+Subject: =?utf-8?Q?Correo_electr=C3=B3nico_devuelto=3A_prueba?=
+Content-Type: multipart/report; report-type=delivery-status;
+	boundary="MIME-30466343-18467-delim"
+
+--MIME-30466343-18467-delim
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 8bit
+
+
+Este es un mensaje informativo enviado por RECEPCION. 
+
+El servidor no ha podido entregar su mensaje de correo electrónico 
+
+  Subject: prueba
+  Date: Thu, 27 May 2010 17:01:24 -0300
+
+
+
+a las siguientes direcciones:
+
+  <nestor195@hotmail.com> (www.imaxcba.com.ar: 535 5.7.8 Error: authentication failed: authentication failure)
+--MIME-30466343-18467-delim
+Content-Type: message/delivery-status
+
+Reporting-MTA: dns; RECEPCION
+Arrival-Date: Thu, 27 May 2010 17:01:24 -0300
+
+Original-Recipient: nestor195@hotmail.com
+Final-Recipient: rfc822;nestor195@hotmail.com
+Action: failed
+Status: 5.7.0
+Remote-MTA: www.imaxcba.com.ar
+Diagnostic-Code: SMTP; 535 5.7.8 Error: authentication failed: authentication failure
+
+--MIME-30466343-18467-delim
+Content-Type: text/rfc822-headers
+
+Received: from [192.168.1.4] ([192.168.1.4])
+	by RECEPCION (Kerio MailServer 6.5.2)
+	for nestor195@hotmail.com;
+	Thu, 27 May 2010 17:01:24 -0300
+To: nestor195@hotmail.com
+From: "Soporte I.MAX Cordoba" <soporte@imaxcba.com.ar>
+Organization: Soporte Imax Cordoba
+Subject: prueba
+Message-ID: <20100527200124.5631379d@RECEPCION>
+Date: Thu, 27 May 2010 17:01:24 -0300
+X-Mailer: Kerio MailServer 6.5.2 WebMail
+X-User-Agent: Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; .NET CLR 2.0.50727; .NET
+	CLR 3.0.4506.2152; .NET CLR 3.5.30729)
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="-----------9cb102b1bb383d6b188e8c925580707a"
+
+--MIME-30466343-18467-delim--
+

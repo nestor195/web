@@ -1,0 +1,80 @@
+Return-Path: <automat@mundoavisos.com>
+X-Spam-Status: No, hits=0.0 required=5.0
+	tests=HTML_MESSAGE: 0.001,TOTAL_SCORE: 0.001
+X-Spam-Level: 
+Return-Path: <automat@mundoavisos.com>
+Delivered-To: dantemerlo@imaxcba.com.ar
+Received: from localhost (localhost [127.0.0.1])
+	by ispconfig.miinet.com.ar (Postfix) with ESMTP id 0EB4D8B00B
+	for <soporte@imaxcba.com.ar>; Mon, 26 Jul 2010 18:08:00 -0300 (ART)
+X-Virus-Scanned: Debian amavisd-new at ispconfig.miinet.com.ar
+Received: from ispconfig.miinet.com.ar ([127.0.0.1])
+	by localhost (ispconfig.miinet.com.ar [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id C1PDf8+4UvXA for <soporte@imaxcba.com.ar>;
+	Mon, 26 Jul 2010 18:07:58 -0300 (ART)
+Received: from mailhost.multinet.cl (unknown [200.27.68.51])
+	by ispconfig.miinet.com.ar (Postfix) with ESMTPS id 7BC478AEB5
+	for <soporte@imaxcba.com.ar>; Mon, 26 Jul 2010 18:07:58 -0300 (ART)
+Received: from argentina.mundoavisos.com ([200.27.68.50])
+        by mailhost.multinet.cl (M-Mail Service v7.4.2) with ESMTP id MRF82792
+        for <soporte@imaxcba.com.ar>; Mon, 26 Jul 2010 16:51:56 -0400
+Date: Mon, 26 Jul 2010 17:05:25 -0400
+To: soporte@imaxcba.com.ar
+From: "mundoavisos <automat@mundoavisos.com>" <mundoavisos <automat@mundoavisos.com>>
+Subject: =?utf-8?Q?Confirmaci=F3n_de_registro_en_mundoavisos?=
+Message-ID: <c7b3376df97a90f190f23f65c1e83e56@argentina.mundoavisos.com>
+X-Priority: 3
+X-Mailer: PHPMailer [version 1.73]
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="b1_c7b3376df97a90f190f23f65c1e83e56"
+X-EsetId: 101E3C2F2FB776690F183C7B21E137
+
+
+--b1_c7b3376df97a90f190f23f65c1e83e56
+Content-Type: text/plain; charset = "utf-8"
+Content-Transfer-Encoding: 8bit
+
+Hola Gustavo, bienvenid@ a mundoavisos!
+
+Su login de usuario es su dirección de correo: soporte@imaxcba.com.ar
+Su clave secreta es: 7d997
+
+Acceda a su cuenta
+
+Atentamente,
+
+El equipo de mundoavisos.com
+Este mensaje fue enviado de forma automática. Por favor no lo responda. Gracias.
+
+
+
+
+__________ Información de ESET NOD32 Antivirus, versión de la base de firmas de virus 5314 (20100726) __________
+
+ESET NOD32 Antivirus ha comprobado este mensaje.
+
+http://www.eset.com
+
+
+--b1_c7b3376df97a90f190f23f65c1e83e56
+Content-Type: text/html; charset = "utf-8"
+Content-Transfer-Encoding: 8bit
+
+Hola Gustavo, bienvenid@ a mundoavisos!<br><br>
+
+Su login de usuario es su dirección de correo: soporte@imaxcba.com.ar<br>
+Su clave secreta es: <b>7d997</b><br><br>
+
+<a href="http://argentina.mundoavisos.com/login.php?email=soporte@imaxcba.com.ar">Acceda a su cuenta</a><br><br>
+
+Atentamente,<br>
+
+El equipo de <a href="http://argentina.mundoavisos.com">mundoavisos.com</a><br><br>
+<small>Este mensaje fue enviado de forma automática. Por favor no lo responda. Gracias.</small>
+
+
+
+--b1_c7b3376df97a90f190f23f65c1e83e56--
+
+

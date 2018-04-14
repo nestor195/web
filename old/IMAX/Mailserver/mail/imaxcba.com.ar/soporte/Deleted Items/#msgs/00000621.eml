@@ -1,0 +1,218 @@
+Return-Path: <ventasnet.barbara@gmail.com>
+X-Spam-Status: No, hits=0.0 required=5.0
+	tests=HTML_MESSAGE: 0.001,TOTAL_SCORE: 0.001
+X-Spam-Level: 
+Return-Path: <ventasnet.barbara@gmail.com>
+Delivered-To: soporteimax@imaxcba.com.ar
+Received: from localhost (localhost [127.0.0.1])
+	by ns3.miinetserver.com.ar (Postfix) with ESMTP id 561678BB9C
+	for <soporte@imaxcba.com.ar>; Thu,  2 Sep 2010 09:41:12 -0300 (ART)
+X-Virus-Scanned: Debian amavisd-new at ispconfig.miinet.com.ar
+Received: from ns3.miinetserver.com.ar ([127.0.0.1])
+	by localhost (ns3.miinetserver.com.ar [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id e71DrbZjW+mp for <soporte@imaxcba.com.ar>;
+	Thu,  2 Sep 2010 09:41:10 -0300 (ART)
+Received: from mail-iw0-f172.google.com (mail-iw0-f172.google.com [209.85.214.172])
+	by ns3.miinetserver.com.ar (Postfix) with ESMTP id DC9878BB9A
+	for <soporte@imaxcba.com.ar>; Thu,  2 Sep 2010 09:41:09 -0300 (ART)
+Received: by iwn3 with SMTP id 3so475254iwn.3
+        for <soporte@imaxcba.com.ar>; Thu, 02 Sep 2010 05:41:08 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=gamma;
+        h=domainkey-signature:mime-version:received:received:in-reply-to
+         :references:date:message-id:subject:from:to:content-type;
+        bh=neYOldb10fYDRP2WyaTI+kFV/asGGf8xbLVz1yr8TgQ=;
+        b=ctD+YrD319cB7iIjJ7eXYqzeGqiyBRtXnl/jBEs+thaVW8yIxvGOaikTaIazUcyy4h
+         arvE0AR2Y1NT6NHT+0LQKI6glzrNv0s0VmHrilC/Oh1d5vdJIlMJeGd6DPnz0cJaXQGy
+         upH61N+0Hsuw7P3MbkSsMUaKv3Cm7SWW2zUD0=
+DomainKey-Signature: a=rsa-sha1; c=nofws;
+        d=gmail.com; s=gamma;
+        h=mime-version:in-reply-to:references:date:message-id:subject:from:to
+         :content-type;
+        b=SO6EmRglfZ18HTe/Ri2y8m0RxOrkt/DifrklqhWAXTDdcnM8GmXP8W8suNbvAZLQVt
+         8JHAaFXQ/l52OoTzSaMMClirgCq4DZnGWtW+py06A1IlZCg5G/pGFOCtfCh0DZb6ZyBF
+         EBw3kx0WHWr8vPSu25nTIYh3Q59HZpWtCpVxk=
+MIME-Version: 1.0
+Received: by 10.231.15.203 with SMTP id l11mr10094414iba.182.1283431267915;
+ Thu, 02 Sep 2010 05:41:07 -0700 (PDT)
+Received: by 10.231.208.7 with HTTP; Thu, 2 Sep 2010 05:41:07 -0700 (PDT)
+In-Reply-To: <AANLkTi=m_TnS5=eT7rC7nCrn=uGV_MaARwzOFR7XnU2r@mail.gmail.com>
+References: <20100831144048.7d0ce8ed@RECEPCION>
+	<AANLkTi=m_TnS5=eT7rC7nCrn=uGV_MaARwzOFR7XnU2r@mail.gmail.com>
+Date: Thu, 2 Sep 2010 09:41:07 -0300
+Message-ID: <AANLkTimBopc5QVu9yTHHyQLwhidtggDqx7U4oN0kNHmT@mail.gmail.com>
+Subject: Re: Deposito en santander Leandro Caminos Cba capital I.MAX
+From: "NET.BARBARA" <ventasnet.barbara@gmail.com>
+To: =?ISO-8859-1?Q?Soporte_Inform=E1tico_I=2EMAX_cba?= <soporte@imaxcba.com.ar>
+Content-Type: multipart/alternative; boundary=002215046c8fd16135048f4620b0
+X-EsetId: 101E3C2F2FB776690F183C7B23E031
+
+--002215046c8fd16135048f4620b0
+Content-Type: text/plain; charset=windows-1252
+Content-Transfer-Encoding: quoted-printable
+
+Hola Leandro:
+
+  Se le comunica que en el d=EDa de ayer se realizo el env=EDo a trav=E9s d=
+e la
+empresa "Mercoplus" con numero de gu=EDa: B2245-00099941, =93pago en destin=
+o=94 a
+la terminal de =93Cordoba=94.
+
+  Gracias por su compra, saludos Daniel de Net.Barbara.
+
+El 31 de agosto de 2010 12:07, NET.BARBARA
+<ventasnet.barbara@gmail.com>escribi=F3:
+
+> Hola Leandro:
+>
+>   Hemos recibido los datos, se estar=E1 chequeando la acreditaci=F3n del =
+pago
+> en nuestra cuenta, y una vez aprobado se realizara el env=EDo, luego te
+> pasaremos el n=FAmero de gu=EDa de la encomienda por este medio para que =
+puedas
+> retirarlo, gracias y estamos en contacto Daniel de NET.BARBARA.
+>
+>
+>
+>
+>
+> El 31 de agosto de 2010 11:40, Soporte Inform=E1tico I.MAX cba <
+> soporte@imaxcba.com.ar> escribi=F3:
+>
+>  Estimados les adjunto el mail con el scaneo del deposito en santander ri=
+o
+>> por la pantalla led de 14.0 , para enviarlas a cordoba capital a nombre =
+de
+>> caminos leandro rodolfo , sucre 368 , barrio centro cp 5000 cordoba capi=
+tal.
+>> agradeciendo la velocidad en el envio . me despido atte
+>>
+>> Leandro R. Caminos
+>> Servicio T=E9cnico Inform=E1tico
+>> Impresoras - PC - Notebooks
+>> Insumos y Accesorios
+>> SUCRE 368 - CENTRO - C=D3RDOBA
+>> Tel: (0351) 4271942
+>>
+>
+>
+>
+> --
+> *
+>
+>    - No olvide visitar nuestra web: www.japanhikari.com.ar
+>    - Lavalle 636 piso 3=BA of "A" (CABA)
+>    - Tel: (011) 5272-0788 / 5272-0789
+>    - NET.BARBARA
+>
+> *
+>
+
+
+
+--=20
+*
+
+   - No olvide visitar nuestra web: www.japanhikari.com.ar
+   - Lavalle 636 piso 3=BA of "A" (CABA)
+   - Tel: (011) 5272-0788 / 5272-0789
+   - NET.BARBARA
+
+*
+
+
+
+__________ Informaci=F3n de ESET NOD32 Antivirus, versi=F3n de la base de f=
+irmas de virus 5417 (20100902) __________
+
+ESET NOD32 Antivirus ha comprobado este mensaje.
+
+http://www.eset.com
+
+
+--002215046c8fd16135048f4620b0
+Content-Type: text/html; charset=windows-1252
+Content-Transfer-Encoding: quoted-printable
+
+<p class=3D"MsoNormal"><span style=3D"font-family:Arial;mso-ansi-language:E=
+S">Hola Leandro:</span></p>
+
+<p class=3D"MsoNormal"><span style=3D"font-family:Arial;mso-ansi-language:E=
+S"><span style=3D"mso-spacerun:yes">=A0 </span>Se le comunica que en el d=
+=EDa de ayer se
+realizo el env=EDo a trav=E9s de la empresa &quot;Mercoplus&quot; con numer=
+o de gu=EDa: B2245-00099941, =93pago
+en destino=94 a la terminal de =93Cordoba=94.</span></p>
+
+<p class=3D"MsoNormal"><span style=3D"font-family:Arial;mso-ansi-language:E=
+S"><span style=3D"mso-spacerun:yes">=A0 </span>Gracias por su compra, salud=
+os Daniel de Net.Barbara.</span></p><br><div class=3D"gmail_quote">El 31 de=
+ agosto de 2010 12:07, NET.BARBARA <span dir=3D"ltr">&lt;<a href=3D"mailto:=
+ventasnet.barbara@gmail.com">ventasnet.barbara@gmail.com</a>&gt;</span> esc=
+ribi=F3:<br>
+<blockquote class=3D"gmail_quote" style=3D"margin:0 0 0 .8ex;border-left:1p=
+x #ccc solid;padding-left:1ex;"><p class=3D"MsoNormal"><span><span lang=3D"=
+ES-MX" style=3D"font-family:Arial">Hola Leandro:</span></span></p>
+
+<p class=3D"MsoNormal"><span><span lang=3D"ES-MX" style=3D"font-family:Aria=
+l"><span>=A0 </span>Hemos recibido los datos, se estar=E1
+chequeando la acreditaci=F3n del pago en nuestra cuenta, y una vez aprobado=
+ se
+realizara el env=EDo, luego te pasaremos el n=FAmero de gu=EDa de la encomi=
+enda por
+este medio para que puedas retirarlo, gracias y estamos en contacto Daniel =
+de
+NET.BARBARA.</span></span></p>
+
+<p class=3D"MsoNormal"><span><span lang=3D"ES-MX" style=3D"font-family:Aria=
+l">=A0</span></span></p>
+
+<p class=3D"MsoNormal"><span><span lang=3D"ES-MX" style=3D"font-family:Aria=
+l">=A0</span></span></p><br><div class=3D"gmail_quote">El 31 de agosto de 2=
+010 11:40, Soporte Inform=E1tico I.MAX cba <span dir=3D"ltr">&lt;<a href=3D=
+"mailto:soporte@imaxcba.com.ar" target=3D"_blank">soporte@imaxcba.com.ar</a=
+>&gt;</span> escribi=F3:<div>
+<div></div><div class=3D"h5"><br>
+<blockquote class=3D"gmail_quote" style=3D"margin:0 0 0 .8ex;border-left:1p=
+x #ccc solid;padding-left:1ex">
+
+
+=20
+=20
+
+<div>
+Estimados les adjunto el mail con el scaneo del deposito en santander rio p=
+or la pantalla led de 14.0 , para enviarlas a cordoba capital a nombre de c=
+aminos leandro rodolfo , sucre 368 , barrio centro cp 5000 cordoba capital.=
+ agradeciendo la velocidad en el envio . me despido atte <br>
+
+<br>Leandro R. Caminos<br>Servicio T=E9cnico Inform=E1tico<br>Impresoras - =
+PC - Notebooks<br>Insumos y Accesorios<br>SUCRE 368 - CENTRO - C=D3RDOBA<br=
+>Tel: (0351) 4271942</div></blockquote></div></div></div><br><br clear=3D"a=
+ll">
+<div><div></div><div class=3D"h5"><br>-- <br><b><ul>
+<li><span style=3D"font-weight:normal"><b><span style=3D"font-weight:normal=
+">No olvide visitar nuestra web: <a href=3D"http://www.japanhikari.com.ar" =
+target=3D"_blank">www.japanhikari.com.ar</a></span></b></span></li><li><spa=
+n style=3D"font-weight:normal"><b><span style=3D"font-weight:normal">Lavall=
+e 636 piso 3=BA of &quot;A&quot; (CABA)</span></b></span></li>
+
+<li><span style=3D"font-weight:normal"><b><span style=3D"font-weight:normal=
+">Tel:</span> (011) 5272-0788 / 5272-0789</b></span></li><li><span style=3D=
+"font-weight:normal"><b><font color=3D"#CC33CC">NET.BARBARA<span></span><sp=
+an></span></font></b></span></li>
+
+</ul></b><br>
+</div></div></blockquote></div><br><br clear=3D"all"><br>-- <br><b><ul><li>=
+<span style=3D"font-weight:normal"><b><span style=3D"font-weight:normal">No=
+ olvide visitar nuestra web: <a href=3D"http://www.japanhikari.com.ar" targ=
+et=3D"_blank">www.japanhikari.com.ar</a></span></b></span></li>
+<li><span style=3D"font-weight:normal"><b><span style=3D"font-weight:normal=
+">Lavalle 636 piso 3=BA of &quot;A&quot; (CABA)</span></b></span></li><li><=
+span style=3D"font-weight:normal"><b><span style=3D"font-weight:normal">Tel=
+:</span> (011) 5272-0788 / 5272-0789</b></span></li>
+<li><span style=3D"font-weight:normal"><b><font color=3D"#CC33CC">NET.BARBA=
+RA<span></span><span></span></font></b></span></li></ul></b><br>
+
+--002215046c8fd16135048f4620b0--

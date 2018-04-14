@@ -1,0 +1,527 @@
+Return-Path: <tecnego@infovia.com.ar>
+X-Spam-Status: No, hits=1.7 required=5.0
+	tests=HTML_FONT_BIG: 0.256,HTML_MESSAGE: 0.001,MIME_HTML_ONLY: 0.001,
+	MSGID_FROM_MTA_ID: 0.927,UPPERCASE_50_75: 0.591,TOTAL_SCORE: 1.776
+X-Spam-Level: *
+Return-Path: <tecnego@infovia.com.ar>
+Delivered-To: dantemerlo@imaxcba.com.ar
+Received: from localhost (localhost [127.0.0.1])
+	by ns3.miinetserver.com.ar (Postfix) with ESMTP id 871968B8D8
+	for <soporte@imaxcba.com.ar>; Sun, 29 Aug 2010 13:37:36 -0300 (ART)
+X-Virus-Scanned: Debian amavisd-new at ispconfig.miinet.com.ar
+Received: from ns3.miinetserver.com.ar ([127.0.0.1])
+	by localhost (ns3.miinetserver.com.ar [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id rLowccI9Rcyq for <soporte@imaxcba.com.ar>;
+	Sun, 29 Aug 2010 13:37:35 -0300 (ART)
+Received: from infovia.com.ar (unknown [190.175.0.242])
+	by ns3.miinetserver.com.ar (Postfix) with SMTP id 8334F8B8A3
+	for <soporte@imaxcba.com.ar>; Sun, 29 Aug 2010 13:37:34 -0300 (ART)
+From: "Negociacion Efectiva" <tecnego@infovia.com.ar>
+To: <soporte@imaxcba.com.ar>
+Subject: Tecnicas de Negociacion
+Sender: "Negociacion Efectiva" <tecnego@infovia.com.ar>
+Mime-Version: 1.0
+Content-Type: text/html; charset="ISO-8859-1"
+Date: Sun, 29 Aug 2010 13:41:13 -0300
+Content-Transfer-Encoding: 8bit
+Message-Id: <20100829163734.8334F8B8A3@ns3.miinetserver.com.ar>
+X-EsetId: 101E3C2F2FB776690F183C7B23E735
+
+<html xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:w="urn:schemas-microsoft-com:office:word"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=windows-1252">
+<meta name=ProgId content=Word.Document>
+<meta name=Generator content="Microsoft Word 9">
+<meta name=Originator content="Microsoft Word 9">
+<link rel=File-List href="./CURSO%20PROFESIONAL_archivos/filelist.xml">
+<title>CURSO PROFESIONAL: “NEGOCIADOR”</title>
+<!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:Author>AMI</o:Author>
+  <o:Template>Normal</o:Template>
+  <o:LastAuthor>AMI</o:LastAuthor>
+  <o:Revision>2</o:Revision>
+  <o:TotalTime>21</o:TotalTime>
+  <o:Created>2008-03-26T13:19:00Z</o:Created>
+  <o:LastSaved>2008-03-26T13:19:00Z</o:LastSaved>
+  <o:Pages>2</o:Pages>
+  <o:Words>203</o:Words>
+  <o:Characters>1160</o:Characters>
+  <o:Company>c</o:Company>
+  <o:Lines>9</o:Lines>
+  <o:Paragraphs>2</o:Paragraphs>
+  <o:CharactersWithSpaces>1424</o:CharactersWithSpaces>
+  <o:Version>9.2812</o:Version>
+ </o:DocumentProperties>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:HyphenationZone>21</w:HyphenationZone>
+ </w:WordDocument>
+</xml><![endif]-->
+<style>
+<!--
+ /* Font Definitions */
+@font-face
+	{font-family:Verdana;
+	panose-1:2 11 6 4 3 5 4 4 2 4;
+	mso-font-charset:0;
+	mso-generic-font-family:swiss;
+	mso-font-pitch:variable;
+	mso-font-signature:536871559 0 0 0 415 0;}
+ /* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-parent:"";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";}
+h1
+	{mso-style-next:Normal;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	page-break-after:avoid;
+	mso-outline-level:1;
+	font-size:12.0pt;
+	mso-bidi-font-size:10.0pt;
+	font-family:Verdana;
+	font-variant:small-caps;
+	color:#000055;
+	mso-font-kerning:0pt;}
+h2
+	{mso-style-next:Normal;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	page-break-after:avoid;
+	mso-outline-level:2;
+	font-size:12.0pt;
+	font-family:Verdana;}
+h3
+	{mso-style-next:Normal;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	page-break-after:avoid;
+	mso-outline-level:3;
+	font-size:11.0pt;
+	mso-bidi-font-size:12.0pt;
+	font-family:Verdana;
+	color:#000055;}
+h4
+	{mso-style-next:Normal;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	page-break-after:avoid;
+	mso-outline-level:4;
+	font-size:20.0pt;
+	mso-bidi-font-size:12.0pt;
+	font-family:"Times New Roman";
+	color:#003366;
+	font-weight:normal;}
+h5
+	{mso-style-next:Normal;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	page-break-after:avoid;
+	mso-outline-level:5;
+	font-size:18.0pt;
+	mso-bidi-font-size:10.0pt;
+	font-family:Verdana;
+	font-variant:small-caps;
+	color:#000055;}
+p.MsoBodyText, li.MsoBodyText, div.MsoBodyText
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:11.0pt;
+	mso-bidi-font-size:9.0pt;
+	font-family:Verdana;
+	mso-fareast-font-family:"Times New Roman";
+	mso-bidi-font-family:"Times New Roman";
+	color:#003366;
+	font-weight:bold;}
+a:link, span.MsoHyperlink
+	{color:blue;
+	text-decoration:underline;
+	text-underline:single;}
+a:visited, span.MsoHyperlinkFollowed
+	{color:purple;
+	text-decoration:underline;
+	text-underline:single;}
+@page Section1
+	{size:612.0pt 792.0pt;
+	margin:9.0pt 3.0cm 70.85pt 9.0pt;
+	mso-header-margin:35.4pt;
+	mso-footer-margin:35.4pt;
+	mso-paper-source:0;}
+div.Section1
+	{page:Section1;}
+-->
+</style>
+</head>
+
+<body lang=ES link=blue vlink=purple style='tab-interval:35.4pt'>
+
+<div class=Section1>
+
+<h4><b><span
+style='font-size:14.0pt;mso-bidi-font-size:12.0pt;color:windowtext'>TÉCNICAS
+DE NEGOCIACIÓN Y MOTIVACIÓN<o:p></o:p></span></b></h4>
+
+<p class=MsoNormal><b>(El contenido completo se entrega en un
+CD)<o:p></o:p></b></p>
+
+<p class=MsoNormal><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></p>
+
+<p class=MsoNormal><b><span
+style='font-size:10.0pt;mso-bidi-font-size:12.0pt;
+font-family:Verdana;color:#003366'>HABILIDADES EN LA COMUNICACIÓN PARA EL
+LOGRO
+DE UNA NEGOCIACIÓN EFECTIVA.<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><b><span
+style='font-size:10.0pt;mso-bidi-font-size:12.0pt;
+font-family:Verdana;color:#003366'><![if
+!supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></b></p>
+
+<p class=MsoNormal><b><span
+style='font-size:10.0pt;mso-bidi-font-size:12.0pt;
+font-family:Verdana;color:#003366'>COMPRENSIÓN ACERCA DE LOS DIFERENTES
+TIPOS,
+NIVELES Y ETAPAS DEL PROCESO DE NEGOCIACIÓN<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><b><span
+style='font-size:10.0pt;mso-bidi-font-size:12.0pt;
+font-family:Verdana;color:#003366'><![if
+!supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></b></p>
+
+<p class=MsoNormal><b><span
+style='font-size:10.0pt;mso-bidi-font-size:12.0pt;
+font-family:Verdana;color:#003366'>TÉCNICAS DE
+NEGOCIACIÓN<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><b><span
+style='font-size:10.0pt;mso-bidi-font-size:12.0pt;
+font-family:Verdana;color:#003366'><![if
+!supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></b></p>
+
+<p class=MsoNormal><b><span
+style='font-size:10.0pt;mso-bidi-font-size:12.0pt;
+font-family:Verdana;color:#003366'>PROCESO DE RESOLUCIÓN DE
+CONFLICTOS<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><b><span
+style='font-size:10.0pt;mso-bidi-font-size:12.0pt;
+font-family:Verdana;color:#003366'><![if
+!supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></b></p>
+
+<p class=MsoNormal><b><span
+style='font-size:10.0pt;mso-bidi-font-size:12.0pt;
+font-family:Verdana;color:#003366'>EL ARTE DE MANEJAR LAS CONVERSACIONES
+DIFÍCILES.<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><b><span
+style='font-size:10.0pt;mso-bidi-font-size:12.0pt;
+font-family:Verdana;color:#003366'><![if
+!supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></b></p>
+
+<p class=MsoNormal><b><span
+style='font-size:10.0pt;mso-bidi-font-size:12.0pt;
+font-family:Verdana;color:#003366'>NEGOCIAR DESDE EL
+MANDO<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><b><span
+style='font-size:10.0pt;mso-bidi-font-size:12.0pt;
+font-family:Verdana;color:#003366'><![if
+!supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></b></p>
+
+<p class=MsoNormal><b><span
+style='font-size:10.0pt;mso-bidi-font-size:12.0pt;
+font-family:Verdana;color:#003366'>EL LENGUAJE<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><b><span
+style='font-size:10.0pt;mso-bidi-font-size:12.0pt;
+font-family:Verdana;color:#003366'><![if
+!supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></b></p>
+
+<p class=MsoNormal><b><span
+style='font-size:10.0pt;mso-bidi-font-size:12.0pt;
+font-family:Verdana;color:#003366'>NEGOCIAR CON PERSONAS
+ABUSIVAS<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><b><span
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt;
+font-family:Verdana;color:#003366'><![if
+!supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></b></p>
+
+<p class=MsoNormal><b><span
+style='font-size:10.0pt;mso-bidi-font-size:12.0pt;
+font-family:Verdana;color:#003366'>REGLAS DE ORO EN
+NEGOCIACIONES<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><b><span
+style='font-size:10.0pt;mso-bidi-font-size:12.0pt;
+font-family:Verdana;color:#003366'><![if
+!supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></b></p>
+
+<p class=MsoNormal><b><span
+style='font-size:10.0pt;mso-bidi-font-size:12.0pt;
+font-family:Verdana;color:#003366'>HOJA DE RUTA PARA UN
+ACUERDO<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><b><span
+style='font-size:10.0pt;mso-bidi-font-size:12.0pt;
+font-family:Verdana;color:#003366'><![if
+!supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></b></p>
+
+<p class=MsoNormal><b><span
+style='font-size:10.0pt;mso-bidi-font-size:12.0pt;
+font-family:Verdana;color:#003366'>NEGOCIAR SIN ROMPER RELACIONES NI
+RENDIRSE<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><b><span
+style='font-size:10.0pt;mso-bidi-font-size:12.0pt;
+font-family:Verdana;color:#003366'><![if
+!supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></b></p>
+
+<p class=MsoNormal><b><span
+style='font-size:10.0pt;mso-bidi-font-size:12.0pt;
+font-family:Verdana;color:#003366'>FORMAS DE MANEJAR EL CONFLICTO EN UNA
+MESA
+NEGOCIADORA.<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><b><span
+style='font-size:10.0pt;mso-bidi-font-size:12.0pt;
+font-family:Verdana;color:#003366'><![if
+!supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></b></p>
+
+<p class=MsoNormal><b><span
+style='font-size:10.0pt;mso-bidi-font-size:12.0pt;
+font-family:Verdana;color:#003366'>GRUPOS DE TRABAJO: CÓMO NEGOCIAR LAS
+DISPUTAS INTERNAS.<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><b><span
+style='font-size:10.0pt;mso-bidi-font-size:12.0pt;
+font-family:Verdana;color:#003366'><![if
+!supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></b></p>
+
+<p class=MsoNormal><b><span
+style='font-size:10.0pt;mso-bidi-font-size:12.0pt;
+font-family:Verdana;color:#003366'>NEGOCIAR LA DELEGACIÓN DE
+TAREAS.<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><b><span
+style='font-size:10.0pt;mso-bidi-font-size:12.0pt;
+font-family:Verdana;color:#003366'><![if
+!supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></b></p>
+
+<p class=MsoNormal><b><span
+style='font-size:10.0pt;mso-bidi-font-size:12.0pt;
+font-family:Verdana;color:#003366'>LOS JUEGOS DE PODER EN UNA
+NEGOCIACIÓN<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><b><span
+style='font-size:10.0pt;mso-bidi-font-size:12.0pt;
+font-family:Verdana;color:#003366'><![if
+!supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></b></p>
+
+<p class=MsoNormal><b><span
+style='font-size:10.0pt;mso-bidi-font-size:12.0pt;
+font-family:Verdana;color:#003366'>NEGOCIACIÓN Y EL CONFLICTO: CÓMO
+DETECTARLO.<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><b><span
+style='font-size:10.0pt;mso-bidi-font-size:12.0pt;
+font-family:Verdana;color:#003366'><![if
+!supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></b></p>
+
+<p class=MsoNormal><b><span
+style='font-size:10.0pt;mso-bidi-font-size:12.0pt;
+font-family:Verdana;color:#003366'>CÓMO NEGOCIAR A PARTIR DEL
+CAOS.<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><b><span
+style='font-size:10.0pt;mso-bidi-font-size:12.0pt;
+font-family:Verdana;color:#003366'><![if
+!supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></b></p>
+
+<p class=MsoNormal><b><span
+style='font-size:10.0pt;mso-bidi-font-size:12.0pt;
+font-family:Verdana;color:#003366'>INTERLOCUTOR
+DIFÍCIL...<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><b><span
+style='font-size:10.0pt;mso-bidi-font-size:12.0pt;
+font-family:Verdana;color:#003366'><![if
+!supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></b></p>
+
+<p class=MsoNormal><b><span
+style='font-size:10.0pt;mso-bidi-font-size:12.0pt;
+font-family:Verdana;color:#003366'>ESCUCHA ACTIVA<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><b><span
+style='font-size:10.0pt;mso-bidi-font-size:12.0pt;
+font-family:Verdana;color:#003366'><![if
+!supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></b></p>
+
+<p class=MsoNormal><b><span
+style='font-size:10.0pt;mso-bidi-font-size:12.0pt;
+font-family:Verdana;color:#003366'>EL ESTILO DE NEGOCIACIÓN
+JAPONÉS<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><b><span
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt;
+font-family:Verdana;color:#003366'><![if
+!supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></b></p>
+
+<p class=MsoNormal><b><span
+style='font-size:10.0pt;mso-bidi-font-size:12.0pt;
+font-family:Verdana;color:#003366'>NEGOCIANDO UN
+CONTRATO<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><b><span
+style='font-size:10.0pt;mso-bidi-font-size:12.0pt;
+font-family:Verdana;color:#003366'><![if
+!supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></b></p>
+
+<p class=MsoNormal><b><span
+style='font-size:10.0pt;mso-bidi-font-size:12.0pt;
+font-family:Verdana;color:#003366'>10 PUNTOS NO
+NEGOCIABLES<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><b><span
+style='font-size:10.0pt;mso-bidi-font-size:12.0pt;
+font-family:Verdana;color:#003366'><![if
+!supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></b></p>
+
+<p class=MsoNormal><b><span
+style='font-size:10.0pt;mso-bidi-font-size:12.0pt;
+font-family:Verdana;color:#003366'>LA INTELIGENCIA EMOCIONAL Y EL
+NEGOCIADOR<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><b><span
+style='font-size:10.0pt;mso-bidi-font-size:12.0pt;
+font-family:Verdana;color:#003366'><![if
+!supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></b></p>
+
+<p class=MsoBodyText>La Negociación. <br>
+El Arbitraje.<br>
+La Mediación</p>
+
+<p class=MsoBodyText><![if
+!supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></p>
+
+<p class=MsoBodyText><![if
+!supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></p>
+
+<p class=MsoNormal><b><span
+style='font-size:10.0pt;mso-bidi-font-size:12.0pt;
+font-family:Verdana;color:#003366'><![if
+!supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></b></p>
+
+<p class=MsoNormal><b><span style='font-size:10.0pt;font-family:Verdana;
+color:#000055;text-transform:uppercase'>Y muchos temas mas.
+<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><b><span style='font-size:10.0pt;font-family:Verdana;
+color:#000055;text-transform:uppercase'><![if
+!supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></b></p>
+
+<p class=MsoNormal><b><span
+style='font-size:11.0pt;mso-bidi-font-size:10.0pt;
+font-family:Verdana;color:blue;text-transform:uppercase'>El contenido
+completo
+se entrega en un CD.<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><b><span
+style='font-size:11.0pt;mso-bidi-font-size:10.0pt;
+font-family:Verdana;color:blue;text-transform:uppercase'><![if
+!supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></b></p>
+
+<h5><span
+style='font-size:14.0pt;mso-bidi-font-size:10.0pt;font-variant:normal;
+text-transform:uppercase'>Costo total del curso completo:
+$150<o:p></o:p></span></h5>
+
+<p class=MsoNormal><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></p>
+
+<p class=MsoNormal><b><span style='mso-bidi-font-size:10.0pt;color:#000055;
+text-transform:uppercase'>Solicitelo enviando un mail a:<span
+style="mso-spacerun: yes">  </span></span></b><b><u><span style='font-size:
+16.0pt;mso-bidi-font-size:10.0pt;font-family:Verdana;
+mso-bidi-font-family:Arial;
+color:#000055;text-transform:uppercase'><a
+href="mailto:cursonegociador@hotmail.com">cursonegociador@hotmail.com</a>
+</span></u></b><b><span
+style='mso-bidi-font-size:10.0pt;color:#000055;text-transform:uppercase'>
+<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><b><span style='mso-bidi-font-size:10.0pt;color:#000055;
+text-transform:uppercase'><![if
+!supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></b></p>
+
+<p class=MsoNormal><b><span
+style='mso-bidi-font-size:10.0pt;font-family:Verdana;
+color:#000055;text-transform:uppercase'>Con los siguientes
+datos:<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><b><span
+style='font-size:11.0pt;mso-bidi-font-size:10.0pt;
+font-family:Verdana;color:#000055;text-transform:uppercase'>NOMBRE:<o:p>
+</o:p></span></b></p>
+
+<p class=MsoNormal><b><span
+style='font-size:11.0pt;mso-bidi-font-size:10.0pt;
+font-family:Verdana;color:#000055;text-transform:uppercase'>DOMICILIO:<o:p>
+</o:p></span></b></p>
+
+<p class=MsoNormal><b><span
+style='font-size:11.0pt;mso-bidi-font-size:10.0pt;
+font-family:Verdana;color:#000055;text-transform:uppercase'>LOCALIDAD:<o:p>
+</o:p></span></b></p>
+
+<p class=MsoNormal><b><span
+style='font-size:11.0pt;mso-bidi-font-size:10.0pt;
+font-family:Verdana;color:#000055;text-transform:uppercase'>CODIGO
+POSTAL:<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><b><span
+style='font-size:11.0pt;mso-bidi-font-size:10.0pt;
+font-family:Verdana;color:#000055;text-transform:uppercase'>HORARIO EN QUE
+PREFIERE RECIBIR EL CD:<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><b><span
+style='font-size:11.0pt;mso-bidi-font-size:10.0pt;
+font-family:Verdana;color:#000055;text-transform:uppercase'>SE LO ENVIAMOS
+POR
+CORREO ARGENTINO. LO ABONA AL RECIBIRLO.<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><b><span style='font-size:10.0pt;font-family:Verdana;
+color:#000055;text-transform:uppercase'><![if
+!supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></b></p>
+
+<p class=MsoNormal><span style='color:navy'><![if
+!supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></p>
+
+</div>
+
+<BR>
+<BR>
+__________ Información de ESET NOD32 Antivirus, versión de la base de firmas de virus 5404 (20100828) __________<BR>
+<BR>
+ESET NOD32 Antivirus ha comprobado este mensaje.<BR>
+<BR>
+<A HREF="http://www.eset.com">http://www.eset.com</A><BR>
+
+
+</body>
+
+</html>

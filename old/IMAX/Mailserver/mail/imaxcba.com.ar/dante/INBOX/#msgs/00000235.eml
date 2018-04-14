@@ -1,0 +1,72 @@
+Return-Path: <bounce@flixster.com>
+X-Spam-Status: No, hits=1.5 required=5.0
+	tests=HTML_IMAGE_ONLY_16: 0.627,HTML_MESSAGE: 0.001,HTML_SHORT_LINK_IMG_2: 0.951,
+	MIME_HTML_ONLY: 0.001,TOTAL_SCORE: 1.580
+X-Spam-Level: *
+Return-Path: <bounce@flixster.com>
+Delivered-To: dantemerlo@imaxcba.com.ar
+Received: from localhost (localhost [127.0.0.1])
+	by ispconfig.miinet.com.ar (Postfix) with ESMTP id CE4B28ACAC
+	for <soporte@imaxcba.com.ar>; Tue, 17 Aug 2010 16:38:15 -0300 (ART)
+X-Virus-Scanned: Debian amavisd-new at ispconfig.miinet.com.ar
+Received: from ispconfig.miinet.com.ar ([127.0.0.1])
+	by localhost (ispconfig.miinet.com.ar [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id qutFsAdHUGCK for <soporte@imaxcba.com.ar>;
+	Tue, 17 Aug 2010 16:38:11 -0300 (ART)
+Received: from mail4.flixster.com (mail4.flixster.com [209.237.233.44])
+	by ispconfig.miinet.com.ar (Postfix) with ESMTP id A4F678AC91
+	for <soporte@imaxcba.com.ar>; Tue, 17 Aug 2010 16:38:10 -0300 (ART)
+Received: from mail4.flixster.com (localhost.localdomain [127.0.0.1])
+	by mail4.flixster.com (Postfix) with ESMTP id 4ACE2BF000A
+	for <soporte@imaxcba.com.ar>; Tue, 17 Aug 2010 12:38:08 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; d=flixster.com; h=message-id
+	:from:sender:to:subject:mime-version:content-type
+	:content-transfer-encoding:list-unsubscribe:date; s=f512; bh=+y4
+	0LjSH/wElbc/KUOlyuIxhWpI=; b=YS93flSJkozE3hQVR0v5QtH1tm3cJazHTxd
+	ftbnVLvDkl6es51gWO9AD3BBSd+hkQR6RjUDXE3zUbV8AZCXVyg==
+DomainKey-Signature: a=rsa-sha1; c=nofws; d=flixster.com; h=message-id
+	:from:sender:to:subject:mime-version:content-type
+	:content-transfer-encoding:list-unsubscribe:date; q=dns; s=f512; b=
+	FCFQUhRVdgRuMus7JbP5z1ICyeWH0m8I0SvH7K7t3YlHn4+wp3Hcu6IVWVhxeU+8
+	WTZnREkRwi5sWJsHBesOBg==
+Received: from job31.flixster.com (job31.flixster.com [10.0.35.31])
+	by mail4.flixster.com (Postfix) with ESMTP id 48147BF0001
+	for <soporte@imaxcba.com.ar>; Tue, 17 Aug 2010 12:38:08 -0700 (PDT)
+Message-ID: <886148191.1282073888303.JavaMail.www@job31.flixster.com>
+From: Oscar Oscar <invites@flixster.com>
+Sender: Oscar Oscar <invites@flixster.com>
+To: soporte@imaxcba.com.ar
+Subject: Soporte@imaxcba.com.ar: Oscar Oscar has sent you private message
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+List-Unsubscribe: http://www.flixster.com/DoNotSend.jsp?e=soporte%40imaxcba.com.ar&ty=INV
+Date: Tue, 17 Aug 2010 12:38:08 -0700 (PDT)
+X-EsetId: 101E3C2F2FB776690F183C7B22E335
+
+<html> <body bgcolor=3D"#FFFFFF" text=3D"#000000" topmargin=3D"0" leftmargi=
+n=3D"0" marginwidth=3D"0" marginheight=3D"0"> <a href=3D"http://www.flixste=
+r.com/iphone/install?lsrc=3Diph-flx-email"><img src=3D"http://www.flixster.=
+com/servlet/pixel?em.id=3D2338699768" border=3D"0" /></a> <div style=3D"pad=
+ding-left: 20px; padding-top: 20px;"> <font face=3D"Verdana, Arial, Helveti=
+ca, sans-serif" size=3D"2"> <a href=3D"http://www.flixster.com/invite/86206=
+9179zxdA2174971194BC?em.id=3D2338699768#c=3Dactivities&m=3Demail&s=3Dinvita=
+tion">http://www.flixster.com/user/yarce205/connect</a><br /><br /> Oscar O=
+ </font> <br /><br /> <hr size=3D"1" width=3D"100%" /> <font face=3D"Verdan=
+a, Arial, Helvetica, sans-serif" size=3D"1">This note was sent via Flixster=
+ by Oscar Oscar to soporte@imaxcba.com.ar. If you prefer not to receive ema=
+ils like this, <a href=3D"http://www.flixster.com/DoNotSend.jsp?ty=3DINV&e=
+=3Dsoporte@imaxcba.com.ar">tell us here</a>.</font> <br /><font face=3D"Ver=
+dana, Arial, Helvetica, sans-serif" size=3D"1">Or you can notify us in writ=
+ing to this address: Flixster, PO Box 40577, San Francisco, CA 94110</font>=
+ </div> <BR>
+<BR>
+__________ Informaci=F3n de ESET NOD32 Antivirus, versi=F3n de la base de f=
+irmas de virus 5374 (20100817) __________<BR>
+<BR>
+ESET NOD32 Antivirus ha comprobado este mensaje.<BR>
+<BR>
+<A HREF=3D"http://www.eset.com">http://www.eset.com</A><BR>
+
+
+</body> </html> <!-- email generated successfully -->

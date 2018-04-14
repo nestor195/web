@@ -1,0 +1,14 @@
+Subject: 
+Date: Fri, 9 Apr 2010 13:36:33 -0300
+Content-Type: text/vcard; charset="utf-8"
+Content-Transfer-Encoding: 8bit
+
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//kerio.com/Contacts//NONSGML v1.0//EN
+X-FILE-AS:e-Vulcano
+CLASS:PUBLIC
+ORG:e-Vulcano;
+TITLE:Ventas
+EMAIL;TYPE=PREF,HOME:diego@e-vulcano.com.ar
+END:VCARD

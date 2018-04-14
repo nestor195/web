@@ -1,0 +1,28 @@
+﻿p {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: medium;
+	font-weight: normal;
+	font-style: normal;
+	font-variant: normal;
+}
+.Titulo {
+	font-family: Arial;
+	font-size: large;
+	font-weight: bold;
+}
+.Oculto {
+	visibility: hidden;
+}
+table {
+	border: medium double #000000;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: medium;
+	line-height: normal;
+	vertical-align: super;
+	text-align: left;
+	table-layout: auto;
+	border-collapse: separate;
+	border-spacing: inherit;
+	empty-cells: hide;
+	caption-side: bottom;
+}

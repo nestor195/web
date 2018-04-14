@@ -1,0 +1,325 @@
+Return-Path: <restotd@arnet.com>
+X-Spam-Status: No, hits=3.4 required=5.0
+	tests=FRONTPAGE: 0.809,HTML_FONT_BIG: 0.256,HTML_MESSAGE: 0.001,
+	MIME_HTML_ONLY: 0.001,MSGID_FROM_MTA_ID: 0.927,ROUND_THE_WORLD_LOCAL: 1.429,
+	TOTAL_SCORE: 3.423
+X-Spam-Level: ***
+Return-Path: <restotd@arnet.com>
+Delivered-To: dantemerlo@imaxcba.com.ar
+Received: from localhost (localhost [127.0.0.1])
+	by ispconfig.miinet.com.ar (Postfix) with ESMTP id 626CA8B20E
+	for <soporte@imaxcba.com.ar>; Thu, 12 Aug 2010 23:06:33 -0300 (ART)
+X-Virus-Scanned: Debian amavisd-new at ispconfig.miinet.com.ar
+Received: from ispconfig.miinet.com.ar ([127.0.0.1])
+	by localhost (ispconfig.miinet.com.ar [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id xNRhgOurVYPO for <soporte@imaxcba.com.ar>;
+	Thu, 12 Aug 2010 23:06:32 -0300 (ART)
+Received: from arnet.com (unknown [186.137.158.65])
+	by ispconfig.miinet.com.ar (Postfix) with SMTP id 8B1258B20C
+	for <soporte@imaxcba.com.ar>; Thu, 12 Aug 2010 23:06:28 -0300 (ART)
+From: "Cursos" <restotd@arnet.com>
+To: <soporte@imaxcba.com.ar>
+Subject: Recursos para restaurantes
+Sender: "Cursos" <restotd@arnet.com>
+Mime-Version: 1.0
+Content-Type: text/html; charset="ISO-8859-1"
+Date: Thu, 12 Aug 2010 23:06:20 -0300
+Reply-To: "Cursos" <temkting@gmail.com>
+Content-Transfer-Encoding: 8bit
+Message-Id: <20100813020629.8B1258B20C@ispconfig.miinet.com.ar>
+X-EsetId: 101E3C2F2FB776690F183C7B22E63B
+
+<html xmlns="http://www.w3.org/TR/REC-html40"
+xmlns:w="urn:schemas-microsoft-com:office:word"
+xmlns:o="urn:schemas-microsoft-com:office:office"><head><!-- saved from
+url=(0022)http://internet.e-mail -->
+
+
+
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<meta name="ProgId" content="FrontPage.Editor.Document">
+<meta name="Generator" content="Microsoft FrontPage 4.0">
+<meta name="Originator" content="Microsoft Word 9">
+<link rel="File-List"
+href="file:///C:/Documents%20and%20Settings/Administrador/Configuraci%C3%B3n
+%20local/Archivos%20temporales%20de%20Internet/Content.IE5/FUZWA80Y/GESTION%
+20EN%20RESTAURANTES_archivos/filelist.xml">
+<title>GESTION EN RESTAURANTES</title>
+<!--[if gte mso 9]><xml>
+
+ <o:DocumentProperties>
+
+  <o:Author>129.12.123.78</o:Author>
+
+  <o:Template>Normal</o:Template>
+
+  <o:LastAuthor>129.12.123.78</o:LastAuthor>
+
+  <o:Revision>2</o:Revision>
+
+  <o:TotalTime>11</o:TotalTime>
+
+  <o:Created>2009-10-22T12:04:00Z</o:Created>
+
+  <o:LastSaved>2009-10-22T12:04:00Z</o:LastSaved>
+
+  <o:Pages>2</o:Pages>
+
+  <o:Words>272</o:Words>
+
+  <o:Characters>1555</o:Characters>
+
+  <o:Lines>12</o:Lines>
+
+  <o:Paragraphs>3</o:Paragraphs>
+
+  <o:CharactersWithSpaces>1909</o:CharactersWithSpaces>
+
+  <o:Version>9.2812</o:Version>
+
+ </o:DocumentProperties>
+
+</xml><![endif]--><!--[if gte mso 9]><xml>
+
+ <w:WordDocument>
+
+  <w:HyphenationZone>21</w:HyphenationZone>
+
+ </w:WordDocument>
+
+</xml><![endif]-->
+<style>
+<!--
+ /* Font Definitions */
+@font-face
+	{font-family:"Arial Unicode MS";
+	mso-font-alt:Tahoma;
+	mso-font-charset:128;
+	mso-generic-font-family:swiss;
+	mso-font-pitch:variable;
+	mso-font-signature:-1 -369098753 63 0 4129279 0;}
+@font-face
+	{font-family:"\@Arial Unicode MS";
+	mso-font-charset:128;
+	mso-generic-font-family:swiss;
+	mso-font-pitch:variable;
+	mso-font-signature:-1 -369098753 63 0 4129279 0;}
+ /* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-parent:"";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";}
+h1
+	{mso-style-next:Normal;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	page-break-after:avoid;
+	mso-outline-level:1;
+	font-size:18.0pt;
+	mso-bidi-font-size:12.0pt;
+	font-family:"Times New Roman";
+	color:blue;
+	mso-font-kerning:0pt;
+	font-weight:bold;}
+h2
+	{mso-style-next:Normal;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	page-break-after:avoid;
+	mso-outline-level:2;
+	font-size:14.0pt;
+	mso-bidi-font-size:12.0pt;
+	font-family:"Times New Roman";
+	font-weight:bold;}
+a:link, span.MsoHyperlink
+	{color:blue;
+	text-decoration:underline;
+	text-underline:single;}
+a:visited, span.MsoHyperlinkFollowed
+	{color:purple;
+	text-decoration:underline;
+	text-underline:single;}
+p
+	{margin-right:0cm;
+	mso-margin-top-alt:auto;
+	mso-margin-bottom-alt:auto;
+	margin-left:0cm;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";}
+@page Section1
+	{size:612.0pt 792.0pt;
+	margin:9.0pt 3.0cm 70.85pt 9.0pt;
+	mso-header-margin:35.4pt;
+	mso-footer-margin:35.4pt;
+	mso-paper-source:0;}
+div.Section1
+	{page:Section1;}
+-->
+</style>
+</head><body vlink="purple" lang="ES" link="blue">
+
+<div class="Section1">
+
+<h1>GESTION EN RESTAURANTES</h1>
+
+<h2>Capacitacion y Recursos para Gastronomia en un CD</h2>
+
+<p class="MsoNormal"><b><span style="font-size: 14pt;"><!--[if
+!supportEmptyParas]-->&nbsp;<!--[endif]--><o:p></o:p></span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size: 14pt;">Contenido
+del CD:<o:p></o:p></span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size: 14pt;"><!--[if
+!supportEmptyParas]-->&nbsp;<!--[endif]--><o:p></o:p></span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:
+14pt;">Capacitacion:<o:p></o:p></span></b></p>
+
+<p class="MsoNormal"><span style="" lang="ES-TRAD">Descripcion
+de puestos en hoteles, restaurantes y bares<o:p></o:p></span></p>
+
+<p class="MsoNormal"><span style="" lang="ES-TRAD">Liquidacion
+de sueldos y Jornales<o:p></o:p></span></p>
+
+<p class="MsoNormal">Armado de un restaurante</p>
+
+<p class="MsoNormal">Manual operativo de un restaurante</p>
+
+<p class="MsoNormal">Administracion</p>
+
+<p class="MsoNormal">Requerimientos energéticos generales</p>
+
+<p class="MsoNormal">Estructura de cocina</p>
+
+<p class="MsoNormal">Estructura<span style="">&nbsp; </span>y
+decoración </p>
+
+<p class="MsoNormal">Equipos y muebles generales </p>
+
+<p class="MsoNormal">Organizacion de eventos</p>
+
+<p class="MsoNormal">Catering</p>
+
+<p class="MsoNormal">Iluminación</p>
+
+<p class="MsoNormal">Concepto de<span style="">&nbsp;
+</span>Administración del Personal</p>
+
+<p class="MsoNormal">Alimentos Y Bebidas</p>
+
+<p class="MsoNormal">Funciones Del Personal</p>
+
+<p class="MsoNormal">Entrevista Y Selección De Solicitantes</p>
+
+<p class="MsoNormal">Verificación De Referencias</p>
+
+<p class="MsoNormal">Programas De Capacitación</p>
+
+<p class="MsoNormal">Riesgos ligados a las condiciones de seguridad</p>
+
+<p style="margin: 0cm 0cm 0.0001pt;">Riesgos ligados al medio ambiente
+de trabajo</p>
+
+<p class="MsoNormal">Sistemas elementales de control de riesgos</p>
+
+<p class="MsoNormal">Manual de Seguridad e Higiene en Hotelería y
+Gastronomía</p>
+
+<p class="MsoNormal">Figuras y elementos integrantes de la prevención de
+Riesgos</p>
+
+<p class="MsoNormal">Contexto de seguridad e higiene para la actividad
+hotelera y
+gastronómico</p>
+
+<p class="MsoNormal">Metodología de análisis de riesgos</p>
+
+<p style="margin: 0cm 0cm 0.0001pt;">Ingles. Terminos Mas Utilizados con
+el turismo</p>
+
+<p class="MsoNormal"><b><span style="font-size: 14pt;"><!--[if
+!supportEmptyParas]-->&nbsp;<!--[endif]--><o:p></o:p></span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size: 14pt;">Recursos
+Y Utilidades<o:p></o:p></span></b></p>
+
+<p><b><span style="font-family: Arial;">Programa de
+gestion de restaurantes,en castellano</span></b><b><span style="font-size:
+10pt; font-family: Arial;"> </span></b><span style="font-size: 10pt;
+font-family: Arial;"><br>
+</span><span style="">Organiza mesas, clientes,
+camareros, stock , proveedores, facturacion, impuestos, formas de pago,
+descuentos, ofertas, etc</span></p>
+
+<p class="MsoNormal"><b><span style="">Planillas
+ejecutables en Excel para:<o:p></o:p></span></b></p>
+
+<p class="MsoNormal"><span style="">Ordenes de Pedido<br>
+Control de Stock<br>
+Facturacion<br>
+Control de almacen(con fecha de vencimientos de productos)<br>
+Liquidacion de sueldos<br>
+Recibos<br>
+distribucion horas trabajadas<br>
+Gestion de vacaciones<o:p></o:p></span></p>
+
+<p class="MsoNormal"><span style="">Lista de asistencia
+para empleados<br>
+Horas trabajadas<br>
+Ocupación de los empleados<br>
+Caja Diaria<o:p></o:p></span></p>
+
+<p class="MsoNormal"><b><!--[if
+!supportEmptyParas]-->&nbsp;<!--[endif]--><o:p></o:p></b></p>
+
+<p class="MsoNormal"><b><!--[if
+!supportEmptyParas]-->&nbsp;<!--[endif]--><o:p></o:p></b></p>
+
+<h2><span style="font-size: 20pt;">Costo total del
+CD: $150 con envio gratis a todo el pais</span><span style="font-size:
+20pt;"><o:p></o:p></span></h2>
+
+<p class="MsoNormal"><b><span style="font-size: 14pt;">Solicíte
+el CD con el curso completo a</span>:</b><b><span style="font-size: 10pt;
+font-family: Arial;"> </span></b><b><a
+href="mailto:gesturismo@gmail.com"><span style="font-size: 20pt;
+font-family: Arial">gesturismo@gmail.com</span></a></b><b><span
+style="font-size: 16pt; font-family: Arial;"><o:p></o:p></span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size: 10pt; font-family:
+Arial;">&nbsp;<o:p></o:p></span></b></p>
+
+<p class="MsoNormal"><b>&nbsp;<o:p></o:p></b></p>
+
+<p class="MsoNormal">&nbsp;<span style="font-size: 14pt;">Indicando
+su nombre, domicilio, localidad y código postal. Envío por cadete a capital
+Federal, Por correo argentino pago contra reembolso. En ambos casos el
+envío es
+gratis.<o:p></o:p></span></p>
+
+<p class="MsoNormal">&nbsp;</p>
+
+<p class="MsoNormal"><b><!--[if
+!supportEmptyParas]-->&nbsp;<!--[endif]--><o:p></o:p></b></p>
+
+</div>
+
+<BR>
+<BR>
+__________ Información de ESET NOD32 Antivirus, versión de la base de firmas de virus 5361 (20100812) __________<BR>
+<BR>
+ESET NOD32 Antivirus ha comprobado este mensaje.<BR>
+<BR>
+<A HREF="http://www.eset.com">http://www.eset.com</A><BR>
+
+
+</body></html>

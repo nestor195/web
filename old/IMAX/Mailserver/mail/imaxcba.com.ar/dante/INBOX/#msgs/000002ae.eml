@@ -1,0 +1,214 @@
+Return-Path: <noreply@badoo.com>
+X-Spam-Status: No, hits=1.0 required=5.0
+	tests=AWL: -0.648,HTML_FONT_BIG: 0.256,HTML_MESSAGE: 0.001,
+	ROUND_THE_WORLD_LOCAL: 1.429,TOTAL_SCORE: 1.038
+X-Spam-Level: *
+Return-Path: <noreply@badoo.com>
+Delivered-To: dantemerlo@imaxcba.com.ar
+Received: from localhost (localhost [127.0.0.1])
+	by ns3.miinetserver.com.ar (Postfix) with ESMTP id CE9848B837
+	for <soporte@imaxcba.com.ar>; Mon, 30 Aug 2010 05:41:07 -0300 (ART)
+X-Virus-Scanned: Debian amavisd-new at ispconfig.miinet.com.ar
+Received: from ns3.miinetserver.com.ar ([127.0.0.1])
+	by localhost (ns3.miinetserver.com.ar [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 1gvL6j9t2FiM for <soporte@imaxcba.com.ar>;
+	Mon, 30 Aug 2010 05:41:06 -0300 (ART)
+Received: from cluster6.monopost.com (cluster6.monopost.com [66.175.123.137])
+	by ns3.miinetserver.com.ar (Postfix) with ESMTP id BEF5E8B7A7
+	for <soporte@imaxcba.com.ar>; Mon, 30 Aug 2010 05:41:05 -0300 (ART)
+X-ExtFilter: Niversoft's DomainKeys Helper
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws;
+	d=badoo.com; s=m23uiy45;
+	h=Date:To:MIME-Version:X-campaignid:List-Unsubscribe:Content-Type:
+	From:Reply-to:Return-Path:Subject:Message-ID;
+	b=r+ni+zcm5dIGxfSWfuwAVnUPwGOBZdVNzzyIMXN8KNDngPaXV96nML3xAEDejbfpV8
+	q6MJkj4IvPLJGDBh3+keBIqZMDDPrQk69l7pcjt7hAuSTk+PdqFnoBx5JFi1cooiBN3q
+	d3eCCSrDNAnB/rSnBcUIg7YvYvOIhYs77zZYI=
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+	d=badoo.com; s=m23uiy45; l=9152; t=1283157664; x=1283762464;
+	q=dns/txt; h=Date:To:MIME-Version:X-campaignid:List-Unsubscribe:
+	Content-Type:From:Reply-to:Subject:Message-ID; bh=N664nUTtAxZsns
+	4aGU+AIqOTdhOuGBmHN9TxVF6c8wU=; b=ITy+DoTdITkU1tHDp9gI14vXYYv6vK
+	HRTxZbq+8vV2XzmHJrictEwCAda+Z7vw10SgZxGXr8/A92ZJmGUo1zSIYOw9iC5X
+	9ze8YRefydJwpyVJzBJW7Xz5ExLm47vodFla5EVNfCJd1Sj/1Ypnn6oYzdZEpWAM
+	KRL58Ie3PEWSk=
+Received: from scripts23.ulan ([10.20.55.24] verified)
+  by cluster6.monopost.com (CommuniGate Pro SMTP 5.2.10)
+  with SMTP id 130364243 for soporte@imaxcba.com.ar; Mon, 30 Aug 2010 08:41:04 +0000
+Received: by scripts23.ulan (sSMTP sendmail emulation); Mon, 30 Aug 2010 08:41:04 +0000
+Date: Mon, 30 Aug 2010 08:41:04 +0000
+To: soporte@imaxcba.com.ar
+MIME-Version: 1.0
+X-campaignid: skytiz 007.21.1.300810084053
+List-Unsubscribe: <http://us1.badoo.com/impersonation.phtml?lang_id=7&mail_code=21&email=soporte%40imaxcba.com.ar&secret=&action=block_by_mail_code&invite_id=388678&user_id=1086156610>
+Content-Type: multipart/alternative;
+	boundary="=_29f39b44efd83f5f7326e4f79b4b207e"
+From: Badoo <noreply@badoo.com>
+Reply-to: gaston-polaco@hotmail.com
+Subject: =?UTF-8?B?wqFnYXN0b24gdGUgaGEgZGVqYWRvIHVuIG1lbnNhamUgZW4gQmFkb28h?=
+Message-ID: <auto-000130364243@cluster6.monopost.com>
+X-EsetId: 101E3C2F2FB776690F183C7B23E735
+
+--=_29f39b44efd83f5f7326e4f79b4b207e
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+=C2=A1Tienes un nuevo mensaje en Badoo!
+
+gaston te dej=C3=B3 un mensaje.
+Haz click en este enlace para verlo:
+http://us1.badoo.com/01086156610/in/oDklE2X-ym0/?lang_id=3D7
+
+M=C3=A1s gente que tambi=C3=A9n te est=C3=A1 esperando:=0ABruno (C=C3=B3rdo=
+ba, Argentina)=0AMar=C3=ADa Bel=C3=A9n (C=C3=B3rdoba, Argentina)=0AGerardo =
+(C=C3=B3rdoba, Argentina)=0AGaston (Buenos Aires, Argentina)=0AMatias (C=C3=
+=B3rdoba, Argentina)=0A... =C2=BFQui=C3=A9n m=C3=A1s?=0Ahttp://us1.badoo.co=
+m/01086156610/in/oDklE2X-ym0/?lang_id=3D7
+
+Si al hacer click sobre el enlace, no funciona, copia y pega la direcci=C3=
+=B3n en tu barra del navegador.
+
+Este email es parte del procedimiento para que leas los mensajes de gaston.=
+ Si has recibido este email por equivocaci=C3=B3n, por favor, ign=C3=B3ralo=
+. Tras un corto periodo de tiempo el mensaje sera eliminado del sistema.
+
+=C2=A1Divi=C3=A9rtete!
+El Equipo de Badoo
+
+
+Has recibido este email porque un usuario de Badoo te ha dejado un mensaje =
+en Badoo. Este mensaje es autom=C3=A1tico. Las respuestas a este mensaje no=
+ estan controladas y no ser=C3=A1n contestadas. Si no quieres recibir m=C3=
+=A1s mensajes de Badoo, h=C3=A1znoslo saber:
+http://us1.badoo.com/impersonation.phtml?lang_id=3D7&mail_code=3D21&email=
+=3Dsoporte%40imaxcba.com.ar&secret=3D&invite_id=3D388678&user_id=3D10861566=
+10
+
+
+__________ Informaci=F3n de ESET NOD32 Antivirus, versi=F3n de la base de f=
+irmas de virus 5404 (20100828) __________
+
+ESET NOD32 Antivirus ha comprobado este mensaje.
+
+http://www.eset.com
+
+
+--=_29f39b44efd83f5f7326e4f79b4b207e
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.=
+w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">=0A<html xmlns=3D"http://www.=
+w3.org/1999/xhtml">=0A<head><meta http-equiv=3D"content-type" content=3D"te=
+xt/html; charset=3DUTF-8" />=0A=0A=0A<title>=C2=A1Tienes un mensaje nuevo e=
+n Badoo!</title>=0A</head>=0A<body>=0A<div style=3D"max-width: 800px; margi=
+n: 0; padding: 30px 0;">=0A<table width=3D"80%" border=3D"0" cellpadding=3D=
+"0" cellspacing=3D"0">=0A<tr>=0A<td width=3D"10%"></td>=0A<td align=3D"left=
+" width=3D"90%" style=3D"font: 13px/18px Arial, sans-serif;">=0A<div style=
+=3D"color: #666; padding: 0 0 20px; font-size: 13px/18px; line-height: 18px=
+;">See this email in <a href=3D"http://us1.badoo.com/01086156610/in/oDklE2X=
+-ym0/?lang_id=3D3" style=3D"color: #3366cc;">English</a>, <a href=3D"http:/=
+/us1.badoo.com/01086156610/in/oDklE2X-ym0/?lang_id=3D5" style=3D"color: #33=
+66cc;">Deutsch</a>, <a href=3D"http://us1.badoo.com/01086156610/in/oDklE2X-=
+ym0/?lang_id=3D6" style=3D"color: #3366cc;">Fran=C3=A7ais</a>, <a href=3D"h=
+ttp://us1.badoo.com/01086156610/in/oDklE2X-ym0/?lang_id=3D8" style=3D"color=
+: #3366cc;">Italiano</a>, <a href=3D"http://us1.badoo.com/01086156610/in/oD=
+klE2X-ym0/?lang_id=3D61" style=3D"color: #3366cc;">Portugu=C3=AAs</a> or <a=
+ href=3D"http://us1.badoo.com/01086156610/in/oDklE2X-ym0/?lang_id=3D7" styl=
+e=3D"color: #3366cc;">13 other languages</a>.</div>=0A<h2 style=3D"font: no=
+rmal 24px/27px Arial, sans-serif; margin: 0; padding: 0 0 18px; color: blac=
+k;">=C2=A1Tienes un mensaje nuevo en Badoo!</h2>=0A<br />=0A<table style=3D=
+"border-collapse: collapse;" cellpadding=3D"0" cellspacing=3D"0">=0A<tr>=0A=
+<td style=3D"padding-right: 22px;"><a href=3D"http://us1.badoo.com/01086156=
+610/in/oDklE2X-ym0/?lang_id=3D7"><img src=3D"http://images.badoo.com/2231/-=
+/-/i/72_nophoto.gif" width=3D"72" height=3D"72" border=3D"0" style=3D"backg=
+round-color: #ebeef1;" alt=3D"" /></a></td>=0A<td style=3D"font: 13px/18px =
+Arial, sans-serif;">gaston te ha dejado un mensaje.<br>Haz click en este en=
+lace para verlo:<br><big style=3D"font: 16px/18px Arial, sans-serif;"><b><a=
+ href=3D"http://us1.badoo.com/01086156610/in/oDklE2X-ym0/?lang_id=3D7" styl=
+e=3D"color: #3366cc;">Lee tu mensaje...</a></b></big></td>=0A</tr>=0A</tabl=
+e>=0A<br />=0A<hr style=3D"height: 1px; color: #e5e5e5;" />=0A<br />=0A<big=
+ style=3D"font: 13px/18px Arial, sans-serif;">M=C3=A1s gente que tambi=C3=
+=A9n te est=C3=A1 esperando:</big><br />=0A<br />=0A<table style=3D"border-=
+collapse: collapse;" cellpadding=3D"0" cellspacing=3D"0">=0A<tr>=0A<td styl=
+e=3D"padding-right: 13px;"><a href=3D"http://us1.badoo.com/01086156610/in/o=
+DklE2X-ym0/?lang_id=3D7"><img src=3D"http://p511.badoo.com/523/2/6/0/110726=
+3694/456650/457356_mmp.jpg?updated=3D1264853683" width=3D"72" height=3D"72"=
+ border=3D"0" style=3D"background-color: #ebeef1;" alt=3D"" /></a></td>=0A<=
+td style=3D"font-size: 11px; padding-right: 35px; color: #999; vertical-ali=
+gn: middle;">=0A<span style=3D"font-size: 14px; color: #333;">Bruno</span><=
+br />=0AC=C3=B3rdoba, Argentina=0A</td>=0A<td style=3D"padding-right: 13px;=
+"><a href=3D"http://us1.badoo.com/01086156610/in/oDklE2X-ym0/?lang_id=3D7">=
+<img src=3D"http://p512.badoo.com/542/0/3/3/1117991368/453269/481465_mmp.jp=
+g?updated=3D1275789797" width=3D"72" height=3D"72" border=3D"0" style=3D"ba=
+ckground-color: #ebeef1;" alt=3D"" /></a></td>=0A<td style=3D"font-size: 11=
+px; padding-right: 35px; color: #999; vertical-align: middle;">=0A<span sty=
+le=3D"font-size: 14px; color: #333;">Mar=C3=ADa Bel=C3=A9n</span><br />=0AC=
+=C3=B3rdoba, Argentina=0A</td>=0A</tr>=0A<tr>=0A<td style=3D"height: 20px;"=
+ colspan=3D"4" height=3D"20px">&nbsp;</td>=0A</tr>=0A<tr>=0A<td style=3D"pa=
+dding-right: 13px;"><a href=3D"http://us1.badoo.com/01086156610/in/oDklE2X-=
+ym0/?lang_id=3D7"><img src=3D"http://p513.badoo.com/541/3/4/1/1089853048/21=
+1218/265683_mmp.jpg?updated=3D1259967812" width=3D"72" height=3D"72" border=
+=3D"0" style=3D"background-color: #ebeef1;" alt=3D"" /></a></td>=0A<td styl=
+e=3D"font-size: 11px; padding-right: 35px; color: #999; vertical-align: mid=
+dle;">=0A<span style=3D"font-size: 14px; color: #333;">Gerardo</span><br />=
+=0AC=C3=B3rdoba, Argentina=0A</td>=0A<td style=3D"padding-right: 13px;"><a =
+href=3D"http://us1.badoo.com/01086156610/in/oDklE2X-ym0/?lang_id=3D7"><img =
+src=3D"http://p511.badoo.com/500/2/2/4/1007115463/40983/40985_mmp.jpg?updat=
+ed=3D1208117542" width=3D"72" height=3D"72" border=3D"0" style=3D"backgroun=
+d-color: #ebeef1;" alt=3D"" /></a></td>=0A<td style=3D"font-size: 11px; pad=
+ding-right: 35px; color: #999; vertical-align: middle;">=0A<span style=3D"f=
+ont-size: 14px; color: #333;">Gaston</span><br />=0ABuenos Aires, Argentina=
+=0A</td>=0A</tr>=0A<tr>=0A<td style=3D"height: 20px;" colspan=3D"4" height=
+=3D"20px">&nbsp;</td>=0A</tr>=0A<tr>=0A<td style=3D"padding-right: 13px;"><=
+a href=3D"http://us1.badoo.com/01086156610/in/oDklE2X-ym0/?lang_id=3D7"><im=
+g src=3D"http://p509.badoo.com/509/4/7/0/1038313106/84437/85376_mmp.jpg?upd=
+ated=3D1184900063" width=3D"72" height=3D"72" border=3D"0" style=3D"backgro=
+und-color: #ebeef1;" alt=3D"" /></a></td>=0A<td style=3D"font-size: 11px; p=
+adding-right: 35px; color: #999; vertical-align: middle;">=0A<span style=3D=
+"font-size: 14px; color: #333;">Matias</span><br />=0AC=C3=B3rdoba, Argenti=
+na=0A</td>=0A<td width=3D"72" style=3D"padding: 0 13px 9px; text-align: cen=
+ter; vertical-align: middle;">=0A<a href=3D"http://us1.badoo.com/0108615661=
+0/in/oDklE2X-ym0/?lang_id=3D7" style=3D"font-size: 30px; text-decoration: n=
+one; color: #3366cc;">...</a>=0A</td>=0A<td style=3D"padding-right: 35px; v=
+ertical-align: middle;">=0A<a href=3D"http://us1.badoo.com/01086156610/in/o=
+DklE2X-ym0/?lang_id=3D7" style=3D"font-size: 13px; color: #3366cc;">=C2=BFQ=
+ui=C3=A9n m=C3=A1s?</a>=0A</td>=0A</tr>=0A<tr>=0A<td style=3D"height: 20px;=
+" colspan=3D"4" height=3D"20px">&nbsp;</td>=0A</tr>=0A</table>=0A<br />=0AS=
+i al pulsar el enlace de este mensaje no funciona, copia y p=C3=A9galo en l=
+a barra de tu navegador:<br />
+<a href=3D"http://us1.badoo.com/01086156610/in/oDklE2X-ym0/?lang_id=3D7" st=
+yle=3D"color: #3366cc; white-space:nowrap;">http://us1.badoo.com/0108615661=
+0/in/oDklE2X-ym0/?lang_id=3D7</a><br />
+<br />
+<br />
+Este email es parte del procedimiento del sistema para el env=C3=ADo de men=
+sajes enviados por gaston. Si has recibido este mensaje por error, ignora e=
+ste email. Tras un corto periodo de tiempo, ser=C3=A1 eliminado del sistema=
+.
+<br />
+<br />
+=C2=A1Diviertete!<br />
+El equipo de Badoo=0A<br />=0A<br />=0A<br />=0A<img src=3D"http://images.b=
+adoo.com/2231/-/-/i/badoo.gif" width=3D"80" height=3D"23" alt=3D"" />=0A<p =
+style=3D"margin-top: 10px; color: #666666; font: 13px/18px Arial, sans-seri=
+f;">Has recibido este email porque un usuario de Badoo te ha dejado un mens=
+aje en Badoo. Este mensaje es autom=C3=A1tico. Las respuestas a este mensaj=
+e no est=C3=A1n controladas y no tendr=C3=A1n respuesta. Si no quieres reci=
+bir m=C3=A1s mensajaes de Badoo, <a href=3D"http://us1.badoo.com/impersonat=
+ion.phtml?lang_id=3D7&amp;mail_code=3D21&amp;email=3Dsoporte%40imaxcba.com.=
+ar&amp;secret=3D&amp;invite_id=3D388678&amp;user_id=3D1086156610" style=3D"=
+color: #3366cc;">h=C3=A1znoslo saber</a>..</p>=0A=0A</td>=0A</tr>=0A</table=
+>=0A</div>=0A<BR>
+<BR>
+__________ Informaci=F3n de ESET NOD32 Antivirus, versi=F3n de la base de f=
+irmas de virus 5404 (20100828) __________<BR>
+<BR>
+ESET NOD32 Antivirus ha comprobado este mensaje.<BR>
+<BR>
+<A HREF=3D"http://www.eset.com">http://www.eset.com</A><BR>
+
+
+</body>=0A</html>
+--=_29f39b44efd83f5f7326e4f79b4b207e--
+

@@ -1,0 +1,145 @@
+Return-Path: <support@olx.com>
+X-Spam-Status: No, hits=1.3 required=5.0
+	tests=AWL: 0.153,HTML_FONT_BIG: 0.256,HTML_IMAGE_ONLY_24: 0.93,
+	HTML_MESSAGE: 0.001,UPPERCASE_25_50: 0,TOTAL_SCORE: 1.340
+X-Spam-Level: *
+Return-Path: <support@olx.com>
+Delivered-To: dantemerlo@imaxcba.com.ar
+Received: from localhost (localhost [127.0.0.1])
+	by ispconfig.miinet.com.ar (Postfix) with ESMTP id D01FB8AC58
+	for <soporte@imaxcba.com.ar>; Tue, 27 Jul 2010 15:50:08 -0300 (ART)
+X-Virus-Scanned: Debian amavisd-new at ispconfig.miinet.com.ar
+Received: from ispconfig.miinet.com.ar ([127.0.0.1])
+	by localhost (ispconfig.miinet.com.ar [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id FJBIoBf5p4oC for <soporte@imaxcba.com.ar>;
+	Tue, 27 Jul 2010 15:50:06 -0300 (ART)
+Received: from relay2.olx.com (relay2.olx.com [204.232.252.91])
+	by ispconfig.miinet.com.ar (Postfix) with ESMTP id B19CE8AC4E
+	for <soporte@imaxcba.com.ar>; Tue, 27 Jul 2010 15:50:04 -0300 (ART)
+Received: from relay2.olx.com (localhost [127.0.0.1])
+	by relay2.olx.com (Postfix) with ESMTP id 9A9C7101361
+	for <soporte@imaxcba.com.ar>; Tue, 27 Jul 2010 14:50:02 -0400 (EDT)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; d=olx.com; h=date:to:from
+	:reply-to:subject:message-id:mime-version:content-type; s=
+	relay2; bh=nG0HavjXfJ8NsF4Es65eidybKiM=; b=eKNDk2clrIV3w3MrnyCbK
+	BC+YXok/ywH5Z0psKUeLp59tGk6sJFIFhOdmmNByT5h9AkASZOBRxNUg3KHF+Rto
+	Ffe2D5mqbpmJthAPa3aX6a7QjBy9pPffstkqHFtU4l7Z7qIegUyYnSCeO5PT9mjj
+	4qnnNt4XAY+4BKLd1LTbFk=
+DomainKey-Signature: a=rsa-sha1; c=nofws; d=olx.com; h=date:to:from
+	:reply-to:subject:message-id:mime-version:content-type; q=dns;
+	 s=relay2; b=acOJyGXP5NC5k24zFwUSOFqpcsnWN/DWSafPLiFYJZBlDIYMX+E
+	BF4lUtijxXskttHWhBADVvKroOjz+kiwIUOB3GAWewzjOpEFvIuD4fccI6zcUduo
+	O+5TCIzHJveaxQKlxP2YKScyoLC2EhkHe23dvGt5GHfmZruySeCq5VJ4=
+Date: Tue, 27 Jul 2010 14:50:02 -0400
+To: soporte@imaxcba.com.ar
+From: OLX <support@olx.com>
+Reply-to: OLX <support@olx.com>
+Subject: OLX: Ver / Editar / Eliminar: LABORATORIO  INFORMATICO   -  I.MAX
+Message-ID: <593d088a48f8007a003f5115f22685fa@relay1.olx.com>
+X-Priority: 3
+X-Mailer: PHPMailer [version 1.73]
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="b1_593d088a48f8007a003f5115f22685fa"
+X-EsetId: 101E3C2F2FB776690F183C7B21E135
+
+
+--b1_593d088a48f8007a003f5115f22685fa
+Content-Type: text/plain; charset = "utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+
+           =20
+              OLX Clasificados GratisFelicitaciones! Tu anuncio
+ya est=C3=A1 activo en OLX.     POR FAVOR CONSERVA ESTE CORREO.  - =20
+Puedes utilizar los enlaces de abajo para editar tu anuncio.=20
+
+
+VE TU ANUNCIO:
+
+http://www.olx.com.ar/laboratorio-informatico-i-max-iid-107100287
+
+
+MANEJA TU ANUNCIO (EDITALO, BORRALO, MANEJA SUS COMENTARIOS):
+
+http://www.olx.com.ar/myolx/index.php?hm=3DxYZX%2FOROt6JlsYfuomSF39TBo93Bu=
+uB1ofgx%2BM6wkfZMjX4nNoDKkPONNUIFYY96Q2zGa81b
+
+
+
+
+=C2=BFLeyendo este email en tu celular? Haz click aqu=C3=AD para manejar
+tu anuncio desde tu celular
+
+
+
+Gracias por usar OLX,El equipo de OLX
+
+
+Si alguna vez necesitas soporte t=C3=A9cnico o tienes alg=C3=BAn
+comentario, contacta a nuestro Equipo de Atenci=C3=B3n al Cliente
+
+
+
+
+__________ Informaci=F3n de ESET NOD32 Antivirus, versi=F3n de la base de f=
+irmas de virus 5315 (20100726) __________
+
+ESET NOD32 Antivirus ha comprobado este mensaje.
+
+http://www.eset.com
+
+
+--b1_593d088a48f8007a003f5115f22685fa
+Content-Type: text/html; charset = "utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<html><head><title></title><meta http-equiv=3D"Content-Type" =
+content=3D"text/html; charset=3Dutf-8" /></head><body>
+            <div style=3D"font-family:arial,sans-serif;font-size:13px;">
+              <div id=3D"mailheader" =
+style=3D"font-size:20px;border-bottom: 1px solid rgb(182, 209, 16); =
+padding: 0pt 5px 5px;"><span style=3D"color: rgb(114, 27, =
+134);">O</span><span style=3D"color: rgb(182, 209, 16);">L</span><span =
+style=3D"color: rgb(255, 137, 0);">X</span> Clasificados =
+Gratis</div><p><strong>Felicitaciones! Tu anuncio ya est=C3=A1 activo en =
+OLX.  </strong><br/> <span style=3D'color:#ff1e00;'><strong>  POR FAVOR =
+CONSERVA ESTE CORREO.  </strong></span>-   Puedes utilizar los enlaces de =
+abajo para editar tu anuncio. <br /><br /></p><div =
+style=3D"background-color:#edf3c4;border-top: 1px solid #d5dab0;"><div =
+style=3D"border:10px solid #edf3c4"><strong>VE TU ANUNCIO:</strong><br><a =
+class=3D"CommonMail" href=3D"http://www.olx.com.ar/laboratorio-informatico=
+-i-max-iid-107100287">http://www.olx.com.ar/laboratorio-informatico-i-max-=
+iid-107100287</a><br><br><strong>MANEJA TU ANUNCIO (EDITALO, BORRALO, =
+MANEJA SUS COMENTARIOS):</strong><br><a class=3D"CommonMail" =
+href=3D"http://www.olx.com.ar/myolx/index.php?hm=3DxYZX%2FOROt6JlsYfuomSF3=
+9TBo93BuuB1ofgx%2BM6wkfZMjX4nNoDKkPONNUIFYY96Q2zGa81b">http://www.olx.com.=
+ar/myolx/index.php?hm=3DxYZX%2FOROt6JlsYfuomSF39TBo93BuuB1ofgx%2BM6wkfZMjX=
+4nNoDKkPONNUIFYY96Q2zGa81b</a><br><br></div></div><br><br>=C2=BFLeyendo =
+este email en tu celular? <a class=3D"CommonMail" href=3D"http://m.olx.com=
+/newmyolx/index.php?hm=3DxYZX%2FOROt6JlsYfuomSF39TBo93BuuB1ofgx%2BM6wkfZMj=
+X4nNoDKkPONNUIFYY96Q2zGa81b">Haz click aqu=C3=AD para manejar tu anuncio =
+desde tu celular</a><br><img =
+src=3D"http://tracking.olx.com/tracker.php?mail=3D1&itemid=3D107100287" =
+border=3D"0" height=3D"1" width=3D"1"><br><br><div style=3D"padding: 0pt =
+5px;"><p>Gracias por usar OLX,<br/><strong>El equipo de OLX</strong><br =
+/><br />Si alguna vez necesitas soporte t=C3=A9cnico o tienes alg=C3=BAn =
+comentario, <a href=3D"http://www.olx.com.ar/contacts.php">contacta a =
+nuestro Equipo de Atenci=C3=B3n al =
+Cliente</a></p></div></div><BR>
+<BR>
+__________ Informaci=F3n de ESET NOD32 Antivirus, versi=F3n de la base de f=
+irmas de virus 5315 (20100726) __________<BR>
+<BR>
+ESET NOD32 Antivirus ha comprobado este mensaje.<BR>
+<BR>
+<A HREF=3D"http://www.eset.com">http://www.eset.com</A><BR>
+
+
+</body></html>
+
+
+
+--b1_593d088a48f8007a003f5115f22685fa--
+
+

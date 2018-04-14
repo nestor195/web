@@ -1,0 +1,57 @@
+Return-Path: <SqlService@pcartsargentina.com>
+X-Spam-Status: No, hits=0.0 required=5.0
+	tests=UPPERCASE_25_50: 0,TOTAL_SCORE: 0.000
+X-Spam-Level: 
+Return-Path: <SqlService@pcartsargentina.com>
+Delivered-To: dantemerlo@imaxcba.com.ar
+Received: from localhost (localhost [127.0.0.1])
+	by ns3.miinetserver.com.ar (Postfix) with ESMTP id 1A3E08B601
+	for <SOPORTE@IMAXCBA.COM.AR>; Mon, 30 Aug 2010 10:49:46 -0300 (ART)
+X-Virus-Scanned: Debian amavisd-new at ispconfig.miinet.com.ar
+Received: from ns3.miinetserver.com.ar ([127.0.0.1])
+	by localhost (ns3.miinetserver.com.ar [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id Y3DF6Pja2yhB for <SOPORTE@IMAXCBA.COM.AR>;
+	Mon, 30 Aug 2010 10:49:45 -0300 (ART)
+Received: from hercules.pc-arts.com.ar (mail3.pcartsargentina.com [190.228.160.134])
+	by ns3.miinetserver.com.ar (Postfix) with ESMTP id 1132B8B5C2
+	for <SOPORTE@IMAXCBA.COM.AR>; Mon, 30 Aug 2010 10:49:44 -0300 (ART)
+Received: from PCA-DBCBA01 ([192.168.19.108]) by hercules.pc-arts.com.ar with Microsoft SMTPSVC(6.0.3790.4675);
+	 Mon, 30 Aug 2010 10:43:44 -0300
+Sensitivity: Normal
+Importance: Normal
+MIME-Version: 1.0
+From: "PCARTS CBA sqlservice" <sqlservice@pcartsargentina.com>
+To: apanero@pcartsargentina.com, SOPORTE@IMAXCBA.COM.AR
+Date: 30 Aug 2010 10:43:43 -0300
+Subject: =?utf-8?B?Q09SRE9CQSAtIENPUkRPQkEgLSBQQy1BUlRTIEFSR0VOVElOQSBTLkEuIC0gUGVkaWRvIE7CuiAxODkzMDIgICAgICoqKiogTk8gUkVTUE9OREVSIEVTVEUgTUFJTCAqKioqICAgICAqKioqIE5PIFJFU1BPTkRFUiBFU1RFIE1BSUwgKioqKiA=?=
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: base64
+Message-ID: <HERCULESMqesh6Bzulv00000865@hercules.pc-arts.com.ar>
+X-OriginalArrivalTime: 30 Aug 2010 13:43:44.0181 (UTC) FILETIME=[5D174650:01CB4849]
+X-EsetId: 101E3C2F2FB776690F183C7B23E735
+
+Q2xpZW50ZTogQ0FNSU5PUyBMRUFORFJPIFJPRE9MRk8gICAgICAgICAgICAgICAgIA1Eb21p
+Y2lsaW86IFNVQ1JFIDM2OCAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICANTG9jYWxp
+ZGFkOiBDT1JET0JBIC0gQ09SRE9CQSAgIA0NUEVESURPOiAxODkzMDINQ29uZC4gRGUgVmVu
+dGE6IFBSRVBBR08gRU4gQ0FKQSAoRUZFQ1RJVk8pDUVzdGFkbzogT2JzZXJ2YWRvDVN0b2Nr
+OiBBc2lnbmFkbw0NQXJ0w61jdWxvOiAgICBEZXNjcmlwY2nDs246ICAgICAgICAgICAgICAg
+ICAgICAgICBDYW50aWRhZDogICBQcmVjaW8gVW5pdGFyaW86ICAgSW1wb3J0ZToNDUNvbXBv
+bmVudGVzDVcxOTQzVEUgICAgICAgICAgICAgIE1PTklUT1IgMTkiIFdJREUgTEcgVzE5NDNU
+RSAgICAgICAgICAgICAgICAgICAgICAgMSAgICAgICAgICAxODguMDAgICAgICAxODguMDAN
+DUdhc3RvczogMC4wMA1Db3RpemFjacOzbjogMy45Ng1UT1RBTCAoJCk6IDc0NC40OA1UT1RB
+TCAoVSRTKTogMTg4LjAwDQ1WZW5kZWRvcjogQVJJRUwgUEFORVJPDUZlY2hhIGRlIEVudHJl
+Z2E6IDMwLzA4LzIwMTANRGF0b3MgZGUgRW50cmVnYTogUkVUSVJBIEVOIERFUE9TSVRPDURv
+bWljaWxpbyBkZSBFbnRyZWdhOiBQRURSTyBHT1lFTkEgMjUyDUxvY2FsaWRhZCBkZSBFbnRy
+ZWdhOiBBTFRPIEFMQkVSREkgLSBDT1JET0JBDQ0NTG9zIHByZWNpb3MgeSBjYW50aWRhZGVz
+IHNvbiBkZWwgZMOtYS4gU3VqZXRvIGEgbW9kaWZpY2FjaW9uZXMgc2luIHByZXZpbyBhdmlz
+by4NDVNyLiBDbGllbnRlLCBubyBvbHZpZGUgaGFjZXIgZWwgQVZJU08gREUgUkVUSVJPIGEg
+YXZpc29kZXJldGlyb2NiYUBwY2FydHNhcmdlbnRpbmEuY29tLCBwYXJhIGV2aXRhciBkZW1v
+cmFzIGFsIHJldGlyYXIgc3UgcGVkaWRvLg0NRW4gZWwgY2FzbyBlbiBxdWUgc3UgcGVkaWRv
+IG5vIGNvaW5jaWRhIGNvbiBsbyByZXF1ZXJpZG8gcG9yIHVzdGVkLCBwb3IgZmF2b3IgcMOz
+bmdhc2UgZW4gY29udGFjdG8gY29uIGVsIMOhcmVhIGNvbWVyY2lhbC4NDUFudGUgY3VhbHF1
+aWVyIHJlY2xhbW8gbyBpbnF1aWV0dWQsIHVzdGVkIHB1ZWRlIGNvbXVuaWNhcnNlIHbDrWEg
+ZW1haWwgYSByZWNsYW1vc0BwY2FydHNhcmdlbnRpbmEuY29tLg0NUGFyYSBlbnRlcmFydGUg
+ZGUgbGFzIHByb21vY2lvbmVzIHkgb2ZlcnRhcyBkZSBQQyBBcnRzIEFyZ2VudGluYSBpbmdy
+ZXNhIGEgaHR0cDovL3NpZW1wcmVnYW5hcy5wY2FydHNhcmdlbnRpbmEuY29tIHkgc3VzY3Jp
+Yml0ZSBhbCBuZXdzbGV0dGVyLg==
+

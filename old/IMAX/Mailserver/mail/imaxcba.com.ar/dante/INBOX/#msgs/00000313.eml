@@ -1,0 +1,369 @@
+Return-Path: <excfinan@infovia.com.ar>
+X-Spam-Status: No, hits=1.1 required=5.0
+	tests=HTML_FONT_BIG: 0.256,HTML_MESSAGE: 0.001,MIME_HTML_ONLY: 0.001,
+	MSGID_FROM_MTA_ID: 0.927,TOTAL_SCORE: 1.185
+X-Spam-Level: *
+Return-Path: <excfinan@infovia.com.ar>
+Delivered-To: dantemerlo@imaxcba.com.ar
+Received: from localhost (localhost [127.0.0.1])
+	by ns3.miinetserver.com.ar (Postfix) with ESMTP id 923BB8BD6F
+	for <soporte@imaxcba.com.ar>; Tue,  7 Sep 2010 18:12:10 -0300 (ART)
+X-Virus-Scanned: Debian amavisd-new at ispconfig.miinet.com.ar
+Received: from ns3.miinetserver.com.ar ([127.0.0.1])
+	by localhost (ns3.miinetserver.com.ar [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id fN6qQmgC-Z60 for <soporte@imaxcba.com.ar>;
+	Tue,  7 Sep 2010 18:12:08 -0300 (ART)
+Received: from infovia.com.ar (unknown [190.175.0.102])
+	by ns3.miinetserver.com.ar (Postfix) with SMTP id 4D3B08BC28
+	for <soporte@imaxcba.com.ar>; Tue,  7 Sep 2010 18:12:08 -0300 (ART)
+From: "Curso en CD" <excfinan@infovia.com.ar>
+To: <soporte@imaxcba.com.ar>
+Subject: Curso de Excel Financiero
+Sender: "Curso en CD" <excfinan@infovia.com.ar>
+Mime-Version: 1.0
+Content-Type: text/html; charset="ISO-8859-1"
+Date: Tue, 7 Sep 2010 18:15:56 -0300
+Content-Transfer-Encoding: 8bit
+Message-Id: <20100907211208.4D3B08BC28@ns3.miinetserver.com.ar>
+X-EsetId: 101E3C2F2FB776690F183C7B23ED37
+
+<html xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:w="urn:schemas-microsoft-com:office:word"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=windows-1252">
+<meta name=ProgId content=Word.Document>
+<meta name=Generator content="Microsoft Word 9">
+<meta name=Originator content="Microsoft Word 9">
+<link rel=File-List
+href="./CURSO%20DE%20EXCEL%20FINANCIERO%20Y%20CONTABLE_archivos/filelist.xml
+">
+<title>CURSO DE EXCEL FINANCIERO Y CONTABLE </title>
+<!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:Author>129.12.123.78</o:Author>
+  <o:Template>Normal</o:Template>
+  <o:LastAuthor>129.12.123.78</o:LastAuthor>
+  <o:Revision>1</o:Revision>
+  <o:TotalTime>1</o:TotalTime>
+  <o:Created>2010-09-06T21:51:00Z</o:Created>
+  <o:LastSaved>2010-09-06T21:52:00Z</o:LastSaved>
+  <o:Pages>2</o:Pages>
+  <o:Words>606</o:Words>
+  <o:Characters>3459</o:Characters>
+  <o:Lines>28</o:Lines>
+  <o:Paragraphs>6</o:Paragraphs>
+  <o:CharactersWithSpaces>4247</o:CharactersWithSpaces>
+  <o:Version>9.2812</o:Version>
+ </o:DocumentProperties>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:HyphenationZone>21</w:HyphenationZone>
+ </w:WordDocument>
+</xml><![endif]-->
+<style>
+<!--
+ /* Font Definitions */
+@font-face
+	{font-family:"Trebuchet MS";
+	panose-1:2 11 6 3 2 2 2 2 2 4;
+	mso-font-charset:0;
+	mso-generic-font-family:swiss;
+	mso-font-pitch:variable;
+	mso-font-signature:7 0 0 0 19 0;}
+ /* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-parent:"";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";}
+a:link, span.MsoHyperlink
+	{color:blue;
+	text-decoration:underline;
+	text-underline:single;}
+a:visited, span.MsoHyperlinkFollowed
+	{color:purple;
+	text-decoration:underline;
+	text-underline:single;}
+p
+	{margin-right:0cm;
+	mso-margin-top-alt:auto;
+	mso-margin-bottom-alt:auto;
+	margin-left:0cm;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";}
+@page Section1
+	{size:612.0pt 792.0pt;
+	margin:9.0pt 3.0cm 70.85pt 9.0pt;
+	mso-header-margin:35.4pt;
+	mso-footer-margin:35.4pt;
+	mso-paper-source:0;}
+div.Section1
+	{page:Section1;}
+-->
+</style>
+</head>
+
+<body lang=ES link=blue vlink=purple style='tab-interval:35.4pt'>
+
+<div class=Section1>
+
+<p align=center style='text-align:center'><b><span style='font-size:13.5pt;
+font-family:"Trebuchet MS";color:blue'>CURSO DE EXCEL FINANCIERO Y
+CONTABLE </span></b><span
+style='color:blue'><o:p></o:p></span></p>
+
+<p align=center style='text-align:center'>&nbsp;<strong><i><span
+style='font-family:"Trebuchet MS";color:blue'>CONTENIDOS DEL
+CD</span></i></strong><span
+style='color:blue'><o:p></o:p></span></p>
+
+<table border=1 cellpadding=0 width="100%"
+style='width:100.0%;mso-cellspacing:
+ 1.5pt;mso-padding-alt:0cm 0cm 0cm 0cm'>
+ <tr>
+  <td width="50%" valign=top style='width:50.0%;padding:.75pt .75pt .75pt
+.75pt'>
+  <p align=center style='text-align:center'><span style='font-size:11.0pt;
+  mso-bidi-font-size:10.0pt;font-family:Arial'>Cursos y Manuales
+Contables<br>
+  Cursos Contables Varios<br>
+  Excel para Contadores<br>
+  Manual Aplicaciones Financieras<br>
+  Aplicaciones Financieras de Excel<br>
+  Excel Financiero I<br>
+  Excel Financiero II<br>
+  Manual Excel Financiero<br>
+  Manual Excel Financiero II<br>
+  Matematicas Financieras<br>
+  <br>
+  <b>Planillas Contabilidad</b></span><span
+style='font-size:11.0pt;mso-bidi-font-size:
+  12.0pt;font-family:Arial'><o:p></o:p></span></p>
+  <p align=center style='text-align:center'><span style='font-size:11.0pt;
+  mso-bidi-font-size:10.0pt;font-family:Arial'>Administrador de Valores<br>
+  Asignacion_Costos<br>
+  Caja con Cuentas<br>
+  Caja Diaria<br>
+  Control de Stock<br>
+  Cuentas a Cobrar<br>
+  Equivalencias Monetarias<br>
+  Forma de Pago<br>
+  Ingreso_Gastos<br>
+  Listado Cobranza<br>
+  Ordenes de Pedido<br>
+  Planes de cuotas<br>
+  Recibo<br>
+  Recibos<br>
+  Registro de Compromisos<br>
+  Registro de las Actividades del Cadete<br>
+  Registro de Llamadas Telefónicas<br>
+  Remito<br>
+  Rendicion de Viaticos<br>
+  &nbsp;&nbsp; Resumen de viaticos<br>
+  Seguimiento de horas por Clientes<br>
+  Seguimiento de Recibos<br>
+  Seguimiento de Remitos<br>
+  Tablero de Comando</span><span style='font-size:11.0pt;mso-bidi-font-size:
+  12.0pt;font-family:Arial'><o:p></o:p></span></p>
+  <p align=center style='text-align:center'><b><span
+style='font-size:11.0pt;
+  mso-bidi-font-size:10.0pt;font-family:Arial'>Planillas
+Financieras</span></b><span
+ 
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt;font-family:Arial'><o:p>
+</o:p></span></p>
+  <p align=center style='text-align:center'><span style='font-size:11.0pt;
+  mso-bidi-font-size:10.0pt;font-family:Arial'>Amortizacion con Pagos en
+  Progresion Aritmetica<br>
+  Amortizacion con Pagos en Progresion Geometrica<br>
+  Amortizacion de un Prestamo I<br>
+  Amortizacionde un Prestamo II<br>
+  Amortizaciones<br>
+  Analisis Contable Financiero<br>
+  Analisis de Balances<br>
+  Analisis de Fuentes de Financiacion<br>
+  Análisis de Inversión<br>
+  Analisis de Inversiones<br>
+  Analisis de la Competencia<br>
+  Analisis de Rentabilidad - Sistema du Pont<br>
+  Analisis de Volatilidad<br>
+  Analisis del inventario<br>
+  Analisis Economico y Financiero en una Empresa<br>
+  Analisis Financiero<br>
+  Apalancamiento<br>
+  Apalancamiento 2<br>
+  Balance<br>
+  Balance Anual<br>
+  Bancos<br>
+  Bandas de Bollinger<br>
+  Bonex<br>
+  Bonos<br>
+  Calculadora de Prestamos e Hipotecas<br>
+  Calculo de Gastos en un Proyecto Empresarial<br>
+  Calculo de Interes Simple<br>
+  Calculo de Umbral de Rentabilidad o Punto Muerto I<br>
+  Calculo de Umbral de Rentabilidad o Punto Muerto II<br>
+  Calculo del Valor Capital para Flujos de Tesoreria Inciertos<br>
+  Calculo Dividendo Facil<br>
+  Capital Prestado y Pagos Anuales<br>
+  Capitalizacion Simple y Compuesta<br>
+  Cash Flow Operativo<br>
+  Compra vs Alquiler de Vivienda<br>
+  Contabilidad General<br>
+  Control de Gastos Mensuales<br>
+  Correccion Monetaria y Depreciciacion del Activo Fijo<br>
+  Criterios de Seleccion de Inversiones<br>
+  Determinacionde Costo del producto<br>
+  Diagrama de Gantt</span><span style='font-size:11.0pt;mso-bidi-font-size:
+  12.0pt;font-family:Arial'><o:p></o:p></span></p>
+  </td>
+  <td width="50%" valign=top style='width:50.0%;padding:.75pt .75pt .75pt
+.75pt'>
+  <p align=center style='text-align:center'><b><span
+style='font-size:11.0pt;
+  mso-bidi-font-size:10.0pt;font-family:Arial'>Mas Planillas
+Financieras</span></b><span
+ 
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt;font-family:Arial'><o:p>
+</o:p></span></p>
+  <p align=center style='text-align:center'><span style='font-size:11.0pt;
+  mso-bidi-font-size:10.0pt;font-family:Arial'>Disponibilidad y Valor
+Actual<br>
+  Ejemplo 1 y 2<br>
+  Ejemplo CM y DEP activos<br>
+  Ejemplo Tabla Amortizacion<br>
+  Estado de Origen y Aplicacion de Fondos<br>
+  Evaulacion multiple<br>
+  Evolucion del Capital a Interes Simple y Compuesto<br>
+  Evolucion del Capital a Interes Variable<br>
+  Fifo Lifo<br>
+  Flujo de Caja<br>
+  Flujo Efectivo<br>
+  Fondo de Maniobra<br>
+  Forward</span><span style='font-size:11.0pt;mso-bidi-font-size:12.0pt;
+  font-family:Arial'><o:p></o:p></span></p>
+  <p align=center style='text-align:center'><span style='font-size:11.0pt;
+  mso-bidi-font-size:10.0pt;font-family:Arial'>FRA<br>
+  Frontera de Posibilidades de Produccion<br>
+  Funciones Excel PAGO Cuota Fija<br>
+  Funciones Excel TAE<br>
+  Funciones Excel TIR - Adquisicion de una obligacion<br>
+  Funciones Excel VA VF<br>
+  Funciones Excel VNA - Ejemplo Estudio de Inversion<br>
+  Funciones Excel VNA.NO.PER - Inversion para flujos no periodicos<br>
+  Gap de Plazos y Monedas<br>
+  Gestion de Inventarios<br>
+  Gestion de Productos Perecederos<br>
+  Graficos Z<br>
+  Hoja Fut<br>
+  Indice de Fuerza Relativa - Ejemplo<br>
+  Inmunizacion de Carteras de Renta Fija<br>
+  Invest<br>
+  Leasing<br>
+  Letras del Tesoro<br>
+  Libro Banco<br>
+  Markowitz<br>
+  Mundell-Fleming Sistemas Ec Cp<br>
+  Opciones - Calls y Puts<br>
+  Origen y Aplicacion de Fondos<br>
+  Oscilador Bursatil - Momentum<br>
+  Periodo Medio de Maduracion de una Empresa<br>
+  Plan de Ahorro<br>
+  Plan Economico Financiero<br>
+  Planilla Ingresos y Gastos<br>
+  Plazos de Amortizacion a Interes Real Equivalente<br>
+  Plazos de Amortizacion a Interes Real y Nominal<br>
+  Posicion Bancaria<br>
+  Prestamo a Interes Flat<br>
+  Prestamo Frances con plazo de Carencia<br>
+  Prestamo Sistema Aleman<br>
+  Prestamo Sistema AMERICANO<br>
+  Prestamo Sistema Frances<br>
+  Prestamos<br>
+  Presupuesto de Pagos y Cobranzas<br>
+  Presupuesto Personal<br>
+  Presupuesto Personal 2<br>
+  Punto de equilibrio<br>
+  Ratios basico<br>
+  Rentas<br>
+  Saldo Financiero<br>
+  Seleccion de Inversiones mediante PAYBACK y Otros<br>
+  Seleccion de Proyectos<br>
+  Simulacion Montecarlo<br>
+  Simulador de Negocios<br>
+  Sistema Contable<br>
+  Sistema de Contabilidad<br>
+  Solver<br>
+  Swap<br>
+  Tipo de Cambio Real<br>
+  Valoracion de Empresas<br>
+  VAN<br>
+  VAN de una Inversion<br>
+  VAN y TIR<br>
+  Varios<br>
+  Viabilidad de Inversion en Vivienda<br>
+  Viabilidad Negocio de Inversion<br>
+  Leasing</span><span style='font-size:11.0pt;mso-bidi-font-size:12.0pt;
+  font-family:Arial'><o:p></o:p></span></p>
+  </td>
+ </tr>
+</table>
+
+<p align=center style='text-align:center'>&nbsp;<o:p></o:p></p>
+
+<p align=center style='text-align:center'><span
+style='font-family:Arial'>Solicite&nbsp;
+</span><b><span style='font-size:13.5pt;font-family:"Trebuchet
+MS";color:green'>EXCEL
+FINANCIERO Y CONTABLE </span></b><span style='font-family:Arial'><span
+style="mso-spacerun: yes"> </span>a&nbsp;</span>: <span
+style='font-size:20.0pt;
+mso-bidi-font-size:12.0pt'><a
+href="mailto:cursofinanciero@live.com.ar">cursofinanciero@live.com.ar</a>
+</span></p>
+
+<p align=center style='text-align:center'><span style='font-size:14.0pt;
+mso-bidi-font-size:12.0pt;font-family:Arial'>por </span><b><span
+style='font-size:18.0pt;font-family:Arial'>$150</span></b><span
+style='font-size:18.0pt;font-family:Arial'> Con envio gratis a todo el
+pais<o:p></o:p></span></p>
+
+<p align=center style='text-align:center'><span
+style='font-family:Arial'>indicando&nbsp;
+nombre dirección, localidad y código postal. Envios sin cargo por Correo
+Argentino contra reembolso. Envíos a Capital por mensajeria (indicando el
+horario de su preferencia)</span><o:p></o:p></p>
+
+<p align=center style='text-align:center'>&nbsp;<o:p></o:p></p>
+
+<p align=center style='text-align:center'>&nbsp;<o:p></o:p></p>
+
+<p class=MsoNormal>&nbsp;<o:p></o:p></p>
+
+<p class=MsoNormal>&nbsp;<o:p></o:p></p>
+
+<p class=MsoNormal>&nbsp;<o:p></o:p></p>
+
+<p class=MsoNormal><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></p>
+
+</div>
+
+<BR>
+<BR>
+__________ Información de ESET NOD32 Antivirus, versión de la base de firmas de virus 5432 (20100907) __________<BR>
+<BR>
+ESET NOD32 Antivirus ha comprobado este mensaje.<BR>
+<BR>
+<A HREF="http://www.eset.com">http://www.eset.com</A><BR>
+
+
+</body>
+
+</html>

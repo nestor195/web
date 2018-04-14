@@ -1,0 +1,283 @@
+Return-Path: <santinorestocafe@gmail.com>
+X-Spam-Status: No, hits=2.6 required=5.0
+	tests=AWL: -1.486,HTML_FONT_BIG: 0.256,HTML_MESSAGE: 0.001,
+	ROUND_THE_WORLD_LOCAL: 1.429,SUBJECT_ENCODED_TWICE: 1.543,UNDISC_RECIPS: 0.883,
+	TOTAL_SCORE: 2.626
+X-Spam-Level: **
+Return-Path: <santinorestocafe@gmail.com>
+Delivered-To: soporteimax@imaxcba.com.ar
+Received: from localhost (localhost [127.0.0.1])
+	by ns3.miinetserver.com.ar (Postfix) with ESMTP id 679F78BBCE
+	for <soporte@imaxcba.com.ar>; Thu,  2 Sep 2010 11:16:04 -0300 (ART)
+X-Virus-Scanned: Debian amavisd-new at ispconfig.miinet.com.ar
+Received: from ns3.miinetserver.com.ar ([127.0.0.1])
+	by localhost (ns3.miinetserver.com.ar [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id KDJwSQn1X4RZ for <soporte@imaxcba.com.ar>;
+	Thu,  2 Sep 2010 11:16:02 -0300 (ART)
+Received: from mail-fx0-f44.google.com (mail-fx0-f44.google.com [209.85.161.44])
+	by ns3.miinetserver.com.ar (Postfix) with ESMTP id ADF3B8BBCD
+	for <soporte@imaxcba.com.ar>; Thu,  2 Sep 2010 11:16:00 -0300 (ART)
+Received: by fxm18 with SMTP id 18so228546fxm.3
+        for <soporte@imaxcba.com.ar>; Thu, 02 Sep 2010 07:15:58 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=gamma;
+        h=domainkey-signature:mime-version:received:received:date:message-id
+         :subject:from:content-type;
+        bh=LjZIMUBbl16vy7zktm1+VHTNiUT2XmmrziB0PwkpAUo=;
+        b=ES7ZdNlNbMWiN5+jinNQGpnzKwdDPibHDM1vns/txeaGMP7tq3kG5UM7+8EOPsUvvP
+         fJehV3WTtOMDC/hWRzySrJqc3HcRhSNQz57sRG7ne1ImRMalaCDfPEQGlcwEMv0/6IhE
+         vH1XOv0+Eq/8mtJysxGrlk8yc3DtUaVwCk0Xw=
+DomainKey-Signature: a=rsa-sha1; c=nofws;
+        d=gmail.com; s=gamma;
+        h=mime-version:date:message-id:subject:from:content-type;
+        b=YXK4P1y7omndnHTPaCVzbHEbZFHfu9twCAuIhP8jeDNNBs5T8SRacovCS82KhoupBW
+         nF0Kl4CzpdGEhutd7fvtBKoXLhYI7A7k9kLJAxIjnGQcP1YJvXQC1YHt9HCI8qQRRqHW
+         HElYpld7QcD++gLgsjsFf+bG2Rva98JaM8KdI=
+MIME-Version: 1.0
+Received: by 10.216.70.200 with SMTP id p50mt13937168wed.54.1283436949815;
+ Thu, 02 Sep 2010 07:15:49 -0700 (PDT)
+Received: by 10.216.184.15 with HTTP; Thu, 2 Sep 2010 07:15:49 -0700 (PDT)
+Date: Thu, 2 Sep 2010 11:15:49 -0300
+Message-ID: <AANLkTimAMZvvpMNUT5ru30HaV6q+xdGtnfpZSD3fM+NM@mail.gmail.com>
+Subject: =?ISO-8859-1?Q?SANTINO_Resto_=26_Bar_=2D_Men=FA_del_dia_JUEVES_02=2F09=2F201?=
+	=?ISO-8859-1?Q?0=2E=2D?=
+From: "Bar & Resto SANTINO" <santinorestocafe@gmail.com>
+Content-Type: multipart/alternative; boundary=001636e0a79cfbb217048f4773c3
+To: undisclosed-recipients:;
+X-EsetId: 101E3C2F2FB776690F183C7B23E031
+
+--001636e0a79cfbb217048f4773c3
+Content-Type: text/plain; charset=windows-1252
+Content-Transfer-Encoding: quoted-printable
+
+*SANTINO*
+
+*Resto & Bar*
+
+
+
+*Men=FA del d=EDa Jueves 02/09*
+
+
+
+
+
+=B7                 *Milanesa de Pollo c/ Pur=E9 Mixto*
+
+=B7                 *Canelones de Espinaca y Carne*
+
+*con Salsa Filetto o Mixta*
+
+*+*
+
+=B7      *Gaseosa o Agua Mineral (mediana) *
+
+*o Copa de Vino*
+
+*+*
+
+=B7      *Postre*
+
+*$ 18.-***
+
+*(Adicional de Caf=E9 o Postre o Gaseosa $ 3.00 de recargo)*
+
+
+
+*Recibimos tarjeta KADICARD*
+
+*M=EDnimo $ 20.00 de consumo (en 1 cuota s/inter=E9s)*
+
+*M=EDnimo $ 45.00 de consumo (en 3 cuotas s/inter=E9s)*
+
+
+
+*SANTINO Resto & Bar =96 La Rioja 338 =96 Tel: 424-0771 / 153-658740*
+
+
+
+*Abierto de Lunes a Viernes de: 07:30 a 20:30 hs*
+
+*S=E1bado de: 08:00 a 14:00 hs*
+
+*WiFi 3 mb*
+
+
+
+__________ Informaci=F3n de ESET NOD32 Antivirus, versi=F3n de la base de f=
+irmas de virus 5417 (20100902) __________
+
+ESET NOD32 Antivirus ha comprobado este mensaje.
+
+http://www.eset.com
+
+
+--001636e0a79cfbb217048f4773c3
+Content-Type: text/html; charset=windows-1252
+Content-Transfer-Encoding: quoted-printable
+
+<p class=3D"yiv441856738msonormal" style=3D"MARGIN: 0cm 0cm 0pt; TEXT-ALIGN=
+: center" align=3D"center"><b><span lang=3D"ES-AR" style=3D"FONT-SIZE: 45pt=
+; COLOR: black; FONT-FAMILY: &#39;Lucida Calligraphy&#39;; mso-ansi-languag=
+e: ES-AR">SANTINO</span></b><span style=3D"FONT-SIZE: 45pt; COLOR: black; F=
+ONT-FAMILY: &#39;Lucida Calligraphy&#39;"></span></p>
+
+<p class=3D"yiv441856738msonormal" style=3D"MARGIN: 0cm 0cm 0pt; TEXT-ALIGN=
+: center" align=3D"center"><b><span lang=3D"ES-AR" style=3D"FONT-SIZE: 45pt=
+; COLOR: black; FONT-FAMILY: &#39;Lucida Calligraphy&#39;; mso-ansi-languag=
+e: ES-AR">Resto &amp; Bar</span></b><span style=3D"FONT-SIZE: 45pt; COLOR: =
+black; FONT-FAMILY: &#39;Lucida Calligraphy&#39;"></span></p>
+
+<p class=3D"yiv441856738msonormal" style=3D"MARGIN: 0cm 0cm 0pt; TEXT-ALIGN=
+: center" align=3D"center"><span style=3D"COLOR: black; FONT-FAMILY: &#39;L=
+ucida Calligraphy&#39;"><font size=3D"3">=A0</font></span></p>
+<p class=3D"yiv441856738msonormal" style=3D"MARGIN: 0cm 0cm 0pt; TEXT-ALIGN=
+: center" align=3D"center"><b><span lang=3D"ES-AR" style=3D"FONT-SIZE: 28pt=
+; BACKGROUND: yellow; COLOR: black; FONT-FAMILY: &#39;Lucida Calligraphy&#3=
+9;; mso-ansi-language: ES-AR">Men=FA del d=EDa Jueves 02/09</span></b><span=
+ style=3D"COLOR: black; FONT-FAMILY: &#39;Lucida Calligraphy&#39;"></span><=
+/p>
+
+<p class=3D"yiv441856738msonormal" style=3D"MARGIN: 0cm 0cm 0pt; TEXT-ALIGN=
+: center" align=3D"center"><span style=3D"COLOR: black; FONT-FAMILY: &#39;L=
+ucida Calligraphy&#39;"><font size=3D"3">=A0</font></span></p>
+<p class=3D"yiv441856738msonormal" style=3D"MARGIN: 0cm 0cm 0pt; TEXT-ALIGN=
+: center" align=3D"center"><span style=3D"COLOR: black; FONT-FAMILY: &#39;L=
+ucida Calligraphy&#39;"><font size=3D"3">=A0</font></span></p>
+<p class=3D"yiv441856738msonormal" style=3D"MARGIN: 0cm 0cm 0pt 54pt; TEXT-=
+INDENT: -36pt; TEXT-ALIGN: center; mso-list: l1 level1 lfo1" align=3D"cente=
+r"><span style=3D"FONT-SIZE: 22pt; COLOR: black; FONT-FAMILY: Symbol; mso-f=
+areast-font-family: Symbol; mso-bidi-font-family: Symbol"><span style=3D"ms=
+o-list: Ignore">=B7<span style=3D"FONT: 7pt &#39;Times New Roman&#39;">=A0=
+=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0 </span></span></span><b><span=
+ lang=3D"ES-AR" style=3D"FONT-SIZE: 22pt; COLOR: black; FONT-FAMILY: &#39;L=
+ucida Calligraphy&#39;; mso-ansi-language: ES-AR">Milanesa de Pollo c/ Pur=
+=E9 Mixto</span></b><span style=3D"FONT-SIZE: 22pt; COLOR: black; FONT-FAMI=
+LY: &#39;Lucida Calligraphy&#39;"></span></p>
+
+<p class=3D"yiv441856738msonormal" style=3D"MARGIN: 0cm 0cm 0pt 54pt; TEXT-=
+INDENT: -36pt; TEXT-ALIGN: center; mso-list: l1 level1 lfo1" align=3D"cente=
+r"><span style=3D"FONT-SIZE: 22pt; COLOR: black; FONT-FAMILY: Symbol; mso-f=
+areast-font-family: Symbol; mso-bidi-font-family: Symbol"><span style=3D"ms=
+o-list: Ignore">=B7<span style=3D"FONT: 7pt &#39;Times New Roman&#39;">=A0=
+=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0 </span></span></span><b><span=
+ lang=3D"ES-AR" style=3D"FONT-SIZE: 22pt; COLOR: black; FONT-FAMILY: &#39;L=
+ucida Calligraphy&#39;; mso-ansi-language: ES-AR">Canelones de Espinaca y C=
+arne</span></b><span style=3D"FONT-SIZE: 22pt; COLOR: black; FONT-FAMILY: &=
+#39;Lucida Calligraphy&#39;"></span></p>
+
+<p class=3D"yiv441856738msonormal" style=3D"MARGIN: 0cm 0cm 0pt 54pt; TEXT-=
+ALIGN: center" align=3D"center"><b><span lang=3D"ES-AR" style=3D"FONT-SIZE:=
+ 22pt; COLOR: black; FONT-FAMILY: &#39;Lucida Calligraphy&#39;; mso-ansi-la=
+nguage: ES-AR">con Salsa Filetto o Mixta</span></b><span style=3D"FONT-SIZE=
+: 22pt; COLOR: black; FONT-FAMILY: &#39;Lucida Calligraphy&#39;"></span></p=
+>
+
+<p class=3D"yiv441856738msonormal" style=3D"MARGIN: 0cm 0cm 0pt 7.1pt; TEXT=
+-ALIGN: center" align=3D"center"><b><span lang=3D"ES-AR" style=3D"FONT-SIZE=
+: 22pt; COLOR: black; FONT-FAMILY: &#39;Lucida Calligraphy&#39;; mso-ansi-l=
+anguage: ES-AR">+</span></b><span style=3D"FONT-SIZE: 22pt; COLOR: black; F=
+ONT-FAMILY: &#39;Lucida Calligraphy&#39;"></span></p>
+
+<p class=3D"yiv441856738msonormal" style=3D"MARGIN: 0cm 0cm 0pt 43.1pt; TEX=
+T-INDENT: -18pt; TEXT-ALIGN: center; mso-list: l0 level1 lfo2" align=3D"cen=
+ter"><span style=3D"FONT-SIZE: 22pt; COLOR: black; FONT-FAMILY: Symbol; mso=
+-fareast-font-family: Symbol; mso-bidi-font-family: Symbol"><span style=3D"=
+mso-list: Ignore">=B7<span style=3D"FONT: 7pt &#39;Times New Roman&#39;">=
+=A0=A0=A0=A0=A0 </span></span></span><b><span lang=3D"ES-AR" style=3D"FONT-=
+SIZE: 22pt; COLOR: black; FONT-FAMILY: &#39;Lucida Calligraphy&#39;; mso-an=
+si-language: ES-AR">Gaseosa o Agua Mineral (mediana) </span></b><span style=
+=3D"FONT-SIZE: 22pt; COLOR: black; FONT-FAMILY: &#39;Lucida Calligraphy&#39=
+;"></span></p>
+
+<p class=3D"yiv441856738msonormal" style=3D"MARGIN: 0cm 0cm 0pt 43.1pt; TEX=
+T-ALIGN: center" align=3D"center"><b><span lang=3D"ES-AR" style=3D"FONT-SIZ=
+E: 22pt; COLOR: black; FONT-FAMILY: &#39;Lucida Calligraphy&#39;; mso-ansi-=
+language: ES-AR">o Copa de Vino</span></b><span style=3D"FONT-SIZE: 22pt; C=
+OLOR: black; FONT-FAMILY: &#39;Lucida Calligraphy&#39;"></span></p>
+
+<p class=3D"yiv441856738msonormal" style=3D"MARGIN: 0cm 0cm 0pt; TEXT-ALIGN=
+: center" align=3D"center"><b><span lang=3D"ES-AR" style=3D"FONT-SIZE: 22pt=
+; COLOR: black; FONT-FAMILY: &#39;Lucida Calligraphy&#39;; mso-ansi-languag=
+e: ES-AR">+</span></b><span style=3D"FONT-SIZE: 22pt; COLOR: black; FONT-FA=
+MILY: &#39;Lucida Calligraphy&#39;"></span></p>
+
+<p class=3D"yiv441856738msonormal" style=3D"MARGIN: 0cm 0cm 0pt 43.1pt; TEX=
+T-INDENT: -18pt; TEXT-ALIGN: center; mso-list: l0 level1 lfo2" align=3D"cen=
+ter"><span style=3D"FONT-SIZE: 22pt; COLOR: black; FONT-FAMILY: Symbol; mso=
+-fareast-font-family: Symbol; mso-bidi-font-family: Symbol"><span style=3D"=
+mso-list: Ignore">=B7<span style=3D"FONT: 7pt &#39;Times New Roman&#39;">=
+=A0=A0=A0=A0=A0 </span></span></span><b><span lang=3D"ES-AR" style=3D"FONT-=
+SIZE: 22pt; COLOR: black; FONT-FAMILY: &#39;Lucida Calligraphy&#39;; mso-an=
+si-language: ES-AR">Postre</span></b><span style=3D"FONT-SIZE: 22pt; COLOR:=
+ black; FONT-FAMILY: &#39;Lucida Calligraphy&#39;"></span></p>
+
+<p class=3D"yiv441856738msonormal" style=3D"MARGIN: 0cm 0cm 0pt; TEXT-ALIGN=
+: center" align=3D"center"><b><span lang=3D"ES-AR" style=3D"FONT-SIZE: 125p=
+t; COLOR: black; FONT-FAMILY: &#39;Lucida Calligraphy&#39;; mso-ansi-langua=
+ge: ES-AR">$ 18.-</span></b><b><span lang=3D"ES-AR" style=3D"FONT-SIZE: 8pt=
+; COLOR: black; FONT-FAMILY: &#39;Lucida Calligraphy&#39;; mso-ansi-languag=
+e: ES-AR"></span></b></p>
+
+<p class=3D"yiv441856738msonormal" style=3D"MARGIN: 0cm 0cm 0pt; TEXT-ALIGN=
+: center" align=3D"center"><b><span lang=3D"ES-AR" style=3D"FONT-SIZE: 8pt;=
+ COLOR: black; FONT-FAMILY: &#39;Lucida Calligraphy&#39;; mso-ansi-language=
+: ES-AR">(Adicional de Caf=E9 o Postre o Gaseosa $ 3.00 de recargo)</span><=
+/b></p>
+
+<p class=3D"yiv441856738msonormal" style=3D"MARGIN: 0cm 0cm 0pt; TEXT-ALIGN=
+: center" align=3D"center"><span style=3D"FONT-SIZE: 8pt; COLOR: black; FON=
+T-FAMILY: &#39;Lucida Calligraphy&#39;">=A0</span></p>
+<p class=3D"yiv441856738msonormal" style=3D"MARGIN: 0cm 0cm 0pt; TEXT-ALIGN=
+: center" align=3D"center"><font size=3D"3"><b><span lang=3D"ES-AR" style=
+=3D"COLOR: black; FONT-FAMILY: &#39;Lucida Calligraphy&#39;; mso-ansi-langu=
+age: ES-AR">Recibimos tarjeta KADICARD</span></b><span style=3D"COLOR: blac=
+k; FONT-FAMILY: &#39;Lucida Calligraphy&#39;"></span></font></p>
+
+<p class=3D"yiv441856738msonormal" style=3D"MARGIN: 0cm 0cm 0pt; TEXT-ALIGN=
+: center" align=3D"center"><b><span lang=3D"ES-AR" style=3D"FONT-SIZE: 10pt=
+; COLOR: red; FONT-FAMILY: &#39;Lucida Calligraphy&#39;; mso-ansi-language:=
+ ES-AR">M=EDnimo $ 20.00 de consumo (en 1 cuota s/inter=E9s)</span></b><spa=
+n style=3D"COLOR: black; FONT-FAMILY: &#39;Lucida Calligraphy&#39;"></span>=
+</p>
+
+<p class=3D"yiv441856738msonormal" style=3D"MARGIN: 0cm 0cm 0pt; TEXT-ALIGN=
+: center" align=3D"center"><b><span lang=3D"ES-AR" style=3D"FONT-SIZE: 10pt=
+; COLOR: red; FONT-FAMILY: &#39;Lucida Calligraphy&#39;; mso-ansi-language:=
+ ES-AR">M=EDnimo $ 45.00 de consumo (en 3 cuotas s/inter=E9s)</span></b><sp=
+an style=3D"COLOR: black; FONT-FAMILY: &#39;Lucida Calligraphy&#39;"></span=
+></p>
+
+<p class=3D"yiv441856738msonormal" style=3D"MARGIN: 0cm 0cm 0pt; TEXT-ALIGN=
+: center" align=3D"center"><span style=3D"COLOR: black; FONT-FAMILY: &#39;L=
+ucida Calligraphy&#39;"><font size=3D"3">=A0</font></span></p>
+<p class=3D"yiv441856738msonormal" style=3D"MARGIN: 0cm 0cm 0pt; TEXT-ALIGN=
+: center" align=3D"center"><b><span lang=3D"ES-AR" style=3D"FONT-SIZE: 14pt=
+; COLOR: black; FONT-FAMILY: &#39;Lucida Calligraphy&#39;; mso-ansi-languag=
+e: ES-AR">SANTINO Resto &amp; Bar =96 La Rioja 338 =96 Tel: 424-0771 / 153-=
+658740</span></b><span style=3D"COLOR: black; FONT-FAMILY: &#39;Lucida Call=
+igraphy&#39;"></span></p>
+
+<p class=3D"yiv441856738msonormal" style=3D"MARGIN: 0cm 0cm 0pt; TEXT-ALIGN=
+: center" align=3D"center"><span style=3D"COLOR: black; FONT-FAMILY: &#39;L=
+ucida Calligraphy&#39;"><font size=3D"3">=A0</font></span></p>
+<p class=3D"yiv441856738msonormal" style=3D"MARGIN: 0cm 0cm 0pt; TEXT-ALIGN=
+: center" align=3D"center"><font size=3D"3"><b><span lang=3D"ES-AR" style=
+=3D"COLOR: black; FONT-FAMILY: &#39;Lucida Calligraphy&#39;; mso-ansi-langu=
+age: ES-AR">Abierto de Lunes a Viernes de: 07:30 a 20:30 hs</span></b><span=
+ style=3D"COLOR: black; FONT-FAMILY: &#39;Lucida Calligraphy&#39;"></span><=
+/font></p>
+
+<p class=3D"yiv441856738msonormal" style=3D"MARGIN: 0cm 0cm 0pt; TEXT-ALIGN=
+: center" align=3D"center"><font size=3D"3"><b><span lang=3D"ES-AR" style=
+=3D"COLOR: black; FONT-FAMILY: &#39;Lucida Calligraphy&#39;; mso-ansi-langu=
+age: ES-AR">S=E1bado de: 08:00 a 14:00 hs</span></b><span style=3D"COLOR: b=
+lack; FONT-FAMILY: &#39;Lucida Calligraphy&#39;"></span></font></p>
+
+<p class=3D"MsoNormal" style=3D"MARGIN: 0cm 0cm 10pt; TEXT-ALIGN: center" a=
+lign=3D"center"><b style=3D"mso-bidi-font-weight: normal"><span style=3D"CO=
+LOR: #31849b; FONT-FAMILY: &#39;Lucida Calligraphy&#39;; mso-themecolor: ac=
+cent5; mso-themeshade: 191"><font size=3D"3">WiFi 3 mb</font></span></b></p=
+>
+
+--001636e0a79cfbb217048f4773c3--

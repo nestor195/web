@@ -1,0 +1,42 @@
+Return-Path: <anugraar@nsnexo.nsnexo.com>
+X-Spam-Status: No, hits=1.0 required=5.0
+	tests=HTML_MESSAGE: 0.001,HTML_MIME_NO_HTML_TAG: 0.512,MIME_HEADER_CTYPE_ONLY: 0,
+	MIME_HTML_ONLY: 0.001,NO_REAL_NAME: 0.55,TOTAL_SCORE: 1.064
+X-Spam-Level: *
+Return-Path: <anugraar@nsnexo.nsnexo.com>
+X-Original-To: soporte@imaxcba.com.ar
+Delivered-To: soporteimax@ns.intersolutions.com.ar
+Received: from nsnexo.nsnexo.com (unknown [200.58.117.191])
+	by ns.intersolutions.com.ar (Postfix) with ESMTP id 233361D001D
+	for <soporte@imaxcba.com.ar>; Tue,  1 Sep 2009 15:13:22 -0300 (ART)
+Received: from anugraar by nsnexo.nsnexo.com with local (Exim 4.63)
+	(envelope-from <anugraar@nsnexo.nsnexo.com>)
+	id 1MiXr7-0006QE-Gi
+	for soporte@imaxcba.com.ar; Tue, 01 Sep 2009 15:13:21 -0300
+To: soporte@imaxcba.com.ar
+Subject: Alta de usuario
+From: anunciosgratis.com.ar@gmail.com
+Reply-To: anunciosgratis.com.ar@gmail.com
+X-Mailer: PHP/5.2.0
+Content-type: text/html; charset=iso-8859-1 
+Message-Id: <E1MiXr7-0006QE-Gi@nsnexo.nsnexo.com>
+Date: Tue, 01 Sep 2009 15:13:21 -0300
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - nsnexo.nsnexo.com
+X-AntiAbuse: Original Domain - imaxcba.com.ar
+X-AntiAbuse: Originator/Caller UID/GID - [600 599] / [502 502]
+X-AntiAbuse: Sender Address Domain - nsnexo.nsnexo.com
+X-EsetId: F7234629BBA84769E825467FB5FC0A
+
+
+
+Bienvenido a anunciosgratis.com.ar. 
+Para darse de alta como nuevo usuario haga clic en el siguiente enlace: <br />
+<a href="http://mi.anunciosgratis.com.ar/usuarios?cm=c192c5153036544e590fdf3dbfb9de52&iu=2153">http://mi.anunciosgratis.com.ar/usuarios?cm=c192c5153036544e590fdf3dbfb9de52&iu=2153</a> <br /><br />
+sus datos son:<br />
+<br />
+ usuario: Imprecomp.com<br />
+<br />
+ contrase&ntilde;a: imax368<br />
+<br /><br />
+

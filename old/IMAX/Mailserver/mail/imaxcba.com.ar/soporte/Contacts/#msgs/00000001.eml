@@ -1,0 +1,14 @@
+Subject: Leandro Caminos
+Date: Wed, 22 Jul 2009 13:51:35 -0300
+Content-Type: text/vcard; charset="utf-8"
+Content-Transfer-Encoding: 8bit
+
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//kerio.com/Contacts//NONSGML v1.0//EN
+N:Caminos;Leandro;;;
+FN:Leandro Caminos
+X-FILE-AS:Caminos, Leandro
+CLASS:PUBLIC
+EMAIL;TYPE=PREF,HOME;CN="Leandro Caminos":leocaminos@hotmail.com
+END:VCARD

@@ -1,0 +1,199 @@
+Return-Path: <n-0Uk90yM842JyB7JMg3HrECKplM8PsWyeyZ_CS1C9-1K5D3KfK65VUXlw@bounce.linkedin.com>
+X-Spam-Status: No, hits=0.0 required=5.0
+	tests=AWL: 0.069,HTML_MESSAGE: 0.001,TOTAL_SCORE: 0.070
+X-Spam-Level: 
+Return-Path: <n-0Uk90yM842JyB7JMg3HrECKplM8PsWyeyZ_CS1C9-1K5D3KfK65VUXlw@bounce.linkedin.com>
+Delivered-To: dantemerlo@imaxcba.com.ar
+Received: from localhost (localhost [127.0.0.1])
+	by ispconfig.miinet.com.ar (Postfix) with ESMTP id DCA878A4A7
+	for <soporte@imaxcba.com.ar>; Tue, 15 Jun 2010 04:13:23 -0300 (ART)
+X-Virus-Scanned: Debian amavisd-new at ispconfig.miinet.com.ar
+Received: from ispconfig.miinet.com.ar ([127.0.0.1])
+	by localhost (ispconfig.miinet.com.ar [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id Q7pMulbsyfcG for <soporte@imaxcba.com.ar>;
+	Tue, 15 Jun 2010 04:13:20 -0300 (ART)
+Received: from mail16-a-ac.linkedin.com (mail16-a-ac.linkedin.com [208.111.169.139])
+	by ispconfig.miinet.com.ar (Postfix) with ESMTP id 306B08A391
+	for <soporte@imaxcba.com.ar>; Tue, 15 Jun 2010 04:13:19 -0300 (ART)
+DomainKey-Signature: s=prod; d=linkedin.com; c=nofws; q=dns;
+  h=Sender:Date:From:To:Message-ID:Subject:MIME-Version:
+   Content-Type:X-LinkedIn-fbl;
+  b=I6r7Icl2UGi0bxGwIRiMGS/m8GmqsC6UXk+1PA8L7LYRNSIN1TBuuPN6
+   DoHLZuEclaqDqS1a/JL7vMCg1YVXxbEmUK2mrb9G5+X9/IPUnfRjeoK/+
+   iHh0kJZ8XWi8unq;
+DKIM-Signature: v=1; a=rsa-sha256; c=simple/simple;
+  d=linkedin.com; i=invitations@linkedin.com; q=dns/txt;
+  s=proddkim; t=1276586000; x=1308122000;
+  h=from:sender:reply-to:subject:date:message-id:to:cc:
+   mime-version:content-transfer-encoding:content-id:
+   content-description:resent-date:resent-from:resent-sender:
+   resent-to:resent-cc:resent-message-id:in-reply-to:
+   references:list-id:list-help:list-unsubscribe:
+   list-subscribe:list-post:list-owner:list-archive;
+  z=From:=20"Diego=20Tamura=20(LinkedIn=20Invitations)"=20<i
+   nvitations@linkedin.com>|Sender:=20messages-noreply@bounc
+   e.linkedin.com|Subject:=20=3D?UTF-8?Q?Aviso_de_tu_invitac
+   i=3DC3=3DB3n_de_Diego_Tamura?=3D|Date:=20Tue,=2015=20Jun
+   =202010=2000:13:18=20-0700=20(PDT)|Message-ID:=20<1059746
+   883.10427450.1276585998300.JavaMail.app@ech3-be209.prod>
+   |To:=20=20<soporte@imaxcba.com.ar>|MIME-Version:=201.0;
+  bh=bDkVMd3+OOpR/eMqJQuA0FfGFbRIrnDYFDKNzgjTeHw=;
+  b=kWUTSRJHnEFZQ7hYNGZ+GwpmKPsR3bDXZjWsCAQwna8NRbu3N+sMrdqD
+   ys2MRQ3Cz8egAtPiemJQBoqAGrWzMbnZAXsTDeJKcFtlaM/nTlVcOXYd7
+   TdRE6oToyThA0NJ;
+Sender: messages-noreply@bounce.linkedin.com
+Date: Tue, 15 Jun 2010 00:13:18 -0700 (PDT)
+From: "Diego Tamura (LinkedIn Invitations)" <invitations@linkedin.com>
+To:  <soporte@imaxcba.com.ar>
+Message-ID: <1059746883.10427450.1276585998300.JavaMail.app@ech3-be209.prod>
+Subject: =?UTF-8?Q?Aviso_de_tu_invitaci=C3=B3n_de_Diego_Tamura?=
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_10427449_1989363518.1276585998298"
+X-LinkedIn-fbl: n-0Uk90yM842JyB7JMg3HrECKplM8PsWyeyZ_CS1C9-1K5D3KfK65VUXlw
+X-EsetId: 101E3C2F2FB776690F183C7B26EC37
+
+------=_Part_10427449_1989363518.1276585998298
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+LinkedIn
+------------ =20
+
+Este es un recordatorio de que el 7 de junio, Diego Tamura te envi=C3=B3 un=
+a invitaci=C3=B3n para formar parte de su red profesional en LinkedIn.
+
+
+
+Haz clic en este enlace para aceptar la invitaci=C3=B3n de Diego Tamura.
+
+https://www.linkedin.com/e/doi/1368110593/Yzbk3Kwi/gir_74816472_0/EML-inv_1=
+7_rem/
+
+Registrarse es gratis, tardar=C3=A1s menos de un minuto en conseguirlo.
+
+
+El 7 de junio, Diego Tamura escribi=C3=B3:
+
+> Para:  [soporte@imaxcba.com.ar]
+> De: Diego Tamura [diegotamura@hotmail.com]
+> Asunto: Diego Tamura quiere mantener el contacto en LinkedIn
+>
+> Me gustar=C3=ADa a=C3=B1adirte a mi red profesional en LinkedIn.=20
+>=20
+> - Diego Tamura
+
+
+La =C3=BAnica manera de acceder a la red profesional de Diego Tamura en Lin=
+kedIn es por medio del siguiente enlace:
+
+https://www.linkedin.com/e/doi/1368110593/Yzbk3Kwi/gir_74816472_0/EML-inv_1=
+7_rem/
+
+Puedes retirarte de la red de Diego Tamura en cualquier momento.
+
+
+--------------
+
+
+
+=20
+------
+(c) 2010, LinkedIn Corporation
+
+
+__________ Informaci=F3n de ESET NOD32 Antivirus, versi=F3n de la base de f=
+irmas de virus 5196 (20100614) __________
+
+ESET NOD32 Antivirus ha comprobado este mensaje.
+
+http://www.eset.com
+
+
+------=_Part_10427449_1989363518.1276585998298
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+
+<html>
+  <body>
+
+ =20
+
+<table border=3D"0" width=3D"550" cellpadding=3D"0" cellspacing=3D"0" style=
+=3D"max-width:550px; border-top:4px solid #39C; font: 12px arial, sans-seri=
+f; margin: 0 auto;"><tr><td> =20
+  <h1 style=3D"color: #000; font: bold 23px arial; margin:5px 0;" >LinkedIn=
+</h1>
+
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0">
+  <tr>
+    <td style=3D"font:12px arial, helvetica, sans-serif;"> =20
+
+
+      <p>Este es un recordatorio de que el 7 de junio, Diego Tamura te envi=
+=C3=B3 una invitaci=C3=B3n para formar parte de su red profesional en Linke=
+dIn.</p>
+
+      <p>
+ Haz clic en este enlace para aceptar la invitaci=C3=B3n de Diego Tamura. <=
+/p>
+
+      <p>
+      <a href=3D"https://www.linkedin.com/e/doi/1368110593/Yzbk3Kwi/gir_748=
+16472_0/EML-inv_17_rem/">https://www.linkedin.com/e/doi/1368110593/Yzbk3Kwi=
+/gir_74816472_0/EML-inv_17_rem/</a>
+      </p>
+
+      <p> Registrarse es gratis, y tardar=C3=A1s menos de un minuto. </p>
+
+      <p>El 7 de junio, Diego Tamura escribi=C3=B3:<br><br> > Para:  [sopor=
+te@imaxcba.com.ar]<br> > De: Diego Tamura [diegotamura@hotmail.com]<br> > A=
+sunto: Diego Tamura quiere mantener el contacto en LinkedIn<br>
+      <br>
+      &gt; Me gustar&#xed;a a&#xf1;adirte a mi red profesional en LinkedIn.=
+ <br>
+&gt; <br>
+&gt; - Diego Tamura<br>
+
+      </p>
+
+      <p> La =C3=BAnica manera de acceder a la red profesional de Diego Tam=
+ura en LinkedIn es por medio del siguiente enlace: </p>
+
+      <p>
+      <a href=3D"https://www.linkedin.com/e/doi/1368110593/Yzbk3Kwi/gir_748=
+16472_0/EML-inv_17_rem/">https://www.linkedin.com/e/doi/1368110593/Yzbk3Kwi=
+/gir_74816472_0/EML-inv_17_rem/</a>
+      </p>
+
+      <p> Puedes retirarte de la red de Diego Tamura en cualquier momento. =
+</p>
+
+      <br>
+      --------------
+      <br>
+
+
+    </td>
+  </tr>
+</table>
+
+
+
+  <p style=3D"width: 550px; margin: 3px auto; font: 10px arial, sans-serif;=
+ color: #999;">=C2=A9 2010, LinkedIn Corporation</p>
+
+<BR>
+<BR>
+__________ Informaci=F3n de ESET NOD32 Antivirus, versi=F3n de la base de f=
+irmas de virus 5196 (20100614) __________<BR>
+<BR>
+ESET NOD32 Antivirus ha comprobado este mensaje.<BR>
+<BR>
+<A HREF=3D"http://www.eset.com">http://www.eset.com</A><BR>
+
+
+</body>
+</html>
+------=_Part_10427449_1989363518.1276585998298--

@@ -1,0 +1,48 @@
+Return-Path: <php@phpmail.avixos.com.ar>
+X-Spam-Status: No, hits=0.2 required=5.0
+	tests=HTML_FONT_BIG: 0.256,HTML_MESSAGE: 0.001,MIME_HTML_ONLY: 0.001,
+	TOTAL_SCORE: 0.258
+X-Spam-Level: 
+Return-Path: <php@phpmail.avixos.com.ar>
+Delivered-To: soporteimax@imaxcba.com.ar
+Received: from localhost (localhost [127.0.0.1])
+	by ispconfig.miinet.com.ar (Postfix) with ESMTP id 998498AB76
+	for <soporte@imaxcba.com.ar>; Fri, 23 Jul 2010 18:42:12 -0300 (ART)
+X-Virus-Scanned: Debian amavisd-new at ispconfig.miinet.com.ar
+Received: from ispconfig.miinet.com.ar ([127.0.0.1])
+	by localhost (ispconfig.miinet.com.ar [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id BQDrTIHwPCvb for <soporte@imaxcba.com.ar>;
+	Fri, 23 Jul 2010 18:42:11 -0300 (ART)
+Received: from mxbkp.mx89.sinspam.com (mx89.sinspam.com [200.32.4.89])
+	by ispconfig.miinet.com.ar (Postfix) with ESMTP id 842988AB75
+	for <soporte@imaxcba.com.ar>; Fri, 23 Jul 2010 18:42:11 -0300 (ART)
+Received: from ns6 (unknown [200.32.4.95])
+	by mxbkp.mx89.sinspam.com (meggimail) with SMTP id 982CF4FC048;
+	Fri, 23 Jul 2010 18:41:07 -0300 (GMT+3)
+Received: by ns6 (meggiwmail-1.00) for uid 99
+	php@phpmail.avixos.com.ar; Fri, 23 Jul 2010 18:42:11 -0300 (GMT+3)
+To: soporte@imaxcba.com.ar
+Subject: LABORATORIO  INFORMATICO, su Aviso en Avixos.com.ar
+MIME-Version: 1.0 
+X-Mailer: PHP/4.4.9
+Content-Type: text/html; charset="ISO-8859-1"
+From: Avixos <info@avixos.com.ar>
+Reply-To: Avixos <info@avixos.com.ar>
+Date: Fri, 23 Jul 2010 18:42:11 -0300
+Message-Id: <20100723214107.982CF4FC048@mxbkp.mx89.sinspam.com>
+X-EsetId: 101E3C2F2FB776690F183C7B21E73B
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /><title>LABORATORIO  INFORMATICO</title><style type="text/css">	a:link, a:visited, a:hover, a:active {color: #CC6600;}</style></head><body link="#CC6600" vlink="#CC6600" alink="#CC6600"><table width="500" border="1" cellpadding="0" cellspacing="0" bordercolor="#333333"><tr><td><table width="500" border="0" cellspacing="5" cellpadding="5"><tr><td><table width="480" border="0" cellspacing="0" cellpadding="0"><tr><td width="392" rowspan="2" valign="top"><div align="left"><font color="#FF9900" size="6" face="Lucida Sans Unicode, Lucida Grande, sans-serif">LABORATORIO  INFORMATICO</font></div></td><td width="88" valign="middle" bgcolor="#FF9900"><div align="center"><font color="#FFFFFF" face="Lucida Sans Unicode, Lucida Grande, sans-serif">av
+ ixos</font></div></td></tr><tr><td valign="middle" bgcolor="#FFFFFF"><div align="center"><a href="http://www.avixos.com.ar/anunciantes/informatica/laboratorio--informatico-impresoras-notebooks-netbooks-pc.php" style="color:#CC6600"><font size="1" face="Arial, Helvetica, sans-serif">www.avixos.com.ar</font></a></div></td></tr></table><hr width="100%" size="1" /></td></tr><tr><td><font size="3" face="Arial, Helvetica, sans-serif">Muchas gracias por publicar su aviso gratis en <a href="http://www.avixos.com.ar" style="color:#CC6600">www.avixos.com.ar</a></font><br /><hr width="100%" size="1" /></td></tr><tr><td bgcolor="#F4F4F4"><font size="2" face="Arial, Helvetica, sans-serif"><strong>URL de su aviso: </strong><br /><a href="http://www.avixos.com.ar/anunciantes/informatica/laboratorio--informatico-impresoras-notebooks-netbooks-pc.php" style="color:#CC6600">http://www.avixos.com.ar/anunciantes/informatica/laboratorio--informatico-impresoras-notebooks-netbooks-pc.php</a><br /><
+ /font><hr width="100%" size="1" /></td></tr><tr><td bgcolor="#F2F2F2"><font size="2" face="Arial, Helvetica, sans-serif"><strong>Si Ud. no fue el solicitante del aviso, por favor, para dar de baja el aviso haga <a href="http://www.avixos.com.ar/baja_anunciante.php?codigo=8483" style="color:#CC6600" target="_blank">clic aquí</a></strong></font></td></tr><tr><td bgcolor="#F2F2F2"><font size="2" face="Arial, Helvetica, sans-serif">Muchas gracias por publicar su aviso en <a href="http://www.avixos.com.ar" style="color:#CC6600">Avixos.com.ar</a>, en breve nuestros editores revisar&aacute;n el mismo para su publicaci&oacute;n.</font></td></tr></table></td></tr></table><BR>
+<BR>
+__________ Información de ESET NOD32 Antivirus, versión de la base de firmas de virus 5306 (20100723) __________<BR>
+<BR>
+ESET NOD32 Antivirus ha comprobado este mensaje.<BR>
+<BR>
+<A HREF="http://www.eset.com">http://www.eset.com</A><BR>
+
+
+</body></html>
+

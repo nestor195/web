@@ -1,0 +1,50 @@
+[20/Jul/2009 16:33:31] Administration: Generated SSL private key (c:\archivos de programa\kerio\mailserver/dbSSL/key.pem) and certificate (c:\archivos de programa\kerio\mailserver/dbSSL/server.crt) for administration. SHA1 fingerprint is: 6c:a8:a5:18:f5:74:d6:12:d1:8b:35:23:e1:2f:b0:44:96:ca:0b:06
+[28/Jul/2009 11:37:10] Failed POP3 login from 192.168.1.64
+[28/Jul/2009 11:38:29] Failed POP3 login from 192.168.1.64
+[28/Jul/2009 11:42:17] Failed POP3 login from 192.168.1.64
+[28/Jul/2009 11:57:05] Failed POP3 login from 192.168.1.54, user soporte@imaxcba.com.ar.
+[28/Jul/2009 12:02:54] Failed POP3 login from 192.168.1.64
+[28/Jul/2009 12:03:28] Failed POP3 login from 192.168.1.64
+[28/Jul/2009 12:08:31] Failed POP3 login from 192.168.1.64
+[28/Jul/2009 12:10:03] Attempt to send message to too many recipients, from <soporte@imaxcba.com.ar>, rejected recipient <alejandro-carrizo@arnet.com.ar>, sender IP address 192.168.1.54, limit is 100
+[28/Jul/2009 12:10:42] Attempt to send message to too many recipients, from <soporte@imaxcba.com.ar>, rejected recipient <alejandro-carrizo@arnet.com.ar>, sender IP address 192.168.1.54, limit is 100
+[28/Jul/2009 12:10:59] Attempt to send message to too many recipients, from <soporte@imaxcba.com.ar>, rejected recipient <alejandro-carrizo@arnet.com.ar>, sender IP address 192.168.1.54, limit is 100
+[28/Jul/2009 12:12:08] Attempt to send message to too many recipients, from <soporte@imaxcba.com.ar>, rejected recipient <alejandro-carrizo@arnet.com.ar>, sender IP address 192.168.1.54, limit is 100
+[28/Jul/2009 12:14:25] Failed POP3 login from 192.168.1.64
+[28/Jul/2009 12:14:27] Failed POP3 login from 192.168.1.64
+[28/Jul/2009 12:15:00] Failed POP3 login from 192.168.1.64
+[28/Jul/2009 12:15:01] Failed POP3 login from 192.168.1.64
+[28/Jul/2009 12:15:09] Attempt to send message to too many recipients, from <soporte@imaxcba.com.ar>, rejected recipient <alejandro-carrizo@arnet.com.ar>, sender IP address 192.168.1.54, limit is 100
+[28/Jul/2009 12:16:37] Failed POP3 login from 192.168.1.64
+[28/Jul/2009 12:18:26] Attempt to send message to too many recipients, from <soporte@imaxcba.com.ar>, rejected recipient <alejandro-carrizo@arnet.com.ar>, sender IP address 192.168.1.54, limit is 100
+[28/Jul/2009 12:21:14] Failed POP3 login from 192.168.1.64
+[28/Jul/2009 12:21:50] Failed POP3 login from 192.168.1.64
+[28/Jul/2009 12:21:53] Failed POP3 login from 192.168.1.64
+[28/Jul/2009 12:22:27] Failed POP3 login from 192.168.1.64
+[28/Jul/2009 12:22:40] Failed POP3 login from 192.168.1.64
+[28/Jul/2009 12:28:43] Failed POP3 login from 192.168.1.64
+[28/Jul/2009 12:31:31] Attempt to send message to too many recipients, from <soporte@imaxcba.com.ar>, rejected recipient <anidifulio@hotmail.com>, sender IP address 192.168.1.54, limit is 100
+[28/Jul/2009 12:33:15] Attempt to send message to too many recipients, from <soporte@imaxcba.com.ar>, rejected recipient <anidifulio@hotmail.com>, sender IP address 192.168.1.54, limit is 100
+[28/Jul/2009 12:34:22] Attempt to send message to too many recipients, from <soporte@imaxcba.com.ar>, rejected recipient <anidifulio@hotmail.com>, sender IP address 192.168.1.54, limit is 100
+[28/Jul/2009 12:35:25] Attempt to send message to too many recipients, from <soporte@imaxcba.com.ar>, rejected recipient <anidifulio@hotmail.com>, sender IP address 192.168.1.54, limit is 100
+[28/Jul/2009 12:35:25] Attempt to deliver to unknown recipient <soprte@imaxcba.com.ar>, from <soporte@imaxcba.com.ar>, IP address 192.168.1.54
+[28/Jul/2009 12:35:33] Attempt to send message to too many recipients, from <soporte@imaxcba.com.ar>, rejected recipient <anidifulio@hotmail.com>, sender IP address 192.168.1.54, limit is 100
+[28/Jul/2009 12:35:33] Attempt to deliver to unknown recipient <soprte@imaxcba.com.ar>, from <soporte@imaxcba.com.ar>, IP address 192.168.1.54
+[28/Jul/2009 12:36:42] Attempt to send message to too many recipients, from <soporte@imaxcba.com.ar>, rejected recipient <anidifulio@hotmail.com>, sender IP address 192.168.1.54, limit is 100
+[28/Jul/2009 12:36:42] Attempt to deliver to unknown recipient <soprte@imaxcba.com.ar>, from <soporte@imaxcba.com.ar>, IP address 192.168.1.54
+[28/Jul/2009 12:39:43] Attempt to send message to too many recipients, from <soporte@imaxcba.com.ar>, rejected recipient <anidifulio@hotmail.com>, sender IP address 192.168.1.54, limit is 100
+[28/Jul/2009 12:39:43] Attempt to deliver to unknown recipient <soprte@imaxcba.com.ar>, from <soporte@imaxcba.com.ar>, IP address 192.168.1.54
+[28/Jul/2009 12:39:47] Attempt to send message to too many recipients, from <soporte@imaxcba.com.ar>, rejected recipient <anidifulio@hotmail.com>, sender IP address 192.168.1.54, limit is 100
+[28/Jul/2009 12:39:47] Attempt to deliver to unknown recipient <soprte@imaxcba.com.ar>, from <soporte@imaxcba.com.ar>, IP address 192.168.1.54
+[28/Jul/2009 12:40:00] Attempt to send message to too many recipients, from <soporte@imaxcba.com.ar>, rejected recipient <anidifulio@hotmail.com>, sender IP address 192.168.1.54, limit is 100
+[28/Jul/2009 12:40:00] Attempt to deliver to unknown recipient <soprte@imaxcba.com.ar>, from <soporte@imaxcba.com.ar>, IP address 192.168.1.54
+[28/Jul/2009 12:41:17] Attempt to send message to too many recipients, from <soporte@imaxcba.com.ar>, rejected recipient <anidifulio@hotmail.com>, sender IP address 192.168.1.54, limit is 100
+[28/Jul/2009 12:41:17] Attempt to deliver to unknown recipient <soprte@imaxcba.com.ar>, from <soporte@imaxcba.com.ar>, IP address 192.168.1.54
+[28/Jul/2009 12:41:31] Attempt to send message to too many recipients, from <soporte@imaxcba.com.ar>, rejected recipient <anidifulio@hotmail.com>, sender IP address 192.168.1.54, limit is 100
+[28/Jul/2009 12:41:31] Attempt to deliver to unknown recipient <soprte@imaxcba.com.ar>, from <soporte@imaxcba.com.ar>, IP address 192.168.1.54
+[28/Jul/2009 12:53:26] Failed POP3 login from 192.168.1.64
+[28/Jul/2009 12:58:16] Failed POP3 login from 192.168.1.64
+[03/Aug/2009 10:25:58] Relay attempt from IP address 192.168.1.54, mail from <soporte@imaxcba.com.ar> to <administracion2@revicor.com.ar> rejected
+[03/Aug/2009 10:26:07] Relay attempt from IP address 192.168.1.54, mail from <soporte@imaxcba.com.ar> to <administracion2@revicor.com.ar> rejected
+[13/Aug/2009 11:43:13] Relay attempt from IP address 192.168.1.100, mail from <soporte@imaxcba.com.ar> to <luisoliver@btob.com.ar> rejected
+[13/Aug/2009 11:43:24] Relay attempt from IP address 192.168.1.100, mail from <soporte@imaxcba.com.ar> to <luisoliver@btob.com.ar> rejected

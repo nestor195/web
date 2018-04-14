@@ -1,0 +1,287 @@
+Return-Path: <segalimenticia@infovia.com.ar>
+X-Spam-Status: No, hits=1.1 required=5.0
+	tests=HTML_FONT_BIG: 0.256,HTML_MESSAGE: 0.001,MIME_HTML_ONLY: 0.001,
+	MSGID_FROM_MTA_ID: 0.927,TOTAL_SCORE: 1.185
+X-Spam-Level: *
+Return-Path: <segalimenticia@infovia.com.ar>
+Delivered-To: dantemerlo@imaxcba.com.ar
+Received: from localhost (localhost [127.0.0.1])
+	by ispconfig.miinet.com.ar (Postfix) with ESMTP id AD3968A5CF
+	for <soporte@imaxcba.com.ar>; Mon, 14 Jun 2010 03:42:50 -0300 (ART)
+X-Virus-Scanned: Debian amavisd-new at ispconfig.miinet.com.ar
+Received: from ispconfig.miinet.com.ar ([127.0.0.1])
+	by localhost (ispconfig.miinet.com.ar [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id iQPHzYOrcJyl for <soporte@imaxcba.com.ar>;
+	Mon, 14 Jun 2010 03:42:48 -0300 (ART)
+Received: from infovia.com.ar (unknown [190.175.0.150])
+	by ispconfig.miinet.com.ar (Postfix) with SMTP id 588B48A48E
+	for <soporte@imaxcba.com.ar>; Mon, 14 Jun 2010 03:42:48 -0300 (ART)
+From: "Capacitacion en un CD" <segalimenticia@infovia.com.ar>
+To: <soporte@imaxcba.com.ar>
+Subject: Seguridad e Higiene Alimenticia
+Sender: "Capacitacion en un CD" <segalimenticia@infovia.com.ar>
+Mime-Version: 1.0
+Content-Type: text/html; charset="ISO-8859-1"
+Date: Mon, 14 Jun 2010 03:45:08 -0300
+Content-Transfer-Encoding: 8bit
+Message-Id: <20100614064248.588B48A48E@ispconfig.miinet.com.ar>
+X-EsetId: 101E3C2F2FB776690F183C7B26ED3B
+
+<html xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:w="urn:schemas-microsoft-com:office:word"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=windows-1252">
+<meta name=ProgId content=Word.Document>
+<meta name=Generator content="Microsoft Word 9">
+<meta name=Originator content="Microsoft Word 9">
+<link rel=File-List href="./ALIMENTICIA_archivos/filelist.xml">
+<title>SEGURIDAD E HIGIENE EN LA INDUSTRIA ALIMENTICIA</title>
+<!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:Author>129.12.123.78</o:Author>
+  <o:Template>Normal</o:Template>
+  <o:LastAuthor>129.12.123.78</o:LastAuthor>
+  <o:Revision>2</o:Revision>
+  <o:TotalTime>7</o:TotalTime>
+  <o:Created>2009-05-28T01:45:00Z</o:Created>
+  <o:LastSaved>2009-05-28T01:45:00Z</o:LastSaved>
+  <o:Pages>2</o:Pages>
+  <o:Words>973</o:Words>
+  <o:Characters>5551</o:Characters>
+  <o:Lines>46</o:Lines>
+  <o:Paragraphs>11</o:Paragraphs>
+  <o:CharactersWithSpaces>6817</o:CharactersWithSpaces>
+  <o:Version>9.2812</o:Version>
+ </o:DocumentProperties>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:HyphenationZone>21</w:HyphenationZone>
+ </w:WordDocument>
+</xml><![endif]-->
+<style>
+<!--
+ /* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-parent:"";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";}
+a:link, span.MsoHyperlink
+	{color:blue;
+	text-decoration:underline;
+	text-underline:single;}
+a:visited, span.MsoHyperlinkFollowed
+	{color:purple;
+	text-decoration:underline;
+	text-underline:single;}
+p
+	{margin-right:0cm;
+	mso-margin-top-alt:auto;
+	mso-margin-bottom-alt:auto;
+	margin-left:0cm;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";}
+@page Section1
+	{size:612.0pt 792.0pt;
+	margin:9.0pt 3.0cm 70.85pt 9.0pt;
+	mso-header-margin:35.4pt;
+	mso-footer-margin:35.4pt;
+	mso-paper-source:0;}
+div.Section1
+	{page:Section1;}
+-->
+</style>
+</head>
+
+<body lang=ES link=blue vlink=purple style='tab-interval:35.4pt'>
+
+<div class=Section1>
+
+<p align=center style='text-align:center'><b><span style='font-size:13.5pt;
+font-family:Arial'>SEGURIDAD E HIGIENE EN LA INDUSTRIA ALIMENTICIA<br>
+</span></b><b><span style='font-family:Arial'>en un CD<br>
+</span></b><span style='font-family:Arial'><br>
+<b><span style="mso-spacerun: yes"> </span>Este es el temario</b></span></p>
+
+<p align=center style='text-align:center'><b><span style='font-size:10.0pt;
+font-family:Arial'>Código Internacional Recomendado De Prácticas -
+Principios
+Generales De Higiene De Los Alimentos</span></b><span
+style='font-size:10.0pt;
+font-family:Arial'><br>
+Ámbito De Aplicación, Utilización Y Definiciones -Producción Primaria-<br>
+Producción Higiénica De Materias Primas De Los Alimentos-Manipulación,
+Almacenamiento Y Transporte-<br>
+Limpieza, Mantenimiento E Higiene Del Personal En La Producción
+Primaria-Proyecto Y Construcción De Las Instalaciones -Control De Las
+Operaciones -Aspectos Fundamentales De Los Sistemas De Control De La
+Higiene-Requisitos Relativos A Las Materias Primas-Envasado-Agua-<br>
+Dirección Y Supervisión-Procedimientos Para Retirar Alimentos-Instalaciones:
+Mantenimiento Y Saneamiento -Mantenimiento Y Limpieza-Programas De
+LimpiezaSistemas
+De Lucha Contra Las Plagas-Tratamiento De Los Desechos-Eficacia De La
+Vigilancia-<br>
+Instalaciones: Higiene Personal -Estado De Salud-Enfermedades Y
+Lesiones-Aseo
+Personal-Comportamiento Personal-<br>
+Transporte -información Sobre Los Productos Y Sensibilización De Los
+Consumidores -Identificación De Los Lotes-Información Sobre Los
+Productos-<br>
+Etiquetado-Información A Los Consumidores-Capacitación -Conocimiento Y
+Responsabilidades-Programas De Capacitación-Instrucción Y Supervisión-<br>
+Capacitación De Actualización De Los ConocimientosSistema De Análisis De
+Peligros Y De Puntos Críticos De Control (Haccp) Y Directrices Para Su
+Aplicación -Principios Del Sistema De Haccp-Directrices Para La Aplicación
+Del
+Sistema De Haccp-Aplicación-<br>
+Principios Para El Establecimiento Y La Aplicación De Criterios
+Microbiológicos
+Para Los Alimentos -Definición De Criterio Microbiológic Componentes De Los
+Criterios Microbiológicos Para Los Alimentos-Fines Y Aplicación De Los
+Criterios Microbiológicos Para Los Alimentos-Aplicación Por Parte De Los
+Organismos De Reglamentación-Aplicación Por Parte De Los Empresarios Del
+Sector
+Alimentario-<br>
+Consideraciones Generales Sobre Los Principios Para El Establecimiento Y La
+Aplicación De Criterios Microbiológicos-Aspectos Microbiológicos De Los
+Criterios -Microorganismos, Parásitos Y Sus Toxinas/metabolitos Que Revisten
+Importancia En Un Determinado Alimento-Métodos Microbiológicos-Límites
+Microbiológicos-Planes De Muestreo, Métodos Y Manipulación-Presentación De
+Informes-<br>
+Principios Y Directrices Para La Aplicación De La Evaluación De Riesgos
+Microbiológicos&nbsp;<br>
+<br>
+<b>Toxicologia De Alimentos<br>
+</b>Fundamentos De Toxicología-Factores Implicado En La Intoxicación-Sistema
+Biológico-Vía O Ruta De Absorción-Tiempo De Interacción Del Agente Tóxico
+-Excreción Del Agente Tóxico-Dosis Letal Media (Dl50) .-Otros Índices
+Toxicológicos Comunes -Factores Biológicos Que Influyen En La
+Toxicidad-Indices
+Toxicológicos-Dosis Donde No Se Observa Efecto Adverso-Factor De Seguridad
+-<br>
+Ingesta A Dosis Diaria Admisible -Límite Máximo Residual-Proceso De
+Biotransformación -Relaciones Fase- Agentes Tóxicos Naturalmente Presentes
+En
+Los Alimentos. Introducción A La Toxicología De Alimentos-Evolución En La
+Disponibilidad De Los Alimentos-<br>
+Contaminantes -Agentes Tóxicos Generados Durante El Procesamiento De
+Alimentos-Discusión Y Conclusiones<br>
+<br>
+<br>
+<b>Higiene En Manejo y proceso De Alimentos<br>
+</b>Contaminación Química -Contaminación Física-Contaminación Natural O
+Vegetal-Intoxicación Alimentaria-¿cómo Proteger A Los Alimentos De La
+Contaminacion?-Higiene Y Presentación Personal-Higiene Personal-Higiene De
+Los
+Utensilios Y Del Ambiente-Condiciones De Higiene Adecuada-<br>
+Desinfeccion-Higiene De Los Alimentos Y Su Almacenaje-Como Reconocer Los
+Mariscos Frescos-Como Reconocer Las Carnes Frescas-La Higiene De Los
+Alimentos-Recepcion De Alimentos-Como Guardar Los Alimentos-Almacenándolos
+En
+Un Lugar Adecuado-Requisitos De Almacenamiento De Alimentos No
+Parecibles-Almacenamiento De Frutas Y Verduras-Almacenamiento En
+Congelacion-Almecenamiento En Refrigeracion-Servicio En La Cocina -Metodos
+De
+Conservacion-Recepción De Las Materias Primas Y Productos Intermedios-El
+Cocinado De Los Alimentos-<br>
+Regeneración-La Descongelación De Los Alimentos-<br>
+Alimentos Precocinados Y Preparados-Recalentar Los Alimentos-Intoxicación
+Alimentaria-Huevos
+Y Ovoproductos-Que Hacer Con Los Desperdicios Y Basuras-Medidas Higiénicas A
+Tener En Cuenta Al Elaborar O Preparar Un Alimento Para Su Consumo
+-Higiene en
+establecimientos gastronomicos-Buenas practicas de manipulacion en
+restaurantes
+y hoteles<br>
+<br>
+<b>Ingenieria De Alimentos-Practicas De Laboratorio</b><br>
+Formulación De Productos Y Optimización De Procesos Mediante Programación
+Lineal Prueba De Materiales Y Reología De Alimentos Sólidos-Reología De
+Alimentos Líquidos Y Semisólidos- Conceptos De Transferencia De Calor Y
+Tiempos
+De Muerte Térmica- enlatado De Alimentos, Procesamiento Térmico En
+Autoclave Y
+Cálculo De La Letalidad Por El Método General -Prueba De Penetración De
+Calor Y
+Diseño El Proceso Térmico Con El Método De La Formula De Ball-Escalde Y
+Congelación De Los Alimentos-Procesamiento Térmico A Temperatura Ultra
+Alta-Procesamiento Con Membranas De Alimentos Líquidos -Concentración De
+Alimentos Líquidos Por Evaporación -Principios De Diseño Experimental
+-Secado
+Por Aspersión Y En Tambor -Secado Conectivo De AlimentosDeshidratación
+Osmótica
+De Alimentos -Calentamiento De Los Alimentos A Base De Microondas -Freído De
+Los Alimentos -Cocimiento De Los Alimentos Por Extrusión -Empaque De
+Alimentos
+-Control De Procesos En La Manufactura De Alimentos -Experimentos De
+Laboratorio Paso Por Paso.-Descripción Del Equipo Necesario, Incluyendo Los
+Procedimientos De Operación.-<br>
+Ejemplos Resueltos Para Cálculos Importantes (Como: Cociente De Poisson,
+Módulos De Flexión, Cociente De Letalidad, Etcétera).-<br>
+Pruebas De Simulación En Computadora, Así Como Información Para El Uso De
+Hojas
+De Cálculo.-<br>
+Ejercicios, En Cada Uno De Los Cuales Se Plantean Preguntas Y Objetivos, Se
+Lleva A Cabo El Análisis De Datos Y Su Interpretación.-<br>
+<br>
+<b>Control de calidad de los alimentos<br>
+</b>Metodos analiticos y de laboratorio-Tecnicas de acuerdo al alimento-
+Muestras-Cromatografia- Tecnicas de degustacion<br>
+<br>
+<br>
+<b>Normas ISO 22000&nbsp;<br>
+</b>Sistema de gestion alimentaria-Responsabilidad de la direccion-Gestion
+de
+los recursos-Planificacion del producto y analisis de los peligros -
+Tecnicas
+opticas e instrumentales-Tablas y graficos-<br>
+<br>
+<b>Lecturas adicionales<br>
+</b>Analisis de los alimentos-Politicas y tecnicas de ingenieria
+ambiental-Prevencion de riesgos laborales en la industria
+alimenticia-Manual de
+microbiologia-<o:p></o:p></span></p>
+
+<p align=center style='text-align:center'><b><span style='font-size:18.0pt;
+mso-bidi-font-size:10.0pt;font-family:Arial'>Costo total: $150 con envio
+gratis
+a todo el pais</span></b><b><span
+style='font-size:18.0pt;mso-bidi-font-size:
+12.0pt'><o:p></o:p></span></b></p>
+
+<p align=center style='margin-bottom:12.0pt;text-align:center'><span
+style='font-family:Arial'>Solicitelo a&nbsp;: </span><span style='font-size:
+18.0pt;mso-bidi-font-size:12.0pt;font-family:Arial'><a
+href="mailto:seguridadalimen@hotmail.com">seguridadalimen@hotmail.com</a>
+</span><span
+style='font-family:Arial'><o:p></o:p></span></p>
+
+<p align=center style='margin-bottom:12.0pt;text-align:center'><span
+style='font-family:Arial'><span style="mso-spacerun: yes"> </span>indicando
+nombre dirección, localidad y código postal. Envios sin cargo por Correo
+Argentino contra reembolso. Envíos a Capital por mensajeria (indicando el
+horario de su preferencia)</span></p>
+
+<p class=MsoNormal><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></p>
+
+</div>
+
+<BR>
+<BR>
+__________ Información de ESET NOD32 Antivirus, versión de la base de firmas de virus 5193 (20100613) __________<BR>
+<BR>
+ESET NOD32 Antivirus ha comprobado este mensaje.<BR>
+<BR>
+<A HREF="http://www.eset.com">http://www.eset.com</A><BR>
+
+
+</body>
+
+</html>

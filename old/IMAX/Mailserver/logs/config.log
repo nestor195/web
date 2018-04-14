@@ -1,0 +1,212 @@
+[20/Jul/2009 16:34:35] Admin - session opened for host 127.0.0.1
+[20/Jul/2009 16:35:02] Admin - update ServicePorts set Port='8080' where Service='HTTP' and IPAddress='0.0.0.0' and Port='80'
+[20/Jul/2009 16:35:02] Admin - Start service HTTP
+[20/Jul/2009 16:39:47] Admin - insert User set Name='soporte', Domain='imaxcba.com.ar', Account_enabled='1', Auth_type='0', Password=xxxxxx Rights='0', ForwardMode='0', Qstorage='0', Qmessage='0', MaxOutgoingMessageSize='0', DefSpamFilter='1', Fullname='soporte', Authorization={"kms.we
+[20/Jul/2009 16:39:47] Admin - Set rights for folder #public@imaxcba.com.ar (user=soporte@imaxcba.com.ar, rights=lrswicda)
+[20/Jul/2009 16:40:55] Admin - insert Pop3 set Server='www.imaxcba.com.ar', User='soporte', Mbox='soporte@imaxcba.com.ar', Port='110', SslMode='0', Auth_type='0', Password=xxxxxx Max_msgcount='0', Max_msgsize='0', Enabled='1', DropDuplicates='0'
+[20/Jul/2009 16:42:13] Admin - update Smtp set DeliveryMode='0'
+[20/Jul/2009 16:42:13] Admin - update Relay set ServerName='www.imaxcba.com.ar', AuthEnabled='1'
+[20/Jul/2009 16:42:13] Admin - update Misc set ReportLanguage='es'
+[20/Jul/2009 16:44:22] Admin - Start service SMTP
+[20/Jul/2009 16:44:23] Admin - Start service POP3
+[20/Jul/2009 16:48:51] Admin - update Antivir set AvirEnabled='0'
+[20/Jul/2009 16:50:52] Admin - Start of mail queue processing
+[20/Jul/2009 16:50:58] Admin - Start of mail queue processing
+[20/Jul/2009 17:06:02] Admin - session closed for host 127.0.0.1
+[20/Jul/2009 17:20:49] Admin - session opened for host 127.0.0.1
+[20/Jul/2009 17:22:53] Admin - Stop service SMTP
+[20/Jul/2009 17:22:53] Admin - Start service SMTP
+[20/Jul/2009 17:22:56] Admin - Stop service POP3
+[20/Jul/2009 17:22:56] Admin - Start service POP3
+[20/Jul/2009 17:24:39] Admin - Receive mail from POP3 accounts
+[20/Jul/2009 17:28:14] Admin - update Smtp set DeliveryMode='1'
+[20/Jul/2009 17:31:58] Admin - update Smtp set DeliveryMode='0'
+[20/Jul/2009 17:31:58] Admin - update Relay set AuthUser='soporte', AuthPass=xxxxxx
+[20/Jul/2009 17:32:39] Admin - update Smtp set ClientUseSsl='0'
+[20/Jul/2009 17:37:08] Admin - update Relay set AuthUser=''
+[20/Jul/2009 17:37:35] Admin - update Relay set ServerName='imaxcba.com.ar'
+[20/Jul/2009 17:42:08] Admin - Stop service SMTP
+[20/Jul/2009 17:42:08] Admin - Start service SMTP
+[20/Jul/2009 17:42:10] Admin - Stop service SMTPS
+[20/Jul/2009 17:42:10] Admin - Start service SMTPS
+[20/Jul/2009 17:42:12] Admin - Stop service POP3
+[20/Jul/2009 17:42:12] Admin - Start service POP3
+[20/Jul/2009 17:42:14] Admin - Stop service POP3S
+[20/Jul/2009 17:42:14] Admin - Start service POP3S
+[20/Jul/2009 17:42:16] Admin - Stop service IMAP
+[20/Jul/2009 17:42:16] Admin - Start service IMAP
+[20/Jul/2009 17:42:18] Admin - Stop service IMAPS
+[20/Jul/2009 17:42:18] Admin - Start service IMAPS
+[20/Jul/2009 17:42:19] Admin - Stop service NNTP
+[20/Jul/2009 17:42:19] Admin - Start service NNTP
+[20/Jul/2009 17:42:21] Admin - Stop service NNTPS
+[20/Jul/2009 17:42:21] Admin - Start service NNTPS
+[20/Jul/2009 17:42:22] Admin - Stop service LDAP
+[20/Jul/2009 17:42:22] Admin - Start service LDAP
+[20/Jul/2009 17:42:24] Admin - Stop service LDAPS
+[20/Jul/2009 17:42:24] Admin - Start service LDAPS
+[20/Jul/2009 17:42:25] Admin - Stop service HTTP
+[20/Jul/2009 17:42:25] Admin - Start service HTTP
+[20/Jul/2009 17:45:01] Admin - Receive mail from POP3 accounts
+[20/Jul/2009 17:45:14] Admin - Receive mail from POP3 accounts
+[20/Jul/2009 17:45:20] Admin - Receive mail from POP3 accounts
+[20/Jul/2009 17:47:00] Admin - update Pop3 set Password=xxxxxx where Server='www.imaxcba.com.ar' and User='soporte'
+[20/Jul/2009 17:48:31] Admin - Receive mail from POP3 accounts
+[20/Jul/2009 17:50:17] Admin - Receive mail from POP3 accounts
+[20/Jul/2009 17:52:24] Admin - update User set Rights='3' where Name='soporte' and Domain='imaxcba.com.ar' controls ProviderID=0
+[20/Jul/2009 17:52:51] Admin - session closed for host 127.0.0.1
+[20/Jul/2009 18:06:01] Admin - session opened for host 127.0.0.1
+[20/Jul/2009 18:06:33] Admin - Receive mail from POP3 accounts
+[20/Jul/2009 18:10:40] Admin - Start service SMTP
+[20/Jul/2009 18:10:48] Admin - Start service SMTP
+[20/Jul/2009 18:12:46] Admin - Start service HTTPS
+[20/Jul/2009 18:13:03] Admin - Start service SMTP
+[20/Jul/2009 18:14:48] Admin - Start service SMTP
+[20/Jul/2009 18:17:28] Admin - Start service HTTPS
+[20/Jul/2009 18:20:41] Admin - update Pop3 set Password=xxxxxx where Server='www.imaxcba.com.ar' and User='soporte'
+[20/Jul/2009 18:20:41] Admin - Receive mail from POP3 accounts
+[20/Jul/2009 18:26:58] Admin - update Pop3 set User='soporteimax' where Server='www.imaxcba.com.ar' and User='soporte'
+[20/Jul/2009 18:27:00] Admin - Receive mail from POP3 accounts
+[20/Jul/2009 18:30:29] Admin - update Pop3 set Password=xxxxxx where Server='www.imaxcba.com.ar' and User='soporteimax'
+[20/Jul/2009 18:31:51] Admin - update Pop3 set Password=xxxxxx where Server='www.imaxcba.com.ar' and User='soporteimax'
+[20/Jul/2009 18:31:54] Admin - Receive mail from POP3 accounts
+[20/Jul/2009 18:34:40] Admin - update Relay set AuthUser='soporteimax', AuthPass=xxxxxx
+[20/Jul/2009 18:38:57] Admin - update Relay set ServerName='www.imaxcba.com.ar'
+[20/Jul/2009 18:40:42] Admin - update Smtp set DeliveryMode='1'
+[20/Jul/2009 18:44:16] Admin - session closed for host 127.0.0.1
+[20/Jul/2009 18:54:24] Admin - session opened for host 127.0.0.1
+[20/Jul/2009 18:58:25] Admin - Receive mail from POP3 accounts
+[20/Jul/2009 19:00:25] Admin - update Antispam set Enabled='0'
+[20/Jul/2009 19:00:25] Admin - update Smtp set DeliveryMode='0', ClientUseSsl='1'
+[20/Jul/2009 19:00:25] Admin - update Relay set AuthPass=xxxxxx
+[20/Jul/2009 19:12:49] Admin - update Antispam set Enabled='1', AllowAuth='0', AllowPop3BeforeSmtp='1'
+[20/Jul/2009 19:12:49] Admin - update Smtp set ClientUseSsl='0'
+[20/Jul/2009 19:12:49] Admin - update Relay set AuthType='1', AuthPass=xxxxxx
+[20/Jul/2009 19:15:18] Admin - session closed for host 127.0.0.1
+[21/Jul/2009 09:58:42] Admin - session opened for host 127.0.0.1
+[21/Jul/2009 10:01:30] Admin - session closed for host 127.0.0.1
+[21/Jul/2009 10:02:57] Admin - session opened for host 127.0.0.1
+[21/Jul/2009 10:20:39] Admin - Custom webmail logo set
+[21/Jul/2009 10:23:20] Admin - insert User set Name='nestor', Domain='imaxcba.com.ar', Account_enabled='1', Auth_type='0', Password=xxxxxx Rights='3', ForwardMode='0', Qstorage='0', Qmessage='0', MaxOutgoingMessageSize='0', DefSpamFilter='1' controls ProviderID=0
+[21/Jul/2009 10:23:20] Admin - Set rights for folder #public@imaxcba.com.ar (user=nestor@imaxcba.com.ar, rights=lrswicda)
+[21/Jul/2009 10:23:50] Admin - session closed for host 127.0.0.1
+[21/Jul/2009 10:36:06] Admin - session opened for host 127.0.0.1
+[21/Jul/2009 10:37:29] Admin - update Update set Enabled='0'
+[21/Jul/2009 10:37:29] Admin - update Http set SessionExpireTimeout='14400', CheckSessionClientIp='0'
+[21/Jul/2009 10:43:05] Admin - Custom webmail logo set
+[21/Jul/2009 10:45:42] Admin - insert User set Name='ntaborda', Domain='imaxcba.com.ar', Account_enabled='1', Auth_type='0', Password=xxxxxx Rights='3', ForwardMode='0', Qstorage='0', Qmessage='0', MaxOutgoingMessageSize='0', DefSpamFilter='1', Fullname='Nestor Daniel Taborda' controls
+[21/Jul/2009 10:45:42] Admin - Set rights for folder #public@imaxcba.com.ar (user=ntaborda@imaxcba.com.ar, rights=lrswicda)
+[21/Jul/2009 10:52:10] Admin - insert Pop3 set Server='www.imaxcba.com.ar', User='ntaborda', Mbox='ntaborda@imaxcba.com.ar', Port='110', SslMode='0', Auth_type='0', Password=xxxxxx Max_msgcount='0', Max_msgsize='0', Enabled='1', DropDuplicates='0'
+[21/Jul/2009 10:52:10] Admin - update Pop3 set Password=xxxxxx where Server='www.imaxcba.com.ar' and User='ntaborda'
+[21/Jul/2009 10:52:11] Admin - Receive mail from POP3 accounts
+[21/Jul/2009 10:53:44] Admin - delete from Pop3 where Server='www.imaxcba.com.ar' and User='ntaborda'
+[21/Jul/2009 10:55:45] Admin - delete from User where Name='ntaborda' and Domain='imaxcba.com.ar' controls ProviderID=0
+[21/Jul/2009 10:55:45] Admin - delete from User where Name='nestor' and Domain='imaxcba.com.ar' controls ProviderID=0
+[21/Jul/2009 10:55:45] Admin - insert User set Name='nestor', Domain='imaxcba.com.ar', Account_enabled='1', Auth_type='0', Password=xxxxxx Rights='3', MailAddress={"nestor.taborda"}, ForwardMode='0', Qstorage='0', Qmessage='0', MaxOutgoingMessageSize='0', DefSpamFilter='1' controls Pro
+[21/Jul/2009 10:55:46] Admin - Set rights for folder #public@imaxcba.com.ar (user=nestor@imaxcba.com.ar, rights=lrswicda)
+[21/Jul/2009 10:55:46] Admin - Set rights for folder #public@imaxcba.com.ar (user=ntaborda@imaxcba.com.ar, rights=)
+[21/Jul/2009 10:55:46] Admin - Set rights for folder #public (user=ntaborda@imaxcba.com.ar, rights=)
+[21/Jul/2009 10:55:47] Admin - Set rights for folder #public@imaxcba.com.ar (user=nestor@imaxcba.com.ar, rights=)
+[21/Jul/2009 10:55:47] Admin - Set rights for folder #public (user=nestor@imaxcba.com.ar, rights=)
+[21/Jul/2009 10:56:28] Admin - insert Pop3 set Server='www.imaxcba.com.ar', User='ntaborda', Mbox='nestor@imaxcba.com.ar', Port='110', SslMode='0', Auth_type='0', Password=xxxxxx Max_msgcount='0', Max_msgsize='0', Enabled='1', DropDuplicates='0'
+[21/Jul/2009 10:56:30] Admin - Receive mail from POP3 accounts
+[21/Jul/2009 11:01:19] Admin - update User set Password=xxxxxx where Name='nestor' and Domain='imaxcba.com.ar' controls ProviderID=0
+[21/Jul/2009 11:05:25] Admin - session closed for host 127.0.0.1
+[21/Jul/2009 14:39:58] Admin - session opened for host 127.0.0.1
+[21/Jul/2009 15:18:51] Admin - session closed for host 127.0.0.1
+[22/Jul/2009 13:46:53] Admin - session opened for host 127.0.0.1
+[22/Jul/2009 13:48:04] Admin - Receive mail from POP3 accounts
+[22/Jul/2009 13:48:21] Admin - Receive mail from POP3 accounts
+[22/Jul/2009 13:50:02] Admin - insert Scheduler set TimeType='0', Time='1', Enabled='1', Desc='descarga de mails', AllowDial='0', Action='2'
+[22/Jul/2009 13:56:00] Admin - session closed for host 127.0.0.1
+[23/Jul/2009 14:32:04] Admin - session opened for host 127.0.0.1
+[23/Jul/2009 14:50:39] Admin - session closed for host 127.0.0.1
+[28/Jul/2009 12:43:38] Admin - session opened for host 127.0.0.1
+[28/Jul/2009 12:45:17] Admin - update Smtp set MaxConcurrency='200'
+[28/Jul/2009 12:46:25] Admin - update Smtp set MaxRecipients='0', MaxBadCommands='6'
+[28/Jul/2009 12:47:06] Admin - session closed for host 127.0.0.1
+[30/Jul/2009 10:59:22] Admin - session opened for host 127.0.0.1
+[30/Jul/2009 11:02:51] Admin - session closed for host 127.0.0.1
+[06/Sep/2009 10:29:44] soporte - session opened for host 127.0.0.1
+[06/Sep/2009 10:30:08] soporte - update Relay set AuthPass=xxxxxx
+[06/Sep/2009 10:32:11] soporte - session closed for host 127.0.0.1
+[06/Sep/2009 16:16:51] soporte - session opened for host 127.0.0.1
+[06/Sep/2009 16:17:15] soporte - update Directories set StoreDir='D:\\Sistema\\Mailserver'
+[06/Sep/2009 16:17:31] soporte - session closed for host 127.0.0.1
+[06/Aug/2009 17:27:11] Admin - session closed for host 127.0.0.1
+[07/Aug/2009 09:26:26] admin - session opened for host 192.168.1.96
+[07/Aug/2009 09:28:36] admin - session closed for host 192.168.1.96
+[18/Aug/2009 09:34:37] Admin - session opened for host 127.0.0.1
+[18/Aug/2009 09:35:40] Admin - update User set Password=xxxxxx where Name='soporte' and Domain='imaxcba.com.ar' controls ProviderID=0
+[18/Aug/2009 09:37:04] Admin - update Antispam set AllowAuth='1'
+[18/Aug/2009 09:53:18] Admin - session closed for host 127.0.0.1
+[08/Oct/2009 14:15:32] Admin - session opened for host 127.0.0.1
+[08/Oct/2009 14:17:08] Admin - update User set Password=xxxxxx where Name='soporte' and Domain='imaxcba.com.ar' controls ProviderID=0
+[08/Oct/2009 14:17:08] Admin - update User set Password=xxxxxx where Name='nestor' and Domain='imaxcba.com.ar' controls ProviderID=0
+[08/Oct/2009 14:19:47] Admin - session closed for host 127.0.0.1
+[18/Nov/2009 11:36:11] Admin - session opened for host 127.0.0.1
+[18/Nov/2009 11:36:56] Admin - update User set Password=xxxxxx where Name='nestor' and Domain='imaxcba.com.ar' controls ProviderID=0
+[18/Nov/2009 11:37:48] Admin - update User set Password=xxxxxx where Name='nestor' and Domain='imaxcba.com.ar' controls ProviderID=0
+[18/Nov/2009 11:37:49] Admin - session closed for host 127.0.0.1
+[20/Nov/2009 17:32:15] Admin - session opened for host 127.0.0.1
+[20/Nov/2009 18:55:18] Admin - session closed for host 127.0.0.1
+[29/Dec/2009 15:35:35] Admin - session opened for host 127.0.0.1
+[29/Dec/2009 15:37:58] Admin - update User set Fullname='Soporte I.MAX Cordoba' where Name='soporte' and Domain='imaxcba.com.ar' controls ProviderID=0
+[29/Dec/2009 15:38:37] Admin - session closed for host 127.0.0.1
+[03/Feb/2010 16:49:15] Admin - session opened for host 127.0.0.1
+[03/Feb/2010 18:14:26] Admin - session closed for host 127.0.0.1
+[04/Feb/2010 12:24:35] Admin - session opened for host 127.0.0.1
+[04/Feb/2010 12:42:38] Admin - session closed for host 127.0.0.1
+[04/Feb/2010 12:46:50] Admin - session opened for host 127.0.0.1
+[04/Feb/2010 12:48:24] Admin - update Smtp set QueueRetryInterval='300', QueueBounceTimeout='1200'
+[04/Feb/2010 12:48:38] Admin - Start of mail queue processing
+[04/Feb/2010 12:49:02] Admin - Start of mail queue processing
+[04/Feb/2010 12:49:21] Admin - session closed for host 127.0.0.1
+[26/May/2010 18:26:52] Admin - session opened for host 127.0.0.1
+[26/May/2010 18:46:55] Admin - session closed for host 127.0.0.1
+[26/May/2010 18:47:20] Admin - session opened for host 127.0.0.1
+[26/May/2010 18:48:48] Admin - session closed for host 127.0.0.1
+[26/May/2010 18:49:36] Admin - session opened for host 127.0.0.1
+[26/May/2010 18:53:15] Admin - update User set Password=xxxxxx where Name='soporte' and Domain='imaxcba.com.ar' controls ProviderID=0
+[26/May/2010 18:55:58] Admin - session closed for host 127.0.0.1
+[27/May/2010 16:51:40] Admin - session opened for host 127.0.0.1
+[27/May/2010 16:55:58] Admin - update Pop3 set Password=xxxxxx where Server='www.imaxcba.com.ar' and User='soporteimax'
+[27/May/2010 16:56:25] Admin - update Relay set AuthType='0'
+[27/May/2010 16:59:46] Admin - update Relay set AuthPass=xxxxxx
+[27/May/2010 17:00:57] Admin - update Relay set AuthType='1'
+[27/May/2010 17:09:31] Admin - update Relay set AuthType='0'
+[27/May/2010 17:10:44] Admin - update Relay set AuthEnabled='0'
+[27/May/2010 17:20:49] Admin - update Pop3 set User='soporteimax@imaxcba.com.ar', Password=xxxxxx where Server='www.imaxcba.com.ar' and User='soporteimax'
+[27/May/2010 17:24:23] Admin - update Relay set AuthEnabled='1', AuthType='1', AuthUser='soporteimax@imaxcba.com.ar'
+[27/May/2010 17:28:01] Admin - update Pop3 set Enabled='0' where Server='www.imaxcba.com.ar' and User='ntaborda'
+[27/May/2010 17:28:01] Admin - insert Pop3 set Server='www.imaxcba.com.ar', User='dantemerlo@imaxcba.com.ar', Mbox='nestor@imaxcba.com.ar', Port='110', SslMode='0', Auth_type='0', Password=xxxxxx Max_msgcount='0', Max_msgsize='0', Enabled='1', DropDuplicates='0'
+[27/May/2010 17:29:59] Admin - delete from User where Name='nestor' and Domain='imaxcba.com.ar' controls ProviderID=0
+[27/May/2010 17:29:59] Admin - insert User set Name='dante', Domain='imaxcba.com.ar', Account_enabled='1', Auth_type='0', Password=xxxxxx Rights='3', ForwardMode='0', Qstorage='0', Qmessage='0', MaxOutgoingMessageSize='0', DefSpamFilter='1', Fullname='Dante Merlo' controls ProviderID=0
+[27/May/2010 17:30:00] Admin - Set rights for folder #public@imaxcba.com.ar (user=dante@imaxcba.com.ar, rights=lrswicda)
+[27/May/2010 17:34:10] Admin - update Pop3 set Mbox='dante@imaxcba.com.ar' where Server='www.imaxcba.com.ar' and User='dantemerlo@imaxcba.com.ar'
+[27/May/2010 17:34:10] Admin - Receive mail from POP3 accounts
+[27/May/2010 17:34:25] Admin - Receive mail from POP3 accounts
+[27/May/2010 17:36:18] Admin - Receive mail from POP3 accounts
+[27/May/2010 17:37:39] Admin - update Pop3 set Password=xxxxxx where Server='www.imaxcba.com.ar' and User='dantemerlo@imaxcba.com.ar'
+[27/May/2010 17:37:40] Admin - Receive mail from POP3 accounts
+[27/May/2010 17:43:50] Admin - session closed for host 127.0.0.1
+[29/May/2010 15:39:27] Admin - session opened for host 127.0.0.1
+[29/May/2010 15:39:55] Admin - update User set Password=xxxxxx where Name='soporte' and Domain='imaxcba.com.ar' controls ProviderID=0
+[29/May/2010 15:39:58] Admin - session closed for host 127.0.0.1
+[29/May/2010 15:44:33] Admin - session opened for host 127.0.0.1
+[29/May/2010 15:47:46] Admin - update Pop3 set User='soporteimax@imaxcba.com.ar', Password=xxxxxx where Server='www.imaxcba.com.ar' and User='soporteimax'
+[29/May/2010 15:48:03] Admin - update Relay set AuthUser='soporteimax@imaxcba.com.ar', AuthPass=xxxxxx
+[29/May/2010 15:48:25] Admin - update Pop3 set Password=xxxxxx where Server='www.imaxcba.com.ar' and User='soporteimax@imaxcba.com.ar'
+[29/May/2010 15:49:00] Admin - update User set Password=xxxxxx where Name='soporte' and Domain='imaxcba.com.ar' controls ProviderID=0
+[29/May/2010 15:49:00] Admin - delete from User where Name='nestor' and Domain='imaxcba.com.ar' controls ProviderID=0
+[29/May/2010 15:51:15] Admin - insert User set Name='dante', Domain='imaxcba.com.ar', Account_enabled='1', Auth_type='0', Password=xxxxxx Rights='3', ForwardMode='0', Qstorage='0', Qmessage='0', MaxOutgoingMessageSize='0', DefSpamFilter='1', Fullname='Dante Merlo' controls ProviderID=0
+[29/May/2010 15:51:15] Admin - Set rights for folder #public@imaxcba.com.ar (user=dante@imaxcba.com.ar, rights=lrswicda)
+[29/May/2010 15:52:25] Admin - delete from Pop3 where Server='www.imaxcba.com.ar' and User='ntaborda'
+[29/May/2010 15:52:25] Admin - insert Pop3 set Server='www.imaxcba.com.ar', User='dantemerlo@imaxcba.com.ar', Port='110', SslMode='0', Auth_type='0', Password=xxxxxx Max_msgcount='0', Max_msgsize='0', Enabled='1', DropDuplicates='0'
+[29/May/2010 15:52:25] Admin - update Pop3 set Mbox='dante@imaxcba.com.ar' where Server='www.imaxcba.com.ar' and User='dantemerlo@imaxcba.com.ar'
+[29/May/2010 16:01:54] Admin - update User set Fullname='Soporte Informático I.MAX cba' where Name='soporte' and Domain='imaxcba.com.ar' controls ProviderID=0
+[29/May/2010 16:05:01] Admin - session closed for host 127.0.0.1
+[31/May/2010 11:29:04] Admin - session opened for host 127.0.0.1
+[31/May/2010 11:29:39] Admin - session closed for host 127.0.0.1
+[31/May/2010 16:00:02] Admin - session opened for host 127.0.0.1
+[31/May/2010 16:00:18] Admin - session closed for host 127.0.0.1

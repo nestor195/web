@@ -1,0 +1,265 @@
+Return-Path: <info@hi5.com>
+X-Spam-Status: No, hits=0.1 required=5.0
+	tests=AWL: -0.085,HTML_FONT_BIG: 0.256,HTML_MESSAGE: 0.001,
+	MIME_HTML_ONLY: 0.001,TOTAL_SCORE: 0.173
+X-Spam-Level: 
+Return-Path: <info@hi5.com>
+Delivered-To: dantemerlo@imaxcba.com.ar
+Received: from localhost (localhost [127.0.0.1])
+	by ispconfig.miinet.com.ar (Postfix) with ESMTP id D4C7A8ADD6
+	for <soporte@imaxcba.com.ar>; Fri, 30 Jul 2010 14:42:19 -0300 (ART)
+X-Virus-Scanned: Debian amavisd-new at ispconfig.miinet.com.ar
+Received: from ispconfig.miinet.com.ar ([127.0.0.1])
+	by localhost (ispconfig.miinet.com.ar [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id PGNqQAnHvYAU for <soporte@imaxcba.com.ar>;
+	Fri, 30 Jul 2010 14:42:18 -0300 (ART)
+Received: from mailman005-mx30.snv1.external.hi5.com (mailman005-mx30.snv1.external.hi5.com [66.218.164.30])
+	by ispconfig.miinet.com.ar (Postfix) with ESMTP id 1588B8ADAB
+	for <soporte@imaxcba.com.ar>; Fri, 30 Jul 2010 14:42:18 -0300 (ART)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=key1; d=hi5.com;
+ h=Date:From:To:Message-ID:Subject:MIME-Version:Content-Type:Content-Transfer-Encoding; i=info@hi5.com;
+ bh=zPlniK8aX0e3yv3pwmcUfBun/Wk=;
+ b=A+ihRdr5Xi4C+M+ZBkRpL05TMHJ1gJhRrm4sk3y5+bBLFEt6e9oIqk3H5zf+UnvtjvMwVEibDmQE
+   0p8isVtNcL7GN3X6uqxJYUm9T+wEdp4D1cqi9/zN2ZN28yoaFZOW
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=key1; d=hi5.com;
+ b=ii4PpCNaNPRtOkP4hsim4BRcNO5+Wb9WKLBp795voFZbeIP6J3Y8mx3GPPEbJy5TqgTC8zhHueyH
+   G3wTunmWg5XxGCDqNZ2DWv7KKd0i49lbECsXy8Njdeoc0Oslj7Jf;
+Received: from oak1servpo003.oak1.internal.hi5.com (172.16.12.244) by mailman005-mx30.snv1.external.hi5.com (PowerMTA(TM) v3.5r15) id hac7fm0nj0kp for <soporte@imaxcba.com.ar>; Fri, 30 Jul 2010 10:42:17 -0700 (envelope-from <info@hi5.com>)
+Date: Fri, 30 Jul 2010 10:42:17 -0700 (PDT)
+From: Veronica Graziadei <info@hi5.com>
+To: soporte@imaxcba.com.ar
+Message-ID: <1611250905.214787.1280511737237.JavaMail.web@oak1servpo003.oak1.internal.hi5.com>
+Subject: Veronica Graziadei te ha enviado una solicitud de amigo(a)s de hi5
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+x-mail-type: 2066
+x-generating-machine: oak1app129.oak1.internal.hi5.com
+x-postoffice: oak1servpo003.oak1.internal.hi5.com
+X-EsetId: 101E3C2F2FB776690F183C7B21E03B
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+ <head>
+ <title></title>
+ <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8">
+ </head>
+ <body>
+ <table width=3D"600" border=3D"0" cellpadding=3D"0" cellspacing=3D"0">
+ <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+  "http://www.w3.org/TR/html4/strict.dtd">
+ <html lang=3D"en">
+ <head>
+  <meta http-equiv=3D"content-type" content=3D"text/html; charset=3Dutf-8">
+  <title>hi5 invite</title>
+ </head>
+ <body>
+  <table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+  <tr>
+  <td align=3D"center">
+  <table width=3D"900" border=3D"0" cellpadding=3D"0" cellspacing=3D"0">
+  <tr>
+  <td valign=3D"bottom" colspan=3D"3" width=3D"900" height=3D"57" style=3D"=
+background-color: #000000;"><img style=3D"vertical-align: bottom;" src=3D"h=
+ttp://images.hi5.com/images/email/campaigns/template-2068/top-01.jpg" width=
+=3D"900" height=3D"57" alt=3D""></td>
+  </tr>
+  <tr>
+  <td width=3D"140" valign=3D"top" style=3D"background-color: #000000;"><im=
+g src=3D"http://images.hi5.com/images/email/campaigns/template-2068/lt-01.j=
+pg" width=3D"140" height=3D"743" alt=3D""></td>
+  <!-- content -->
+  <td style=3D"font-family: Trebuchet MS,Helvetica,Jamrul,sans-serif; font-=
+weight: normal; background-color: #000000;" valign=3D"top" align=3D"center"=
+ width=3D"506">
+  <table style=3D"border-color: #ffffff; border-width: 10px; border-style: =
+solid;" width=3D"100%" cellspacing=3D"0" cellpadding=3D"0">
+  <!-- photo and stars -->
+  <tr>
+  <td align=3D"center" valign=3D"top" style=3D"padding-top: 42px;">
+  <a href=3D"http://www.hi5.com/friend/registration/displayRegistration.do?=
+templateId=3D2080&amp;inviteId=3DB_6510a22_0uV48G972ss&amp;smid=3DT0xEX1NNS=
+UQ9XzIwNjZfJlZFUlNJT049MSZDT05UQUlOU19BRD1mYWxzZSZUT19JRD0wJkRBVEVfU0VOVD0y=
+MDEwMDczMDEwJlNVQlRZUEU9MjA4MCZNSUQ9Q0VCUDE2UkRRQWwzcDF2cHFPNjQ2MTE0ODIwNDM=
+mVFlQRT0yMDY2" target=3D"_blank"><img style=3D"display: block;" src=3D"http=
+://images.hi5.com/images/email/campaigns/template-2068/hi5-star-01.png" wid=
+th=3D"97" height=3D"94" border=3D"0" alt=3D"hi5"></a>
+  </td>
+  <td align=3D"center" style=3D"padding-top: 28px;" valign=3D"top">
+  <table align=3D"center" width=3D"1%" style=3D"border-width: 1px; border-s=
+tyle: solid; border-color: #333333;" cellspacing=3D"0" cellpadding=3D"0">
+  <tr>
+  <td valign=3D"bottom"><a href=3D"http://www.hi5.com/friend/registration/d=
+isplayRegistration.do?templateId=3D2080&amp;inviteId=3DB_6510a22_0uV48G972s=
+s&amp;smid=3DT0xEX1NNSUQ9XzIwNjZfJlZFUlNJT049MSZDT05UQUlOU19BRD1mYWxzZSZUT1=
+9JRD0wJkRBVEVfU0VOVD0yMDEwMDczMDEwJlNVQlRZUEU9MjA4MCZNSUQ9Q0VCUDE2UkRRQWwzc=
+DF2cHFPNjQ2MTE0ODIwNDMmVFlQRT0yMDY2" target=3D"_blank"><img src=3D"http://w=
+ww.hi5.com/friend/displayInviteImage.do?templateId=3D2080&amp;inviteId=3DB_=
+6510a22_0uV48G972ss" alt=3D"Veronica Graziadei" border=3D"3" width=3D"120" =
+style=3D"border-width: 3px; border-style: solid; border-color: #000000; ver=
+tical-align: bottom;"></a></td>
+  </tr>
+  </table>
+  </td>
+  <td align=3D"center" valign=3D"top" style=3D"padding-top: 42px;">
+  <a href=3D"http://www.hi5.com/friend/registration/displayRegistration.do?=
+templateId=3D2080&amp;inviteId=3DB_6510a22_0uV48G972ss&amp;smid=3DT0xEX1NNS=
+UQ9XzIwNjZfJlZFUlNJT049MSZDT05UQUlOU19BRD1mYWxzZSZUT19JRD0wJkRBVEVfU0VOVD0y=
+MDEwMDczMDEwJlNVQlRZUEU9MjA4MCZNSUQ9Q0VCUDE2UkRRQWwzcDF2cHFPNjQ2MTE0ODIwNDM=
+mVFlQRT0yMDY2" target=3D"_blank"><img style=3D"display: block;" src=3D"http=
+://images.hi5.com/images/email/campaigns/template-2068/hi5-star-01.png" wid=
+th=3D"97" height=3D"94" border=3D"0" alt=3D"hi5"></a>
+  </td>
+  </tr>
+  <tr>
+  <td height=3D"15" colspan=3D"3" align=3D"center" style=3D"">&nbsp;</td>
+  </tr>
+  <!-- member name -->
+  <tr>
+  <td colspan=3D"3" align=3D"center" valign=3D"top"><h1 style=3D"text-align=
+: center; margin-top: 0; margin-bottom: 0; padding-top: 0; padding-bottom: =
+0;"><a href=3D"http://www.hi5.com/friend/registration/displayRegistration.d=
+o?templateId=3D2080&amp;inviteId=3DB_6510a22_0uV48G972ss&amp;smid=3DT0xEX1N=
+NSUQ9XzIwNjZfJlZFUlNJT049MSZDT05UQUlOU19BRD1mYWxzZSZUT19JRD0wJkRBVEVfU0VOVD=
+0yMDEwMDczMDEwJlNVQlRZUEU9MjA4MCZNSUQ9Q0VCUDE2UkRRQWwzcDF2cHFPNjQ2MTE0ODIwN=
+DMmVFlQRT0yMDY2" target=3D"_blank" style=3D"color: #f4f4f4; font-family: Tr=
+ebuchet MS,Helvetica,Jamrul,sans-serif; font-size: 19px; font-weight: bold;=
+ text-decoration: none; display: inline;">Veronica Graziadei</a></h1></td>
+  </tr>
+  <tr>
+  <td height=3D"23" colspan=3D"3" align=3D"center">&nbsp;</td>
+  </tr>
+  <!-- cta button -->
+  <tr>
+  <td colspan=3D"3" align=3D"center" valign=3D"top" background=3D"http://im=
+ages.hi5.com/images/email/campaigns/template-2068/gradient-01.png" style=3D=
+"padding-top: 25px;">
+  <table cellspacing=3D"0" cellpadding=3D"0" border=3D"0">
+  <tr>
+  <td background=3D"http://images.hi5.com/images/email/campaigns/template-2=
+068/btn-lt-01.png" width=3D"8" style=3D"width: 8px; background-color: #ff99=
+00;">
+  <a href=3D"http://www.hi5.com/friend/registration/displayRegistration.do?=
+templateId=3D2080&amp;inviteId=3DB_6510a22_0uV48G972ss&amp;smid=3DT0xEX1NNS=
+UQ9XzIwNjZfJlZFUlNJT049MSZDT05UQUlOU19BRD1mYWxzZSZUT19JRD0wJkRBVEVfU0VOVD0y=
+MDEwMDczMDEwJlNVQlRZUEU9MjA4MCZNSUQ9Q0VCUDE2UkRRQWwzcDF2cHFPNjQ2MTE0ODIwNDM=
+mVFlQRT0yMDY2" target=3D"_blank"><img src=3D"http://images.hi5.com/images/e=
+mail/campaigns/template-2069/spacer.gif" width=3D"8" height=3D"52" style=3D=
+"vertical-align: top;" border=3D"0"></a>
+  </td>
+  <td nowrap=3D"nowrap" background=3D"http://images.hi5.com/images/email/ca=
+mpaigns/template-2068/btn-ctr-01.png" bgcolor=3D"#ff9900" style=3D"color: #=
+000000; font-family: Trebuchet MS,Helvetica,Jamrul,sans-serif; font-weight:=
+ bold; font-size: 24px; white-space: nowrap;"><a href=3D"http://www.hi5.com=
+/friend/registration/displayRegistration.do?templateId=3D2080&amp;inviteId=
+=3DB_6510a22_0uV48G972ss&amp;smid=3DT0xEX1NNSUQ9XzIwNjZfJlZFUlNJT049MSZDT05=
+UQUlOU19BRD1mYWxzZSZUT19JRD0wJkRBVEVfU0VOVD0yMDEwMDczMDEwJlNVQlRZUEU9MjA4MC=
+ZNSUQ9Q0VCUDE2UkRRQWwzcDF2cHFPNjQ2MTE0ODIwNDMmVFlQRT0yMDY2" target=3D"_blan=
+k" style=3D"display: block; padding: 10px; text-decoration: none; color: #0=
+00000; font-family: Arial, Helvetica;">Aceptar invitaci=C3=B3n</a></td>
+  <td background=3D"http://images.hi5.com/images/email/campaigns/template-2=
+068/btn-rt-01.png" width=3D"6" style=3D"width: 6px; background-color: #ff99=
+00;">
+  <a href=3D"http://www.hi5.com/friend/registration/displayRegistration.do?=
+templateId=3D2080&amp;inviteId=3DB_6510a22_0uV48G972ss&amp;smid=3DT0xEX1NNS=
+UQ9XzIwNjZfJlZFUlNJT049MSZDT05UQUlOU19BRD1mYWxzZSZUT19JRD0wJkRBVEVfU0VOVD0y=
+MDEwMDczMDEwJlNVQlRZUEU9MjA4MCZNSUQ9Q0VCUDE2UkRRQWwzcDF2cHFPNjQ2MTE0ODIwNDM=
+mVFlQRT0yMDY2" target=3D"_blank"><img src=3D"http://images.hi5.com/images/e=
+mail/campaigns/template-2069/spacer.gif" width=3D"6" height=3D"52" style=3D=
+"vertical-align: top;" border=3D"0"></a>
+  </td>
+  </tr>
+  </table>
+  </td>
+  </tr>
+  <tr>
+  <td height=3D"30" colspan=3D"3" align=3D"center" style=3D"">&nbsp;</td>
+  </tr>
+  <!-- cta text -->
+  <tr>
+  <td colspan=3D"3" align=3D"center" valign=3D"top">
+  <p style=3D"color: #b5b5b5; text-align: center; font-family: Trebuchet MS=
+,Helvetica,Jamrul,sans-serif; font-weight: normal; font-size: 17px; margin-=
+top: 0; margin-left: 33px; margin-right: 33px; margin-bottom: 30px;">Veroni=
+ca Graziadei te ha agregado como amigo(a) en hi5. Necesitamos confirmar de =
+que conoces a Veronica Graziadei para que sean amigo(a)s en hi5. Hac=C3=A9 =
+clic en el bot=C3=B3n para confirmar esta solicitud:</p>
+  </td>
+  </tr>
+  </table>
+  <table border=3D"0" width=3D"100%" cellspacing=3D"0" cellpadding=3D"0">
+  <tr>
+  <td height=3D"25" colspan=3D"3"><img src=3D"http://www.hi5.com/friend/to.=
+do?loginid=3D&smid=3DT0xEX1NNSUQ9XzIwNjZfJlZFUlNJT049MSZDT05UQUlOU19BRD1mYW=
+xzZSZUT19JRD0wJkRBVEVfU0VOVD0yMDEwMDczMDEwJlNVQlRZUEU9MjA4MCZNSUQ9Q0VCUDE2U=
+kRRQWwzcDF2cHFPNjQ2MTE0ODIwNDMmVFlQRT0yMDY2" align=3D"absmiddle" border=3D"=
+0" height=3D"1" width=3D"1"></td>
+  </tr>
+  <!-- footer text -->
+  <tr>
+  <td colspan=3D"3" align=3D"center" style=3D"font-family: Helvetica, sans-=
+serif; font-weight: normal; font-size: 12px;">
+  <p style=3D"color: #666666; margin-top: 0; margin-bottom: 4px;">Copyright=
+ 2002-2008 hi5 Networks, Inc. Todos los derechos reservados.</p>
+  <p style=3D"color: #666666; margin-top: 0; margin-bottom: 4px;">55 Second=
+ Street, Suite 300, San Francisco, CA 94105</p>
+  <p style=3D"color: #b5b5b5; margin-top: 0; margin-bottom: 0;"><a target=
+=3D"_blank" style=3D"color: #ff9900; border-bottom-style: solid; border-bot=
+tom-color: #402600; border-bottom-width: 1px; text-decoration: none;" href=
+=3D"http://www.hi5.com/friend/displayPrivacy.do">Pol=C3=ADtica de Privacida=
+d</a> | <a target=3D"_blank" href=3D"http://www.hi5.com/friend/displayBlock=
+Invite.do?email=3Dsoporte@imaxcba.com.ar" style=3D"color: #ff9900; font-siz=
+e: 12px; border-bottom-style: solid; border-bottom-color: #402600; border-b=
+ottom-width: 1px; text-decoration: none;">Cancelar suscripci=C3=B3n</a> | <=
+a target=3D"_blank" href=3D"http://www.hi5.com/friend/displayTOS.do" style=
+=3D"color: #ff9900; font-size: 12px; text-decoration: none; border-bottom-s=
+tyle: solid; border-bottom-color: #402600; border-bottom-width: 1px; text-d=
+ecoration: none;" >T=C3=A9rminos de servicio</a></p>
+  </td>
+  </tr>
+  </table>
+  </td>
+  <!-- / content -->
+  <td width=3D"254" valign=3D"top" style=3D"background-color: #000000;"><im=
+g src=3D"http://images.hi5.com/images/email/campaigns/template-2068/rt-01.j=
+pg" width=3D"254" height=3D"743" alt=3D""></td>
+  </tr>
+  </table>
+  </td>
+  </tr>
+  </table>
+ </body>
+ </html>
+ </table>
+ <table width=3D"600">
+  <tr>
+  <td style=3D"text-align: center; font: 10px Verdana; color: #a7a7a7; padd=
+ing-left: 10px;">
+  <span style=3D"color: #333;">--------------------------------------------=
+----------</span><br/>
+  Copyright 2002-2008 hi5 Networks, Inc. Todos los derechos reservados.<br/=
+>
+  55 Second Street, Suite 300, San Francisco, CA 94105<br/>
+  <a href=3D"http://www.hi5.com/friend/displayPrivacy.do">Pol=C3=ADtica de =
+Privacidad</a> | <a href=3D"http://www.hi5.com/friend/displayBlockInvite.do=
+?email=3Dsoporte@imaxcba.com.ar">Cancelar suscripci=C3=B3n</a> | <a href=3D=
+"http://www.hi5.com/friend/displayTOS.do">T=C3=A9rminos de servicio</a>
+  <img src=3D"http://www.hi5.com/friend/to.do?loginid=3D&smid=3DT0xEX1NNSUQ=
+9XzIwNjZfJlZFUlNJT049MSZDT05UQUlOU19BRD1mYWxzZSZUT19JRD0wJkRBVEVfU0VOVD0yMD=
+EwMDczMDEwJlNVQlRZUEU9MjA4MCZNSUQ9Q0VCUDE2UkRRQWwzcDF2cHFPNjQ2MTE0ODIwNDMmV=
+FlQRT0yMDY2" align=3D"absmiddle" border=3D"0" height=3D"20" width=3D"1">
+  </td>
+  </tr>
+ </table>
+ <BR>
+<BR>
+__________ Informaci=F3n de ESET NOD32 Antivirus, versi=F3n de la base de f=
+irmas de virus 5321 (20100728) __________<BR>
+<BR>
+ESET NOD32 Antivirus ha comprobado este mensaje.<BR>
+<BR>
+<A HREF=3D"http://www.eset.com">http://www.eset.com</A><BR>
+
+
+</body>
+</html>

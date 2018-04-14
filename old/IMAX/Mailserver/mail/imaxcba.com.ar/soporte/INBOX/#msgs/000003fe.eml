@@ -1,0 +1,64 @@
+Return-Path: <>
+Received: from localhost
+	by RECEPCION (Kerio MailServer 6.5.2); Wed, 26 May 2010 12:29:03 -0300
+Date: Wed, 26 May 2010 12:29:03 -0300
+Message-ID: <14162890-2812@RECEPCION>
+MIME-Version: 1.0
+From: Mail Delivery Subsystem <postmaster@RECEPCION>
+To: <soporte@imaxcba.com.ar>
+Subject: =?utf-8?Q?Correo_electr=C3=B3nico_devuelto=3A=20?=
+Content-Type: multipart/report; report-type=delivery-status;
+	boundary="MIME-14162781-7028-delim"
+
+--MIME-14162781-7028-delim
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 8bit
+
+
+Este es un mensaje informativo enviado por RECEPCION. 
+
+El servidor no ha podido entregar su mensaje de correo electrónico 
+
+  Subject: 
+  Date: Wed, 26 May 2010 12:29:01 -0300
+
+
+
+a las siguientes direcciones:
+
+  <leocaminos@hotmail.com> (www.imaxcba.com.ar: 535 5.7.8 Error: authentication failed: authentication failure)
+--MIME-14162781-7028-delim
+Content-Type: message/delivery-status
+
+Reporting-MTA: dns; RECEPCION
+Arrival-Date: Wed, 26 May 2010 12:29:01 -0300
+
+Original-Recipient: leocaminos@hotmail.com
+Final-Recipient: rfc822;leocaminos@hotmail.com
+Action: failed
+Status: 5.7.0
+Remote-MTA: www.imaxcba.com.ar
+Diagnostic-Code: SMTP; 535 5.7.8 Error: authentication failed: authentication failure
+
+--MIME-14162781-7028-delim
+Content-Type: text/rfc822-headers
+
+Received: from [192.168.1.53] ([192.168.1.53])
+	by RECEPCION (Kerio MailServer 6.5.2)
+	for leocaminos@hotmail.com;
+	Wed, 26 May 2010 12:29:01 -0300
+To: leocaminos@hotmail.com
+From: "Soporte I.MAX Cordoba" <soporte@imaxcba.com.ar>
+Organization: Soporte Imax Cordoba
+Subject: 
+Message-ID: <20100526152901.2a87c287@RECEPCION>
+Date: Wed, 26 May 2010 12:29:01 -0300
+X-Mailer: Kerio MailServer 6.5.2 WebMail
+X-User-Agent: Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET
+	CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0)
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="-----------2776bb6e1fee2ee10f86572492ab4643"
+
+--MIME-14162781-7028-delim--
+

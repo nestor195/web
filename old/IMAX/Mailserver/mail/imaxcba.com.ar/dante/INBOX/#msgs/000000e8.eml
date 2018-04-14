@@ -1,0 +1,80 @@
+Return-Path: <aprenda@vps.usuarioweb.com.ar>
+X-Spam-Status: No, hits=2.2 required=5.0
+	tests=HTML_FONT_BIG: 0.256,HTML_IMAGE_ONLY_16: 0.627,HTML_MESSAGE: 0.001,
+	HTML_SHORT_LINK_IMG_2: 0.951,MAILTO_TO_SPAM_ADDR: 0.276,MIME_HTML_ONLY: 0.001,
+	TO_CC_NONE: 0.134,TOTAL_SCORE: 2.246
+X-Spam-Level: **
+Return-Path: <aprenda@vps.usuarioweb.com.ar>
+Delivered-To: dantemerlo@imaxcba.com.ar
+Received: from localhost (localhost [127.0.0.1])
+	by ispconfig.miinet.com.ar (Postfix) with ESMTP id 378D08A9AE
+	for <soporte@imaxcba.com.ar>; Tue,  6 Jul 2010 20:43:04 -0300 (ART)
+X-Virus-Scanned: Debian amavisd-new at ispconfig.miinet.com.ar
+Received: from ispconfig.miinet.com.ar ([127.0.0.1])
+	by localhost (ispconfig.miinet.com.ar [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id XRP1TK-9mkKn for <soporte@imaxcba.com.ar>;
+	Tue,  6 Jul 2010 20:43:03 -0300 (ART)
+Received: from vps.usuarioweb.com.ar (unknown [174.123.100.250])
+	by ispconfig.miinet.com.ar (Postfix) with ESMTPS id E508B8A9AD
+	for <soporte@imaxcba.com.ar>; Tue,  6 Jul 2010 20:43:02 -0300 (ART)
+Received: from aprenda by vps.usuarioweb.com.ar with local (Exim 4.69)
+	(envelope-from <aprenda@vps.usuarioweb.com.ar>)
+	id 1OWGcC-0003gB-HI; Tue, 06 Jul 2010 18:27:44 -0400
+To: 
+Subject: Ingles Acelerado
+X-PHP-Script: www.aprenda-ingles-ya.com.ar/enviomail4.php for 190.49.190.96
+MIME-Version: 1.0
+Content-type: text/html; charset=iso-8859-1
+From: Ingles Acelerado <aceleradoingles@gmail.com>
+Reply-To: soloen20@gmail.com
+Cc: 
+Message-Id: <E1OWGcC-0003gB-HI@vps.usuarioweb.com.ar>
+Date: Tue, 06 Jul 2010 18:27:44 -0400
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - vps.usuarioweb.com.ar
+X-AntiAbuse: Original Domain - imaxcba.com.ar
+X-AntiAbuse: Originator/Caller UID/GID - [517 513] / [47 12]
+X-AntiAbuse: Sender Address Domain - vps.usuarioweb.com.ar
+X-EsetId: 101E3C2F2FB776690F183C7B20E737
+
+
+
+<html>
+<head>
+   <title>Ingles Acelerado</title>
+</head>
+<body>
+<style type="text/css">
+<!--
+.Estilo1 {
+	color: #CC0000;
+	font-weight: bold;
+	font-size: 36px;
+}
+-->
+</style>
+<p align="center"><b>Si no logra ver correctamente el mail <a href="http://www.aprenda-ingles-ya.com.ar/ingles.htm">ingrese aqui</a></b></p>
+
+<p><img src="http://www.aprenda-ingles-ya.com.ar/header1.jpg" ></p>
+<p><a href="mailto:soloen20@gmail.com"><img src="http://www.aprenda-ingles-ya.com.ar/header10.jpg" ></a></p>
+<p align="center"><b>Comunicate hoy mismo con nosotros de 10 a 19 hs.</b></p>
+<p align="center"><b>al (011)4383-2807 o enviarnos<a href="mailto:soloen20@gmail.com"> un email aquí</a></p>
+
+<a href="http://www.aprenda-ingles-ya.com.ar"><h1 align="center">www.APRENDA-INGLES-YA.com.ar</h1></a>
+
+<pclass="Estilo1"><samp><code>Este mensaje cuenta con la opcion de <a href="mailto:cancelaringles@usuarioweb.com.ar">DAR DE BAJA</a> para que dicho correo no pueda ser considerado spam.
+Si desea darse de baja de nuestra base de datos, por favor precione <a href="mailto:cancelaringles@usuarioweb.com.ar">aquí</a> y lo daremos de baja. Muchas gracias.</code></samp></p>
+
+
+<BR>
+<BR>
+__________ Información de ESET NOD32 Antivirus, versión de la base de firmas de virus 5256 (20100706) __________<BR>
+<BR>
+ESET NOD32 Antivirus ha comprobado este mensaje.<BR>
+<BR>
+<A HREF="http://www.eset.com">http://www.eset.com</A><BR>
+
+
+</body>
+</html>
+

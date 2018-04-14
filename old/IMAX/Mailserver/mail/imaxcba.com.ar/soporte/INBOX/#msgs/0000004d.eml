@@ -1,0 +1,67 @@
+Return-Path: <>
+X-Spam-Status: No, hits=0.6 required=5.0
+	tests=AWL: 0.138,NO_REAL_NAME: 0.55,TOTAL_SCORE: 0.688
+X-Spam-Level: 
+Return-Path: <>
+X-Original-To: soporte@imaxcba.com.ar
+Delivered-To: soporteimax@ns.intersolutions.com.ar
+Received: from VWSAPASSMTP01.ar.sa.vwg (mail1.vw.com.ar [200.32.104.235])
+	by ns.intersolutions.com.ar (Postfix) with ESMTP id 176E91D00A0
+	for <soporte@imaxcba.com.ar>; Tue, 28 Jul 2009 12:41:59 -0300 (ART)
+From: postmaster@volkswagen.de
+To: soporte@imaxcba.com.ar
+Date: Tue, 28 Jul 2009 12:41:59 -0300
+MIME-Version: 1.0
+Content-Type: multipart/report; report-type=delivery-status;
+	boundary="9B095B5ADSN=_01CA0EE6AE62D34200006AA6VWSAPASSMTP01.ar"
+X-DSNContext: 335a7efd - 4523 - 00000001 - 80040546
+Message-ID: <bpH71yEXU00012abe@VWSAPASSMTP01.ar.sa.vwg>
+Subject: Delivery Status Notification (Failure)
+X-EsetId: DD6D36293B446069C26B367F331523
+
+This is a MIME-formatted message.  
+Portions of this message may be unreadable without a MIME-capable mail program.
+
+--9B095B5ADSN=_01CA0EE6AE62D34200006AA6VWSAPASSMTP01.ar
+Content-Type: text/plain; charset=unicode-1-1-utf-7
+
+This is an automatically generated Delivery Status Notification.
+
+Delivery to the following recipients failed.
+
+       Abram@vw.com.ar
+
+
+
+
+
+
+__________ Información de ESET NOD32 Antivirus, versión de la base de firmas de virus 4276 (20090725) __________
+
+ESET NOD32 Antivirus ha comprobado este mensaje.
+
+http://www.eset.com
+
+
+--9B095B5ADSN=_01CA0EE6AE62D34200006AA6VWSAPASSMTP01.ar
+Content-Type: message/delivery-status
+
+Reporting-MTA: dns;VWSAPASSMTP01.ar.sa.vwg
+Received-From-MTA: dns;ns.intersolutions.com.ar
+Arrival-Date: Tue, 28 Jul 2009 12:41:56 -0300
+
+Original-Recipient: rfc822;Abram@vw.com.ar
+Final-Recipient: rfc822;Abram@vw.com.ar
+Action: failed
+Status: 5.1.1
+
+--9B095B5ADSN=_01CA0EE6AE62D34200006AA6VWSAPASSMTP01.ar
+Content-Type: text/rfc822-headers
+
+From:  "Imax" <soporte@imaxcba.com.ar>
+To:  <actafejec@minag.gov.cu>
+Message-ID:  <6B5DC45B34FA4D67AD237F60871E9BD5@PcMauri>
+Subject:  =?iso-8859-1?Q?_IMAX_-_Servicio_T=E9cnico_Integral_Inform=E1tico?=
+
+
+--9B095B5ADSN=_01CA0EE6AE62D34200006AA6VWSAPASSMTP01.ar--

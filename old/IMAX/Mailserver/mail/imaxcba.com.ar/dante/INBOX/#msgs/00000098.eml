@@ -1,0 +1,85 @@
+Return-Path: <danielabarberis@gmail.com>
+X-Spam-Status: No, hits=0.6 required=5.0
+	tests=HTML_00_10: 0.642,HTML_MESSAGE: 0.001,TOTAL_SCORE: 0.643
+X-Spam-Level: 
+Return-Path: <danielabarberis@gmail.com>
+Delivered-To: dantemerlo@imaxcba.com.ar
+Received: from localhost (localhost [127.0.0.1])
+	by ispconfig.miinet.com.ar (Postfix) with ESMTP id 0D5DE8A55D
+	for <soporte@imaxcba.com.ar>; Sun, 20 Jun 2010 19:14:38 -0300 (ART)
+X-Virus-Scanned: Debian amavisd-new at ispconfig.miinet.com.ar
+Received: from ispconfig.miinet.com.ar ([127.0.0.1])
+	by localhost (ispconfig.miinet.com.ar [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id mDPgbyBvcAUE for <soporte@imaxcba.com.ar>;
+	Sun, 20 Jun 2010 19:14:36 -0300 (ART)
+Received: from mail-iw0-f172.google.com (mail-iw0-f172.google.com [209.85.214.172])
+	by ispconfig.miinet.com.ar (Postfix) with ESMTP id 931E88A085
+	for <soporte@imaxcba.com.ar>; Sun, 20 Jun 2010 19:14:32 -0300 (ART)
+Received: by iwn2 with SMTP id 2so2636203iwn.3
+        for <soporte@imaxcba.com.ar>; Sun, 20 Jun 2010 15:14:31 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=gamma;
+        h=domainkey-signature:mime-version:received:received:date:message-id
+         :subject:from:to:content-type;
+        bh=cU9Ki2kLBoO5/1Hw4IdoFcF+eZ3UAAiLGFcV+SmtjxY=;
+        b=JzvVphRNgZANFeVqTutCH2iSedRYD7D1ScRpMTuEs5tNNzH0trrncmYI25b7O/dGSt
+         jVKkEaIvDxYX5z+1qLSSGrZEMovCE2uIyjEx47f4qNPP+9fHEUCw0CQBtRj5+ySn8NEO
+         cSW7AplTmVpAF86knbSHGoxJMGWByTWKAQ1uk=
+DomainKey-Signature: a=rsa-sha1; c=nofws;
+        d=gmail.com; s=gamma;
+        h=mime-version:date:message-id:subject:from:to:content-type;
+        b=sQGeH/Q72VTvVuJZxUhPa6xAT13Idht2Cwslw50w2q4A+N7mm5Zxr6qvfQoSpXKj5V
+         Xx3mdy5SgejCds9QJB084PJhv7/mK7pASFi9/lj3MIUiD4aVbj95KeIqFWvoHF30eRIE
+         gaqwAa7EQNPA1nPlsSo+LAKMOKlutt4z5Swhk=
+MIME-Version: 1.0
+Received: by 10.231.178.132 with SMTP id bm4mr4424485ibb.62.1277072071439; 
+	Sun, 20 Jun 2010 15:14:31 -0700 (PDT)
+Received: by 10.231.176.6 with HTTP; Sun, 20 Jun 2010 15:14:31 -0700 (PDT)
+Date: Sun, 20 Jun 2010 19:14:31 -0300
+Message-ID: <AANLkTilHmcpom7egdLszoaqVDH93oU2eQJatirOyyMx-@mail.gmail.com>
+Subject: Servicio tecnico - pixel caliente
+From: Daniela Barberis <danielabarberis@gmail.com>
+To: soporte@imaxcba.com.ar
+Content-Type: multipart/alternative; boundary=00504502bf632bb66104897d835e
+X-EsetId: 101E3C2F2FB776690F183C7B27E737
+
+--00504502bf632bb66104897d835e
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+Hola. Tengo una dell studio 15. La maquina anda perfecto, mi problema es qu=
+e
+le salio en la pantalla un pixel caliente (blanco) y no puedo quitarlo.
+Queria saber si lo pueden arreglar y cuanto me costaria.
+
+Lo que si... la necesito par el dia. Se que el procedimiento no es complejo
+por lo que creo que no habr=EDa ning=FAn problema. Es que yo trabajo con la
+m=E1quina y no puedo dejar mis proyectos.
+
+Saludos coordiales.
+
+Daniela Barberis
+
+
+
+__________ Informaci=F3n de ESET NOD32 Antivirus, versi=F3n de la base de f=
+irmas de virus 5210 (20100619) __________
+
+ESET NOD32 Antivirus ha comprobado este mensaje.
+
+http://www.eset.com
+
+
+--00504502bf632bb66104897d835e
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+Hola. Tengo una dell studio 15. La maquina anda perfecto, mi problema es qu=
+e le salio en la pantalla un pixel caliente (blanco) y no puedo quitarlo. Q=
+ueria saber si lo pueden arreglar y cuanto me costaria.<br><br>Lo que si...=
+ la necesito par el dia. Se que el procedimiento no es complejo por lo que =
+creo que no habr=EDa ning=FAn problema. Es que yo trabajo con la m=E1quina =
+y no puedo dejar mis proyectos.<br>
+<br>Saludos coordiales.<br><br>Daniela Barberis<br>
+
+--00504502bf632bb66104897d835e--

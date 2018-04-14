@@ -1,0 +1,17 @@
+Subject: Andres
+Date: Tue, 29 Dec 2009 17:59:20 -0300
+Content-Type: text/vcard; charset="utf-8"
+Content-Transfer-Encoding: 8bit
+
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//kerio.com/Contacts//NONSGML v1.0//EN
+N:;Andres;;;
+FN:Andres
+X-FILE-AS:, Andres\nEikon
+CLASS:PUBLIC
+ORG:Eikon;
+TITLE:Vendedor
+ICQ:andres@eikonweb.com.ar
+EMAIL;TYPE=PREF,HOME:andres@eikonweb.com.ar
+END:VCARD

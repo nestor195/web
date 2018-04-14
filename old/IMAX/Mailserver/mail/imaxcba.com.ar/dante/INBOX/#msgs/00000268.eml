@@ -1,0 +1,201 @@
+Return-Path: <btb@netuno.com.br>
+X-Spam-Status: No, hits=0.1 required=5.0
+	tests=HTML_IMAGE_RATIO_02: 0.192,HTML_MESSAGE: 0.001,MIME_HTML_ONLY: 0.001,
+	TOTAL_SCORE: 0.194
+X-Spam-Level: 
+Return-Path: <btb@netuno.com.br>
+Delivered-To: dantemerlo@imaxcba.com.ar
+Received: from localhost (localhost [127.0.0.1])
+	by ns3.miinetserver.com.ar (Postfix) with ESMTP id 8CABC8B7BE
+	for <soporte@imaxcba.com.ar>; Tue, 24 Aug 2010 05:49:14 -0300 (ART)
+X-Virus-Scanned: Debian amavisd-new at ispconfig.miinet.com.ar
+Received: from ns3.miinetserver.com.ar ([127.0.0.1])
+	by localhost (ns3.miinetserver.com.ar [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id IbYrgA-ENn0H for <soporte@imaxcba.com.ar>;
+	Tue, 24 Aug 2010 05:49:13 -0300 (ART)
+Received: from netuno.com.br (unknown [190.19.33.146])
+	by ns3.miinetserver.com.ar (Postfix) with ESMTP id 9FCA88B7B5
+	for <soporte@imaxcba.com.ar>; Tue, 24 Aug 2010 05:49:12 -0300 (ART)
+Reply-To: ventas@btbsoft.com.ar  (BTB)
+From: btb@netuno.com.br (BTB)
+To: soporte@imaxcba.com.ar
+Subject: Facturacion Electronica  soporte@imaxcba.com.ar
+Date: 24 Aug 2010 05:49:23 -0300
+Message-ID: <20100824054921.368755B9A3787FF9@netuno.com.br>
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+X-EsetId: 101E3C2F2FB776690F183C7B23E533
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<title>BTB Soft :: Gesti&oacute;n F&aacute;cil</title>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Diso-8859-1=
+">
+<script language=3D"JavaScript" type=3D"text/JavaScript">
+<!--
+
+
+
+function MM_preloadImages() { //v3.0
+  var d=3Ddocument; if(d.images){ if(!d.MM_p) d.MM_p=3Dnew Array();
+    var i,j=3Dd.MM_p.length,a=3DMM_preloadImages.arguments; for(i=3D0; i<a.l=
+ength; i++)
+    if (a[i].indexOf("#")!=3D0){ d.MM_p[j]=3Dnew Image; d.MM_p[j++].src=3Da[=
+i];}}
+}
+//-->
+</script>
+</head>
+
+<body leftmargin=3D"0" topmargin=3D"0" marginwidth=3D"0" marginheight=3D"0">=
+
+<table width=3D"600" border=3D"0" align=3D"center" cellpadding=3D"0" cellspa=
+cing=3D"0">
+  <tr>=20
+    <td><img src=3D"http://www.btbsoft.com.ar/images/images/01.jpg" width=3D=
+"600" height=3D"138" border=3D"0" usemap=3D"#Map2"></td>
+  </tr>
+  <tr>=20
+    <td><img src=3D"http://www.btbsoft.com.ar/images/images/02.jpg" width=3D=
+"600" height=3D"235" border=3D"0" usemap=3D"#Map3"></td>
+  </tr>
+  <tr>=20
+    <td><img src=3D"http://www.btbsoft.com.ar/images/images/03.jpg" width=3D=
+"600" height=3D"106" border=3D"0" usemap=3D"#Map"></td>
+  </tr>
+  <tr>=20
+    <td><img src=3D"http://www.btbsoft.com.ar/images/images/04.gif" width=3D=
+"600" height=3D"83" border=3D"0" usemap=3D"#Map4"></td>
+  </tr>
+  <tr>=20
+    <td bgcolor=3D"#2f6999"><img src=3D"http://www.btbsoft.com.ar/images/ima=
+ges/05.jpg" width=3D"600" height=3D"274" border=3D"0" usemap=3D"#Map6"></td>=
+
+  </tr>
+  <tr>=20
+    <td><img src=3D"http://www.btbsoft.com.ar/images/images/06.gif" width=3D=
+"600" height=3D"110" border=3D"0"></td>
+  </tr>
+  <tr>=20
+    <td><img src=3D"http://www.btbsoft.com.ar/images/images/07.jpg" width=3D=
+"600" height=3D"143" border=3D"0" usemap=3D"#Map5"></td>
+  </tr>
+</table>
+<map name=3D"Map2">
+  <area shape=3D"rect" coords=3D"134,27,302,72" href=3D"#">
+  <area shape=3D"rect" coords=3D"344,81,524,137" href=3D"#">
+  <area shape=3D"poly" coords=3D"422,183,429,154,461,156,567,183,422,182" hr=
+ef=3D"#">
+</map>
+<map name=3D"Map3">
+  <area shape=3D"poly" coords=3D"432,-11,396,113,535,145,570,15,468,-10" hre=
+f=3D"http://www.btbsoft.com.ar/nota.php?nota.php&cap=3Dnota&id=3Dcerocosto&r=
+eferente=3D0costo">
+  <area shape=3D"rect" coords=3D"97,204,208,229" href=3D"http://www.btbsoft.=
+com.ar/consorcios.php?referente=3DConsorcioBase" target=3D"_blank" alt=3D"Co=
+nsorcios">
+  <area shape=3D"rect" coords=3D"237,204,348,230" href=3D"http://www.btbsoft=
+=2Ecom.ar/gestion_industrial.php?referente=3DindustrialBase" target=3D"_blank"=
+ alt=3D"Producci&oacute;n">
+  <area shape=3D"rect" coords=3D"379,204,490,231" href=3D"http://www.btbsoft=
+=2Ecom.ar/cooperativas.php?referente=3DcoopBase" target=3D"_blank" alt=3D"Coop=
+erativas">
+</map>
+<map name=3D"Map">
+  <area shape=3D"rect" coords=3D"97,77,208,104" href=3D"http://www.btbsoft.c=
+om.ar/Sueldos.php?referente=3DsueldosBase" target=3D"_blank" alt=3D"Sueldos"=
+>
+  <area shape=3D"rect" coords=3D"238,78,349,103" href=3D"http://www.btbsoft.=
+com.ar/redirect.php?path=3Dnewsletter/Letter_CPCEA.htm&referente=3Dcontadore=
+sBase" target=3D"_blank" alt=3D"Contadores">
+  <area shape=3D"rect" coords=3D"378,76,490,102" href=3D"http://www.btbsoft.=
+com.ar/piramide.php?capitulo=3Dpeliculas&referente=3DPeliculaBase" target=3D=
+"_blank" alt=3D"M&aacute;s Soluciones">
+</map>
+<map name=3D"Map4">
+  <area shape=3D"rect" coords=3D"78,11,518,69" href=3D"http://www.btbsoft.co=
+m.ar/nota.php?nota.php&cap=3Dnota&id=3Dnota-demos&referente=3DDemoDist" targ=
+et=3D"_blank" alt=3D"Conozca su soluci&oacute;n con un solo click">
+</map>
+<map name=3D"Map5">
+  <area shape=3D"rect" coords=3D"33,111,112,123" href=3D"http://www.btbsoft.=
+com.ar/?referente=3DBase" target=3D"_blank" alt=3D"BTB Soft">
+  <area shape=3D"rect" coords=3D"460,111,575,123" href=3D"http://www.btbsoft=
+=2Ecom.ar/?referente=3DBase" target=3D"_blank" alt=3D"BTB Soft">
+  <area shape=3D"rect" coords=3D"370,13,574,68" href=3D"http://www.btbsoft.c=
+om.ar/?referente=3DBase" target=3D"_blank" alt=3D"BTB Soft">
+</map>
+<map name=3D"Map6">
+  <area shape=3D"rect" coords=3D"22,68,202,89" href=3D"http://www.btbsoft.co=
+m.ar/images/img/actividad_generica.html">
+  <area shape=3D"rect" coords=3D"22,93,201,114" href=3D"http://www.btbsoft.c=
+om.ar/images/img/actividad_generica.html">
+  <area shape=3D"rect" coords=3D"23,117,201,138" href=3D"http://www.btbsoft.=
+com.ar/images/img/actividad_generica.html">
+  <area shape=3D"rect" coords=3D"22,142,201,163" href=3D"http://www.btbsoft.=
+com.ar/images/img/actividad_generica.html">
+  <area shape=3D"rect" coords=3D"22,168,201,188" href=3D"http://www.btbsoft.=
+com.ar/images/img/actividad_generica.html">
+  <area shape=3D"rect" coords=3D"22,193,201,213" href=3D"http://www.btbsoft.=
+com.ar/images/img/actividad_generica.html">
+  <area shape=3D"rect" coords=3D"22,218,201,238" href=3D"http://www.btbsoft.=
+com.ar/images/img/actividad_generica.html">
+  <area shape=3D"rect" coords=3D"22,242,201,264" href=3D"http://www.btbsoft.=
+com.ar/images/img/actividad_generica.html">
+  <area shape=3D"rect" coords=3D"212,18,391,39" href=3D"http://www.btbsoft.c=
+om.ar/images/img/actividad_generica.html">
+  <area shape=3D"rect" coords=3D"211,42,391,63" href=3D"http://www.btbsoft.c=
+om.ar/images/img/actividad_generica.html">
+  <area shape=3D"rect" coords=3D"210,68,391,88" href=3D"http://www.btbsoft.c=
+om.ar/images/img/actividad_generica.html">
+  <area shape=3D"rect" coords=3D"209,92,390,113" href=3D"http://www.btbsoft.=
+com.ar/images/img/actividad_generica.html">
+  <area shape=3D"rect" coords=3D"210,118,390,139" href=3D"http://www.btbsoft=
+=2Ecom.ar/images/img/actividad_generica.html">
+  <area shape=3D"rect" coords=3D"212,143,389,162" href=3D"http://www.btbsoft=
+=2Ecom.ar/images/img/actividad_generica.html">
+  <area shape=3D"rect" coords=3D"212,168,390,189" href=3D"http://www.btbsoft=
+=2Ecom.ar/images/img/actividad_generica.html">
+  <area shape=3D"rect" coords=3D"211,193,390,213" href=3D"http://www.btbsoft=
+=2Ecom.ar/images/img/actividad_generica.html">
+  <area shape=3D"rect" coords=3D"212,218,390,238" href=3D"http://www.btbsoft=
+=2Ecom.ar/images/img/actividad_generica.html">
+  <area shape=3D"rect" coords=3D"212,243,389,263" href=3D"http://www.btbsoft=
+=2Ecom.ar/images/img/actividad_generica.html">
+  <area shape=3D"rect" coords=3D"400,18,578,38" href=3D"http://www.btbsoft.c=
+om.ar/images/img/actividad_generica.html">
+  <area shape=3D"rect" coords=3D"400,43,578,63" href=3D"http://www.btbsoft.c=
+om.ar/images/img/actividad_generica.html">
+  <area shape=3D"rect" coords=3D"399,68,578,88" href=3D"http://www.btbsoft.c=
+om.ar/images/img/actividad_generica.html">
+  <area shape=3D"rect" coords=3D"399,93,578,113" href=3D"http://www.btbsoft.=
+com.ar/images/img/actividad_generica.html">
+  <area shape=3D"rect" coords=3D"400,118,577,139" href=3D"http://www.btbsoft=
+=2Ecom.ar/images/img/actividad_generica.html">
+  <area shape=3D"rect" coords=3D"400,143,577,164" href=3D"http://www.btbsoft=
+=2Ecom.ar/images/img/actividad_generica.html">
+  <area shape=3D"rect" coords=3D"400,168,577,189" href=3D"http://www.btbsoft=
+=2Ecom.ar/images/img/actividad_generica.html">
+  <area shape=3D"rect" coords=3D"399,193,577,214" href=3D"http://www.btbsoft=
+=2Ecom.ar/images/img/actividad_generica.html">
+  <area shape=3D"rect" coords=3D"399,218,577,239" href=3D"http://www.btbsoft=
+=2Ecom.ar/images/img/actividad_generica.html">
+  <area shape=3D"rect" coords=3D"399,243,576,264" href=3D"http://www.btbsoft=
+=2Ecom.ar/images/img/actividad_generica.html">
+</map>
+<BR>
+<BR>
+__________ Informaci=F3n de ESET NOD32 Antivirus, versi=F3n de la base de f=
+irmas de virus 5391 (20100823) __________<BR>
+<BR>
+ESET NOD32 Antivirus ha comprobado este mensaje.<BR>
+<BR>
+<A HREF=3D"http://www.eset.com">http://www.eset.com</A><BR>
+
+
+</body>
+</html>
+

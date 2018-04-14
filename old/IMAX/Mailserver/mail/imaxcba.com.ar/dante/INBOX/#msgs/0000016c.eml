@@ -1,0 +1,51 @@
+Return-Path: <detodocba@detodocordoba.com.ar>
+X-Spam-Status: No, hits=0.5 required=5.0
+	tests=HTML_MESSAGE: 0.001,MIME_HTML_ONLY: 0.001,NO_REAL_NAME: 0.55,
+	TOTAL_SCORE: 0.552
+X-Spam-Level: 
+Return-Path: <detodocba@detodocordoba.com.ar>
+Delivered-To: dantemerlo@imaxcba.com.ar
+Received: from localhost (localhost [127.0.0.1])
+	by ispconfig.miinet.com.ar (Postfix) with ESMTP id CAD368AC8B
+	for <soporte@imaxcba.com.ar>; Mon, 26 Jul 2010 16:40:30 -0300 (ART)
+X-Virus-Scanned: Debian amavisd-new at ispconfig.miinet.com.ar
+Received: from ispconfig.miinet.com.ar ([127.0.0.1])
+	by localhost (ispconfig.miinet.com.ar [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 4DuPTEbcGFls for <soporte@imaxcba.com.ar>;
+	Mon, 26 Jul 2010 16:40:29 -0300 (ART)
+Received: from server2.detodobahia.com (server2.detodobahia.com [200.110.156.63])
+	by ispconfig.miinet.com.ar (Postfix) with ESMTPS id E4C998AC2A
+	for <soporte@imaxcba.com.ar>; Mon, 26 Jul 2010 15:42:02 -0300 (ART)
+Received: from apache by server2.detodobahia.com with local (Exim 4.68)
+	(envelope-from <detodocba@detodocordoba.com.ar>)
+	id 1OdOWE-0001ME-G0
+	for soporte@imaxcba.com.ar; Mon, 26 Jul 2010 11:19:02 -0300
+To: soporte@imaxcba.com.ar
+Subject: Bienvenido/a a detodocordoba.com.ar
+MIME-Version: 1.0
+Content-type: text/html; charset=iso-8859-1
+Message-Id: <E1OdOWE-0001ME-G0@server2.detodobahia.com>
+From: detodocba@detodocordoba.com.ar
+Date: Mon, 26 Jul 2010 11:19:02 -0300
+X-EsetId: 101E3C2F2FB776690F183C7B21E137
+
+
+<html><body><font face='verdana' size='3'><b>IMAX</b>,<br>Bienvenid@ a 
+			detodocordoba.com.ar.<br>Este es un mensaje automático para confirmar tu registro.
+			<br>Ya completaste el formulario con tus datos, ahora solamente tenés que hacer 
+			<a href='http://www.detodocordoba.com.ar/bienvenido.php?id=22985'><font size='3'>clic acá
+			</font></a><font size='1'>(http://www.detodocordoba.com.ar/bienvenido.php?id=22985)</font>
+			<br><br><b>IMPORTANTE</b>:Si el vínculo no funciona copiá esta dirección <font size='1'>
+			(http://www.detodocordoba.com.ar/bienvenido.php?id=22985)</font> y pegala en la barra de
+			 direcciones de tu explorador.<br><br>Datos de Log-in:<br>Usuario: IMAX<br>Contraseña: PERSONAL</font>
+</div>
+<BR>
+<BR>
+__________ Información de ESET NOD32 Antivirus, versión de la base de firmas de virus 5314 (20100726) __________<BR>
+<BR>
+ESET NOD32 Antivirus ha comprobado este mensaje.<BR>
+<BR>
+<A HREF="http://www.eset.com">http://www.eset.com</A><BR>
+
+
+</body></html>

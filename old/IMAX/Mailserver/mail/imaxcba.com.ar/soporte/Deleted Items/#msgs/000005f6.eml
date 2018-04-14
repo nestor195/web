@@ -1,0 +1,101 @@
+Return-Path: <horacioandreslopez@gmail.com>
+X-Spam-Status: No, hits=0.7 required=5.0
+	tests=AWL: 0.787,HTML_MESSAGE: 0.001,TOTAL_SCORE: 0.788
+X-Spam-Level: 
+Return-Path: <horacioandreslopez@gmail.com>
+Delivered-To: soporteimax@imaxcba.com.ar
+Received: from localhost (localhost [127.0.0.1])
+	by ns3.miinetserver.com.ar (Postfix) with ESMTP id DA0878BDD5
+	for <soporte@imaxcba.com.ar>; Mon,  6 Sep 2010 21:33:07 -0300 (ART)
+X-Virus-Scanned: Debian amavisd-new at ispconfig.miinet.com.ar
+Received: from ns3.miinetserver.com.ar ([127.0.0.1])
+	by localhost (ns3.miinetserver.com.ar [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 7-r2gAxaj-jn for <soporte@imaxcba.com.ar>;
+	Mon,  6 Sep 2010 21:33:06 -0300 (ART)
+Received: from mail-vw0-f44.google.com (mail-vw0-f44.google.com [209.85.212.44])
+	by ns3.miinetserver.com.ar (Postfix) with ESMTP id 5338A8BDD4
+	for <soporte@imaxcba.com.ar>; Mon,  6 Sep 2010 21:33:06 -0300 (ART)
+Received: by vws10 with SMTP id 10so3459741vws.3
+        for <soporte@imaxcba.com.ar>; Mon, 06 Sep 2010 17:33:05 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=gamma;
+        h=domainkey-signature:mime-version:received:received:in-reply-to
+         :references:date:message-id:subject:from:to:content-type;
+        bh=V8fIYO8cnJ9qEUaoKcF5KghemB4HOOgu4dGbugASHWE=;
+        b=AQdUdWnbZbBgebEL+FsTs8HBOYyMq0Ydql1A10qtYupy1cN48Xf/+HGFOiaDBQKxJb
+         KokFcfn5R2qcsdJOLyE0aCD8OFISg6Zd9pKli29yxrrt5Sm6HNsrDW4GFs0y+PzMzowq
+         R8zu+fKhS1yQgNHeTWXzlbi0MfCZWzGoz0Pqg=
+DomainKey-Signature: a=rsa-sha1; c=nofws;
+        d=gmail.com; s=gamma;
+        h=mime-version:in-reply-to:references:date:message-id:subject:from:to
+         :content-type;
+        b=favMSTvWWgiR+A9V3qTrJiHHta5w0yS9bKNwyQWmyA+v6NWrfZQJ7GdpeTkA0H8oAg
+         f7MQ5A/prnot201us3QC6mxaiOCoEA14Kujzhw8G6FLywWS9Zi0824CPHsVCVUYDPj8n
+         fs9HLVGkV9ZJeEq61hgGlacb4uOEUXrBiNUrE=
+MIME-Version: 1.0
+Received: by 10.220.122.157 with SMTP id l29mr126148vcr.29.1283819585179; Mon,
+ 06 Sep 2010 17:33:05 -0700 (PDT)
+Received: by 10.220.199.205 with HTTP; Mon, 6 Sep 2010 17:33:05 -0700 (PDT)
+In-Reply-To: <AANLkTimiTuu2_b+rzAiLb_9+bX-msTE8XPRDUYXH_6op@mail.gmail.com>
+References: <AANLkTimiTuu2_b+rzAiLb_9+bX-msTE8XPRDUYXH_6op@mail.gmail.com>
+Date: Mon, 6 Sep 2010 21:33:05 -0300
+Message-ID: <AANLkTi=AqibRvJnTS3Zo+5MJg17Qr28i-VFgt0HnChgG@mail.gmail.com>
+Subject: =?ISO-8859-1?Q?informaci=F3n?=
+From: Horacio <horacioandreslopez@gmail.com>
+To: soporte@imaxcba.com.ar
+Content-Type: multipart/alternative; boundary=001636d35132549069048fa08ab8
+X-EsetId: 101E3C2F2FB776690F183C7B23E235
+
+--001636d35132549069048fa08ab8
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+Me olvidaba tambien de preguntarles si para revisar y presupuestar una
+reparaci=F3n de notebook Toshiba cobran algun importe.
+Muchas gracias nuevamente.
+Saludos.
+
+HORACIO
+
+---------- Forwarded message ----------
+From: Horacio <horacioandreslopez@gmail.com>
+Date: 2010/9/6
+Subject: informaci=F3n
+To: soporte@imaxcba.com.ar
+
+
+Estimados
+les escribo para saber el horario de atenci=F3n de su local.
+Muchas gracias.
+Saludos.
+
+HORACIO
+
+
+
+__________ Informaci=F3n de ESET NOD32 Antivirus, versi=F3n de la base de f=
+irmas de virus 5429 (20100906) __________
+
+ESET NOD32 Antivirus ha comprobado este mensaje.
+
+http://www.eset.com
+
+
+--001636d35132549069048fa08ab8
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+Me olvidaba tambien de preguntarles si para revisar y presupuestar una repa=
+raci=F3n de notebook Toshiba cobran algun importe.<br>Muchas gracias nuevam=
+ente.<br>Saludos.<br><br>HORACIO<br><br><div class=3D"gmail_quote">--------=
+-- Forwarded message ----------<br>
+From: <b class=3D"gmail_sendername">Horacio</b> <span dir=3D"ltr">&lt;<a hr=
+ef=3D"mailto:horacioandreslopez@gmail.com">horacioandreslopez@gmail.com</a>=
+&gt;</span><br>Date: 2010/9/6<br>Subject: informaci=F3n<br>To: <a href=3D"m=
+ailto:soporte@imaxcba.com.ar">soporte@imaxcba.com.ar</a><br>
+<br><br>Estimados<br>les escribo para saber el horario de atenci=F3n de su =
+local.<br>Muchas gracias.<br>Saludos.<br><font color=3D"#888888"><br>HORACI=
+O<br>
+</font></div><br>
+
+--001636d35132549069048fa08ab8--

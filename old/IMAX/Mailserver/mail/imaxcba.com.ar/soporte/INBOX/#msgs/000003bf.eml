@@ -1,0 +1,88 @@
+Return-Path: <genarogargiulo@gmail.com>
+X-Spam-Status: No, hits=0.6 required=5.0
+	tests=HTML_00_10: 0.642,HTML_MESSAGE: 0.001,TOTAL_SCORE: 0.643
+X-Spam-Level: 
+Return-Path: <genarogargiulo@gmail.com>
+X-Original-To: soporte@imaxcba.com.ar
+Delivered-To: soporteimax@ns.intersolutions.com.ar
+Received: from mail-bw0-f216.google.com (mail-bw0-f216.google.com [209.85.218.216])
+	by ns.intersolutions.com.ar (Postfix) with ESMTP id 5623F1D01EE
+	for <soporte@imaxcba.com.ar>; Fri,  9 Apr 2010 12:34:25 -0300 (ART)
+Received: by bwz8 with SMTP id 8so1118300bwz.23
+        for <soporte@imaxcba.com.ar>; Fri, 09 Apr 2010 08:34:23 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=gamma;
+        h=domainkey-signature:mime-version:received:date:received:message-id
+         :subject:from:to:content-type;
+        bh=35lLQGrj4D6dYzpr9PUL6YRvKlIECgDvi3VGBVzgKMk=;
+        b=O+oyHj3VdRMcyWL7zdrHSEQK8R0SE8E0nq9pDW4lzqaYr5GLeOt18Z0jhWNtFHb8fE
+         fPGGWf2jm4mtWDZblW2lnMJOwF0hut1YfDXWEmMRD1kbjQiPN1Air4QmRE4Rom3hD9oR
+         5CcqDfnf5Fr6/uWRO/SHmtbOJLVwuiYy9Z0v0=
+DomainKey-Signature: a=rsa-sha1; c=nofws;
+        d=gmail.com; s=gamma;
+        h=mime-version:date:message-id:subject:from:to:content-type;
+        b=hhsqlUc/yjByb9MbAtIY6xjVIzuvOVaYriTVivciNqn2Gyh+wl1aaPjHIKlO1FOw5i
+         b+h194gJiz4oHBr9mJ6FSZcDnMSWYIqYIvnH8+o6JSjyAAYWVZGJe37LfVBYOhoaHWFX
+         EhdDMvgzeNkcViwX7Hb+IR7Iq0Gok9VtVu7Uo=
+MIME-Version: 1.0
+Received: by 10.204.63.203 with HTTP; Fri, 9 Apr 2010 08:34:22 -0700 (PDT)
+Date: Fri, 9 Apr 2010 12:34:22 -0300
+Received: by 10.204.134.70 with SMTP id i6mr261237bkt.74.1270827262621; Fri, 
+	09 Apr 2010 08:34:22 -0700 (PDT)
+Message-ID: <g2mff0646bd1004090834ua212f65fx94f6be57765daa32@mail.gmail.com>
+Subject: Presupuesto.
+From: Genaro Gargiulo <genarogargiulo@gmail.com>
+To: soporte@imaxcba.com.ar
+Content-Type: multipart/alternative; boundary=0015174be3108f39200483cf879c
+X-EsetId: A9F8F0295ED06469B6FEF07C5C8221
+
+--0015174be3108f39200483cf879c
+Content-Type: text/plain; charset=ISO-8859-1
+
+hola me gustaria que me pasen el presupuesto de una pc mas o menos con estas
+caracteristicas, la PC va ser utilizada para el desarrollo de software y
+juegos.. asiq mas o menos ustedes sabran cual va ser el mejor detalle a
+ponerle o no.
+
+procesador intel core i7 860, mother intel dp55wb, 4 gb de ram (2 x 2), HD
+de 500 gb, placa de video ati radeon hd4850 (o alguna similar - GeForce,
+etc.), una buena fuente con garantia.. (adicionar el precio de un monitor
+lcd superior a 17'')
+
+y queria saber si toman como parte de pago una notebook HP TX1330la, con
+todos sus accesorios.. (lapiz, control remoto, bateria adicional de larga
+duracion, caja donde vino, discos de recuperacion, etc.)
+
+espero sus respuestas con una buena oferta. Gracias.
+
+-- 
+Genaro!!
+
+
+
+__________ Información de ESET NOD32 Antivirus, versión de la base de firmas de virus 5012 (20100409) __________
+
+ESET NOD32 Antivirus ha comprobado este mensaje.
+
+http://www.eset.com
+
+
+--0015174be3108f39200483cf879c
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+hola me gustaria que me pasen el presupuesto de una pc mas o menos con esta=
+s caracteristicas, la PC va ser utilizada para el desarrollo de software y =
+juegos.. asiq mas o menos ustedes sabran cual va ser el mejor detalle a pon=
+erle o no.<br>
+<br>procesador intel core i7 860, mother intel dp55wb, 4 gb de ram (2 x 2),=
+ HD de 500 gb, placa de video ati radeon hd4850 (o alguna similar - GeForce=
+, etc.), una buena fuente con garantia.. (adicionar el precio de un monitor=
+ lcd superior a 17&#39;&#39;)<br>
+<br>y queria saber si toman como parte de pago una notebook HP TX1330la, co=
+n todos sus accesorios.. (lapiz, control remoto, bateria adicional de larga=
+ duracion, caja donde vino, discos de recuperacion, etc.)<br><br>espero sus=
+ respuestas con una buena oferta. Gracias.<br clear=3D"all">
+<br>-- <br>Genaro!!<br>
+
+--0015174be3108f39200483cf879c--

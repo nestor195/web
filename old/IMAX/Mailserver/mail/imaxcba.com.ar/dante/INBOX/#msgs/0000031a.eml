@@ -1,0 +1,247 @@
+Return-Path: <bounce@bounce.quepasa.com>
+X-Spam-Status: No, hits=0.6 required=5.0
+	tests=FORGED_HOTMAIL_RCVD2: 0.549,HTML_MESSAGE: 0.001,HTML_TAG_EXIST_TBODY: 0.126,
+	MIME_HTML_ONLY: 0.001,SUBJECT_EXCESS_BASE64: 0,TOTAL_SCORE: 0.677
+X-Spam-Level: 
+Return-Path: <bounce@bounce.quepasa.com>
+Delivered-To: dantemerlo@imaxcba.com.ar
+Received: from localhost (localhost [127.0.0.1])
+	by ns3.miinetserver.com.ar (Postfix) with ESMTP id 7CE708BE54
+	for <soporte@imaxcba.com.ar>; Wed,  8 Sep 2010 12:42:55 -0300 (ART)
+X-Virus-Scanned: Debian amavisd-new at ispconfig.miinet.com.ar
+Received: from ns3.miinetserver.com.ar ([127.0.0.1])
+	by localhost (ns3.miinetserver.com.ar [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id cw8jOdPifVW6 for <soporte@imaxcba.com.ar>;
+	Wed,  8 Sep 2010 12:42:53 -0300 (ART)
+Received: from sm-70-42-226-184.quepasa.com (sm-70-42-226-184.quepasa.com [70.42.226.184])
+	by ns3.miinetserver.com.ar (Postfix) with ESMTP id E2C118BC2C
+	for <soporte@imaxcba.com.ar>; Wed,  8 Sep 2010 12:42:52 -0300 (ART)
+Received: from localhost.localdomain ([10.42.226.54])
+	by sm-70-42-226-184.quepasa.com (StrongMail Enterprise 4.1.1(4.1.1-44201)); Wed, 08 Sep 2010 08:42:47 -0700
+X-VirtualServer: Default, sm-70-42-226-184.quepasa.com, 70.42.226.184
+X-MailingID: 00000::00000::00000::00000::4::2044968
+X-SMHeaderMap: mid="X-MailingID"
+X-Mailer: StrongMail Enterprise 4.1.1(4.1.1-44201)
+X-Destination-ID: soporte@imaxcba.com.ar
+X-SMFBL: c29wb3J0ZUBpbWF4Y2JhLmNvbS5hcg==
+DomainKey-Signature: a=rsa-sha1;
+ c=nofws;
+ s=sm;
+ d=quepasa.com;
+ q=dns;
+ b=1aUS7kVdcYO3f4Wd7xkXGcBn7ss+qwCI9Zkq++Zx1MQKc0gUDI3EEOtTuKcLrZkVMtNEZD/cG7uWR60/ZVl8nOYvBWVW+mNix/D9y7zWCIjXWMr2ZfuWwlsdc9Q2hbLE2hRGKpI7t2q+XwkOSNHvOwDR8OW+WpRPfxr2zwWkdqo=
+DKIM-Signature: v=1; a=rsa-sha1; c=simple; d=quepasa.com; s=sm;
+	i=@quepasa.com; h=To:From:Subject:Date:X-LibVersion:MIME-Version:
+	Content-Type:Content-Transfer-Encoding:X-QPEmailID:
+	X-QPTemplateID:X-MailLocation:X-VirtualServerGroup:Return-path:
+	Reply-to:Sender:List-Unsubscribe:Message-ID; bh=sVNvPwPi71Xi8tcr
+	78csN6CQyAI=; b=NTxFo8RsRhWnskFJESv6RdBNznW9yj5EFauoX68Zup8yXGOb
+	vw9tcaMbtD8zF3S5DZulmeYtAce3CEpHjaolWIjYygdrjNFjNV4mSQrVoVNTQFSh
+	t6ki38Alsk400Aixwxg2r4fg0fJv4fZsbvd9i0RkiuXA1O35LZgjp9e/Pmc=
+To: soporte@imaxcba.com.ar
+From: Jose Ventura <ventura5@hotmail.com>
+Subject: =?utf-8?B?UXVpZXJvIHNlciB0dSBhbWlnbyBlbiBRdWVwYXNhLmNvbQ==?=
+Date: Wed, 08 Sep 2010 08:41:57 -0700
+X-LibVersion: 3.3.2
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8; format=flowed
+Content-Transfer-Encoding: quoted-printable
+X-QPEmailID: 11014047901
+X-QPTemplateID: 4
+X-MailLocation: Strongmail
+X-VirtualServerGroup: Default
+Reply-to: noreply@quepasa.com
+Sender: info@quepasa.com
+List-Unsubscribe: http://www.quepasa.com/es_MX/user/cancelQPAlerts.php?sign=f4579382555e6eb638d4264b70c88c48&alert=4&mail=soporte@imaxcba.com.ar&id=-1
+Message-ID: <20100908154247.16684.1904200891.swift@te-me-001>
+X-EsetId: 101E3C2F2FB776690F183C7B23ED3B
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><hea=
+d><title>Quepasa.com</title></head><body><!DOCTYPE html PUBLIC "-//W3C//D=
+TD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-tr=
+ansitional.dtd">
+
+=
+<html xmlns=3D"http://www.w3.org/1999/xhtml"><head>
+
+=
+<style type=3D"text/css">
+bo=
+dy { display: block !important; }
+</=
+style>
+
+=
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8">=
+<title>Quepasa Alerts</title></head>
+<b=
+ody>
+	<=
+table bgcolor=3D"#f7f7f7" cellspacing=3D"35" width=3D"100%">
+	<=
+tbody>
+	<=
+tr>
+		=
+<td>
+		=
+	<table style=3D"font-family: Arial,Helvetica,sans-serif; font-size: 12px=
+;" align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" widt=
+h=3D"620">
+  =
+			<tbody>
+  =
+			<tr>
+  =
+  			<td>
+		=
+			<table bgcolor=3D"#000000" border=3D"0" cellpadding=3D"0" cellspacing=
+=3D"0" height=3D"28" width=3D"622">
+		=
+			<tbody>
+		=
+			<tr>
+		=
+			    <td width=3D"114"><a href=3D"http://www.quepasa.com/metric/email/c=
+lick/ed00bcbe433a9b17a7322259379d978c/11014047901/1519.html=3Furl=3Dhttp:=
+//www.quepasa.com/es_MX/=3Fmail=3Dsoporte@imaxcba.com.ar" title=3D"Quepas=
+a.com"><img src=3D"http://s.quepasa.com/i/m/09/006/logoqp_black2.gif" alt=
+=3D"Quepasa.com" border=3D"0" height=3D"28" width=3D"114"></a></td>
+		=
+			    <td align=3D"right" width=3D"486">
+		=
+			    	<font style=3D"font-size: 10px;" color=3D"#e5e5e5">Si no deseas r=
+ecibir este tipo de mensajes de Quepasa, </font>
+		=
+			    	<a href=3D"http://www.quepasa.com/metric/email/click/ed00bcbe433a=
+9b17a7322259379d978c/11014047901/1528.html=3Furl=3Dhttp%3A%2F%2Fwww.quepa=
+sa.com%2Fes_MX%2Fuser%2FcancelQPAlerts.php%3Fsign%3Df4579382555e6eb638d42=
+64b70c88c48%26alert%3D4%26mail%3Dsoporte%40imaxcba.com.ar%26id%3D-1" styl=
+e=3D"font-size: 10px; color: rgb(229, 229, 229); font-style:italic; font-=
+weight:bold;"><u>haz clic aqu=C3=AD</u></a>
+		=
+			    </td>
+		=
+			    <td width=3D"22">&nbsp;</td>
+		=
+			</tr>
+		=
+			</tbody>
+		=
+			</table>
+<p=
+> <br/> </p>
+<p=
+>Me gustar=C3=ADa ser tu amigo(a) en Quepasa.com.</p>
+<p=
+>=C2=BFTe gustar=C3=ADa <a style=3D"color:#BB1F22" href=3D"http://www.que=
+pasa.com/metric/email/click/ed00bcbe433a9b17a7322259379d978c/11014047901/=
+1436.html=3Furl=3Dhttp://www.quepasa.com/qp/123392704.html&mail=3Dsoporte=
+@imaxcba.com.ar">agregarme</a> como tu amigo=3F</p>
+<b=
+r />
+<p=
+>
+<s=
+pan style=3D"padding: 5px 20px;background-color:#BB1F22;margin-left:10px"=
+><a style=3D"color:#FFF;text-decoration:none" href=3D"http://www.quepasa.=
+com/metric/email/click/ed00bcbe433a9b17a7322259379d978c/11014047901/1439.=
+html=3Furl=3Dhttp://www.quepasa.com/qp/123392704.html&mail=3Dsoporte@imax=
+cba.com.ar">Si</a></span>
+
+=
+<span style=3D"padding: 5px 20px;background-color:#BB1F22;margin-left:30p=
+x"><a style=3D"color:#FFF;text-decoration:none" href=3D"http://www.quepas=
+a.com/metric/email/click/ed00bcbe433a9b17a7322259379d978c/11014047901/144=
+0.html=3Fnofriend=3Dtrue&url=3Dhttp://www.quepasa.com/es_MX/&mail=3Dsopor=
+te@imaxcba.com.ar">No</a></span>
+<b=
+r /><br />
+</=
+p>
+
+=
+<p>Gracias.</p>
+<p=
+>
+Jo=
+se  Ventura
+<p=
+><br />
+
+=
+<p>Si no deseas recibir m=C3=A1s notificaciones de tus amigos de Quepasa.=
+com, <a style=3D"color:#BB1F22" href=3D"http://www.quepasa.com/metric/ema=
+il/click/ed00bcbe433a9b17a7322259379d978c/11014047901/1433.html=3Furl=3Dh=
+ttp%3A%2F%2Fwww.quepasa.com%2Fes_MX%2Fuser%2FcancelQPAlerts.php%3Fsign%3D=
+f4579382555e6eb638d4264b70c88c48%26alert%3D4%26mail%3Dsoporte%40imaxcba.c=
+om.ar%26id%3D-1">haz clic aqu=C3=AD</a>. </td>
+  =
+                      </tr>
+  =
+                      </tbody>
+  =
+                      </table>
+  =
+                      <table width=3D"100%" border=3D"0" cellspacing=3D"0=
+" cellpadding=3D"0" height=3D"80"><tr><td align=3D"center"> 
+<f=
+ont color=3D"#8a8a8a" face=3D"Arial, Helvetica, sans-serif" style=3D"font=
+-size:10px"> 
+<a=
+ href=3D"http://www.quepasa.com/metric/email/click/ed00bcbe433a9b17a73222=
+59379d978c/11014047901/1529.html=3Furl=3Dhttp%3A%2F%2Fwww.quepasa.com%2Fe=
+s_MX%2Fuser%2FcancelQPAlerts.php%3Fsign%3Df4579382555e6eb638d4264b70c88c4=
+8%26alert%3D4%26mail%3Dsoporte%40imaxcba.com.ar%26id%3D-1" style=3D"color=
+:#8a8a8a; text-decoration:underline">Cancelar suscripci=C3=B3n</a> I
+<a=
+ href=3D"http://www.quepasa.com/metric/email/click/ed00bcbe433a9b17a73222=
+59379d978c/11014047901/1521.html=3Furl=3Dhttp%3A%2F%2Fwww.quepasa.com%2Ft=
+os_es_MX.html" style=3D"color:#8a8a8a; text-decoration:underline">T=C3=
+=A9rminos  de Uso</a> I
+<a=
+ href=3D"http://www.quepasa.com/metric/email/click/ed00bcbe433a9b17a73222=
+59379d978c/11014047901/1522.html=3Furl=3Dhttp%3A%2F%2Fwww.quepasa.com%2Fc=
+ommon%2Fprivacypolicy_es_MX.html" style=3D"color:#8a8a8a; text-decoration=
+:underline">Pol=C3=ADtica  de Privacidad</a> I
+<a=
+ href=3D"mailto:support@quepasacorp.com" style=3D"color:#8a8a8a; text-dec=
+oration:underline">Soporte</a><br /> 
+Qu=
+epasa Corporation 324 Datura Street, Suite 114, West Palm Beach, FL, 3340=
+1.<br /> 
+Re=
+cibes este mensaje de correo electr=C3=B3nico porque un amigo tuyo es un =
+miembro registrado de Quepasa.com<br /> 
+Ag=
+rega  a <a href=3D"mailto:info@quepasa.com" style=3D"color:#8a8a8a; text-=
+decoration:underline">info@quepasa.com</a> a tu lista de contactos para r=
+ecibir correos de Quepasa</font> 
+</=
+td> 
+</=
+tr></table>
+  =
+              </td>
+  =
+      </tr>
+  =
+      </tbody>
+  =
+      </table>
+</=
+body>
+</=
+html><img src=3D"http://www.quepasa.com/metric/email/view/ed00bcbe433a9b1=
+7a7322259379d978c/11014047901/blank.gif" alt=3D"" /><BR>
+<BR>
+__________ Informaci=F3n de ESET NOD32 Antivirus, versi=F3n de la base de f=
+irmas de virus 5434 (20100908) __________<BR>
+<BR>
+ESET NOD32 Antivirus ha comprobado este mensaje.<BR>
+<BR>
+<A HREF=3D"http://www.eset.com">http://www.eset.com</A><BR>
+
+
+</body></html>
+

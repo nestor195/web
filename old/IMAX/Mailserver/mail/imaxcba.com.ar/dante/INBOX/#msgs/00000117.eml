@@ -1,0 +1,255 @@
+Return-Path: <update+kr4mysqy2xka@facebookmail.com>
+X-Spam-Status: No, hits=1.5 required=5.0
+	tests=AWL: -0.000,HTML_MESSAGE: 0.001,SUBJECT_ENCODED_TWICE: 1.543,
+	TOTAL_SCORE: 1.544
+X-Spam-Level: *
+Return-Path: <update+kr4mysqy2xka@facebookmail.com>
+Delivered-To: dantemerlo@imaxcba.com.ar
+Received: from localhost (localhost [127.0.0.1])
+	by ispconfig.miinet.com.ar (Postfix) with ESMTP id D1F898AAD4
+	for <soporte@imaxcba.com.ar>; Wed, 14 Jul 2010 20:19:41 -0300 (ART)
+X-Virus-Scanned: Debian amavisd-new at ispconfig.miinet.com.ar
+Received: from ispconfig.miinet.com.ar ([127.0.0.1])
+	by localhost (ispconfig.miinet.com.ar [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id ZTCbz+AXN41A for <soporte@imaxcba.com.ar>;
+	Wed, 14 Jul 2010 20:19:39 -0300 (ART)
+Received: from mx-out.facebook.com (outcampmail003.ash1.tfbnw.net [69.63.184.53])
+	by ispconfig.miinet.com.ar (Postfix) with ESMTP id 6CC5F8AAD1
+	for <soporte@imaxcba.com.ar>; Wed, 14 Jul 2010 20:19:38 -0300 (ART)
+DKIM-Signature: v=1; a=rsa-sha1; d=facebookmail.com; s=20100618; c=relaxed/relaxed;
+	q=dns/txt; i=@facebookmail.com; t=1279149576;
+	h=From:Subject:Date:To:MIME-Version:Content-Type;
+	bh=mtxkrTZtEnYMkn8znI4If286+KQ=;
+	b=Io64UIdPOnx4sjiGPh24TWiTflpqF2kyb28HRcZMxhfVtWE32Z8JLplXpns/iC/x
+	bZU0GnB8qschuDfcC7dUpA==;
+Received: from [10.18.255.134] ([10.18.255.134:42787])
+	by mta005.ash1.facebook.com (envelope-from <update+kr4mysqy2xka@facebookmail.com>)
+	(ecelerity 2.2.2.45 r(34067)) with ECSTREAM
+	id 56/38-20513-8064E3C4; Wed, 14 Jul 2010 16:19:36 -0700
+X-Facebook: from zuckmail ([MTI3LjAuMC4x]) 
+	by www.facebook.com with HTTP (ZuckMail);
+Date: Wed, 14 Jul 2010 16:19:36 -0700
+To: Imax Leonardo <soporte@imaxcba.com.ar>
+From: Facebook <update+kr4mysqy2xka@facebookmail.com>
+Reply-to: Facebook <update+kr4mysqy2xka@facebookmail.com>
+Subject: =?UTF-8?B?MjEgYW1pZ29zIHR1eW9z?=
+ =?UTF-8?B?IGVzdMOhbiBlc3BlcmFuZA==?=
+ =?UTF-8?B?byB0dSByZXNwdWVzdGE=?=
+Message-ID: <57de78703148ac83ef4125a2ac952c0f@www.facebook.com>
+X-Priority: 3
+X-Mailer: ZuckMail [version 1.00]
+X-Facebook-Camp: stale_email
+X-Facebook-Notify: stale_email; mailid=2a84336G5af356df62faGcdd9cG2b
+Errors-To: update+kr4mysqy2xka@facebookmail.com
+X-FACEBOOK-PRIORITY: 1
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="b1_57de78703148ac83ef4125a2ac952c0f"
+X-EsetId: 101E3C2F2FB776690F183C7B20E233
+
+
+--b1_57de78703148ac83ef4125a2ac952c0f
+Content-Type: text/plain; charset = "UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hola, Imax:
+
+Te recordamos que 21 personas est=C3=A1n esperando que confirmes sus =
+solicitudes de amistad.
+
+Daniel Barrera
+Valentin Maldonado
+An Pa
+Daniel Montenegro
+Jjoker Bold
+Clara Undi
+
+... y 15 m=C3=A1s
+
+Ver todas las solicitudes:
+http://www.facebook.com/n/?reqs.php&mid=3D2a84336G5af356df62faGcdd9cG2b&bc=
+ode=3DEBuul&n_m=3Dsoporte%40imaxcba.com.ar
+
+
+Gracias,
+El equipo de Facebook
+
+Para ver tus solicitudes de amistad y contestarlas, ve a:
+http://www.facebook.com/n/?reqs.php&mid=3D2a84336G5af356df62faGcdd9cG2b&bc=
+ode=3DEBuul&n_m=3Dsoporte%40imaxcba.com.ar
+
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+Este mensaje estaba destinado a soporte@imaxcba.com.ar. Si no quieres =
+recibir este tipo de mensajes de Facebook, haz clic en el enlace siguiente =
+para borrar tu nombre de la lista de personas suscritas.
+http://www.facebook.com/o.php?k=3D3875dc&u=3D100001181033210&mid=3D2a84336=
+G5af356df62faGcdd9cG2b
+Facebook, Inc. P.O. Box 10005, Palo Alto, CA 94303
+
+
+
+
+__________ Informaci=F3n de ESET NOD32 Antivirus, versi=F3n de la base de f=
+irmas de virus 5278 (20100714) __________
+
+ESET NOD32 Antivirus ha comprobado este mensaje.
+
+http://www.eset.com
+
+
+--b1_57de78703148ac83ef4125a2ac952c0f
+Content-Type: text/html; charset = "UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional //EN">
+<html><head><meta http-equiv=3D"Content-Type" content=3D"text/html; =
+charset=3Dutf-8"><title>Facebook</title></head><body style=3D"margin: 0; =
+padding: 0;" dir=3D"ltr"><table width=3D"98%" border=3D"0" =
+cellspacing=3D"0" cellpadding=3D"40"><tr><td bgcolor=3D"#f7f7f7" =
+width=3D"100%" style=3D"font-family: 'lucida grande', tahoma, verdana, =
+arial, sans-serif;"><table cellpadding=3D"0" cellspacing=3D"0" =
+border=3D"0" width=3D"620"><tr><td style=3D"background: #3b5998; color: =
+#fff; font-weight: bold; font-family: 'lucida grande', tahoma, verdana, =
+arial, sans-serif; padding: 4px 8px; vertical-align: middle; font-size: =
+16px; letter-spacing: -0.03em; text-align: =
+left;">facebook</td></tr><tr><td style=3D"background-color: #fff; =
+border-bottom: 1px solid #3b5998; border-left: 1px solid #ccc; =
+border-right: 1px solid #ccc;font-family: 'lucida grande', tahoma, =
+verdana, arial, sans-serif; padding: 15px;" valign=3D"top"><table =
+width=3D"100%"><tr><td width=3D"470px" style=3D"font-size: 12px;" =
+valign=3D"top" align=3D"left"><div
+style=3D"margin-bottom: 15px; font-size: 13px;">Hola, Imax:</div><div =
+style=3D"margin-bottom: 15px;">Te recordamos que 21 personas est=C3=A1n =
+esperando que confirmes sus solicitudes de amistad.</div><div =
+style=3D"margin-bottom: 15px;"><div style=3D"border-bottom: 1px solid =
+#ccc; line-height:5px;">&nbsp;</div><br /><table cellpadding=3D"0" =
+style=3D"margin-top: 5px;"><tr valign=3D"top"><td style=3D"padding: 0px =
+3px 10px 0px;"><a href=3D"http://www.facebook.com/n/?reqs.php&amp;mid=3D2a=
+84336G5af356df62faGcdd9cG2b&amp;bcode=3DEBuul&amp;n_m=3Dsoporte%40imaxcba.=
+com.ar"><img style=3D"border: 0px none;" alt=3D"Daniel Barrera" =
+src=3D"http://profile.ak.fbcdn.net/hprofile-ak-snc4/hs255.snc3/23153_11862=
+64330_837_q.jpg" width=3D"50" height=3D"50" /></a></td><td width=3D"95" =
+style=3D"font-size: 11px; color: #999; padding: 0px 0px 10px 0px;"><span =
+style=3D"font-size: 11px; color: #3B5998;"><a href=3D"http://www.facebook.=
+com/n/?reqs.php&amp;mid=3D2a84336G5af356df62faGcdd9cG2b&amp;bcode=3DEBuul&=
+amp;n_m=3Dsoporte%40imaxcba.com.ar" style=3D"color:
+#3B5998; text-decoration: none; font-size: 11px; font-weight: =
+bold;">Daniel Barrera</a></span><br />414 amigos<br />59 fotos</td><td =
+style=3D"padding: 0px 3px 10px 0px;"><a href=3D"http://www.facebook.com/n/=
+?reqs.php&amp;mid=3D2a84336G5af356df62faGcdd9cG2b&amp;bcode=3DEBuul&amp;n_=
+m=3Dsoporte%40imaxcba.com.ar"><img style=3D"border: 0px none;" =
+alt=3D"Valentin Maldonado" src=3D"http://profile.ak.fbcdn.net/hprofile-ak-=
+snc4/hs302.ash1/23087_1057009822_1859_q.jpg" width=3D"50" height=3D"50" =
+/></a></td><td width=3D"95" style=3D"font-size: 11px; color: #999; =
+padding: 0px 0px 10px 0px;"><span style=3D"font-size: 11px; color: =
+#3B5998;"><a href=3D"http://www.facebook.com/n/?reqs.php&amp;mid=3D2a84336=
+G5af356df62faGcdd9cG2b&amp;bcode=3DEBuul&amp;n_m=3Dsoporte%40imaxcba.com.a=
+r" style=3D"color: #3B5998; text-decoration: none; font-size: 11px; =
+font-weight: bold;">Valentin Maldonado</a></span><br />52 amigos<br />6 =
+fotos</td></tr><tr valign=3D"top"><td style=3D"padding: 0px 3px 10px =
+0px;"><a
+href=3D"http://www.facebook.com/n/?reqs.php&amp;mid=3D2a84336G5af356df62fa=
+Gcdd9cG2b&amp;bcode=3DEBuul&amp;n_m=3Dsoporte%40imaxcba.com.ar"><img =
+style=3D"border: 0px none;" alt=3D"An Pa" src=3D"http://profile.ak.fbcdn.n=
+et/hprofile-ak-snc4/hs641.snc3/27348_100000123523811_9049_q.jpg" =
+width=3D"50" height=3D"50" /></a></td><td width=3D"95" style=3D"font-size: =
+11px; color: #999; padding: 0px 0px 10px 0px;"><span style=3D"font-size: =
+11px; color: #3B5998;"><a href=3D"http://www.facebook.com/n/?reqs.php&amp;=
+mid=3D2a84336G5af356df62faGcdd9cG2b&amp;bcode=3DEBuul&amp;n_m=3Dsoporte%40=
+imaxcba.com.ar" style=3D"color: #3B5998; text-decoration: none; font-size: =
+11px; font-weight: bold;">An Pa</a></span><br />2297 amigos<br />82 =
+fotos</td><td style=3D"padding: 0px 3px 10px 0px;"><a =
+href=3D"http://www.facebook.com/n/?reqs.php&amp;mid=3D2a84336G5af356df62fa=
+Gcdd9cG2b&amp;bcode=3DEBuul&amp;n_m=3Dsoporte%40imaxcba.com.ar"><img =
+style=3D"border: 0px none;" alt=3D"Daniel Montenegro"
+src=3D"http://profile.ak.fbcdn.net/profile6/456/43/q1097257070_8078.jpg" =
+width=3D"50" height=3D"50" /></a></td><td width=3D"95" style=3D"font-size: =
+11px; color: #999; padding: 0px 0px 10px 0px;"><span style=3D"font-size: =
+11px; color: #3B5998;"><a href=3D"http://www.facebook.com/n/?reqs.php&amp;=
+mid=3D2a84336G5af356df62faGcdd9cG2b&amp;bcode=3DEBuul&amp;n_m=3Dsoporte%40=
+imaxcba.com.ar" style=3D"color: #3B5998; text-decoration: none; font-size: =
+11px; font-weight: bold;">Daniel Montenegro</a></span><br />226 amigos<br =
+/>5 fotos</td></tr><tr valign=3D"top"><td style=3D"padding: 0px 3px 10px =
+0px;"><a href=3D"http://www.facebook.com/n/?reqs.php&amp;mid=3D2a84336G5af=
+356df62faGcdd9cG2b&amp;bcode=3DEBuul&amp;n_m=3Dsoporte%40imaxcba.com.ar"><=
+img style=3D"border: 0px none;" alt=3D"Jjoker Bold" =
+src=3D"http://profile.ak.fbcdn.net/profile6/936/108/q1059001150_4543.jpg" =
+width=3D"50" height=3D"50" /></a></td><td width=3D"95" style=3D"font-size: =
+11px; color: #999; padding: 0px 0px 10px 0px;"><span style=3D"font-size: =
+11px; color: #3B5998;"><a
+href=3D"http://www.facebook.com/n/?reqs.php&amp;mid=3D2a84336G5af356df62fa=
+Gcdd9cG2b&amp;bcode=3DEBuul&amp;n_m=3Dsoporte%40imaxcba.com.ar" =
+style=3D"color: #3B5998; text-decoration: none; font-size: 11px; =
+font-weight: bold;">Jjoker Bold</a></span><br />158 amigos<br />64 =
+fotos</td><td style=3D"padding: 0px 3px 10px 0px;"><a =
+href=3D"http://www.facebook.com/n/?reqs.php&amp;mid=3D2a84336G5af356df62fa=
+Gcdd9cG2b&amp;bcode=3DEBuul&amp;n_m=3Dsoporte%40imaxcba.com.ar"><img =
+style=3D"border: 0px none;" alt=3D"Clara Undi" =
+src=3D"http://profile.ak.fbcdn.net/v22943/414/16/q1674631798_6594.jpg" =
+width=3D"50" height=3D"50" /></a></td><td width=3D"95" style=3D"font-size: =
+11px; color: #999; padding: 0px 0px 10px 0px;"><span style=3D"font-size: =
+11px; color: #3B5998;"><a href=3D"http://www.facebook.com/n/?reqs.php&amp;=
+mid=3D2a84336G5af356df62faGcdd9cG2b&amp;bcode=3DEBuul&amp;n_m=3Dsoporte%40=
+imaxcba.com.ar" style=3D"color: #3B5998; text-decoration: none; font-size: =
+11px; font-weight: bold;">Clara Undi</a></span><br />59 amigos<br />18
+fotos</td></tr></table><div><a href=3D"http://www.facebook.com/n/?reqs.php=
+&amp;mid=3D2a84336G5af356df62faGcdd9cG2b&amp;bcode=3DEBuul&amp;n_m=3Dsopor=
+te%40imaxcba.com.ar" style=3D"color:#3b5998;text-decoration:none;font-size=
+:11px;font-weight:bold;">&raquo; Ver todas las solicitudes</a></div><div =
+style=3D"border-bottom: 1px solid #ccc; line-height:5px;">&nbsp;</div><br =
+/></div><div style=3D"margin-bottom: 15px; margin: 0;">Gracias,<br />
+El equipo de Facebook</div></td><td valign=3D"top" width=3D"150" =
+style=3D"padding-left: 15px;" align=3D"left"><table cellspacing=3D"0" =
+cellpadding=3D"0" style=3D"border-collapse:collapse;"><tr><td =
+style=3D"padding:10px;background-color:#fff9d7;border-left:1px solid =
+#e2c822;border-right:1px solid #e2c822;border-top:1px solid =
+#e2c822;border-bottom:1px solid #e2c822;"><div style=3D"margin-bottom: =
+15px; font-size: 12px;">Tienes 21 solicitudes de amistad:</div><table =
+cellspacing=3D"0" cellpadding=3D"0" =
+style=3D"border-collapse:collapse;"><tr><td style=3D"border-width: 1px; =
+border-style: solid; border-color: #3b6e22 #3b6e22 #2c5115; =
+background-color: #69a74e;"><table cellspacing=3D"0" cellpadding=3D"0" =
+style=3D"border-collapse:collapse;"><tr><td style=3D"padding: 4px 10px =
+5px; border-top: 1px solid #95bf82;"><a href=3D"http://www.facebook.com/n/=
+?reqs.php&amp;mid=3D2a84336G5af356df62faGcdd9cG2b&amp;bcode=3DEBuul&amp;n_=
+m=3Dsoporte%40imaxcba.com.ar" style=3D"color:#fff;text-decoration:none;fon=
+t-weight:bold;font-size:13px;">Ver
+y responder</a></td></tr></table></td></tr></table></td></tr></table></td>=
+</tr></table><table cellspacing=3D"0" cellpadding=3D"0" =
+style=3D"border-collapse:collapse;"><tr><td =
+style=3D"padding:10px;background-color:#fff9d7;border-left:1px solid =
+#e2c822;border-right:1px solid #e2c822;border-top:1px solid =
+#e2c822;border-bottom:1px solid #e2c822;"><div style=3D"font-weight: bold; =
+margin-bottom: 2px; font-size: 11px;">Para ver tus solicitudes de amistad =
+y contestarlas, ve a:</div><a href=3D"http://www.facebook.com/n/?reqs.php&=
+amp;mid=3D2a84336G5af356df62faGcdd9cG2b&amp;bcode=3DEBuul&amp;n_m=3Dsoport=
+e%40imaxcba.com.ar" style=3D"color:#3b5998;text-decoration:none;font-size:=
+11px;">http://www.facebook.com/n/?reqs.php&amp;mid=3D2a84336G5af356df62faG=
+cdd9cG2b&amp;bcode=3DEBuul&amp;n_m=3Dsoporte%40imaxcba.com.ar</a></td></tr=
+></table><img src=3D"http://www.facebook.com/email_open_log_pic.php?k=3Dkr=
+4mysqy2xka&amp;t=3D2" alt=3D"" style=3D"border: 0; height:1px; width:1px; =
+" /></td></tr><tr><td style=3D"color: #999; padding: 10px;
+font-size: 11px; font-family: 'lucida grande', tahoma, verdana, arial, =
+sans-serif;">Este mensaje estaba destinado a soporte@imaxcba.com.ar. Si no =
+quieres recibir este tipo de mensajes de Facebook, haz clic <a =
+href=3D"http://www.facebook.com/o.php?k=3D3875dc&amp;u=3D100001181033210&a=
+mp;mid=3D2a84336G5af356df62faGcdd9cG2b" style=3D"color: =
+#3b5998">aqu=C3=AD</a> para borrar tu nombre de la lista de personas =
+suscritas.<br/>Facebook, Inc. P.O. Box 10005, Palo Alto, CA =
+94303</td></tr></table></td></tr></table><BR>
+<BR>
+__________ Informaci=F3n de ESET NOD32 Antivirus, versi=F3n de la base de f=
+irmas de virus 5278 (20100714) __________<BR>
+<BR>
+ESET NOD32 Antivirus ha comprobado este mensaje.<BR>
+<BR>
+<A HREF=3D"http://www.eset.com">http://www.eset.com</A><BR>
+
+
+</body></html>
+
+
+
+--b1_57de78703148ac83ef4125a2ac952c0f--
+

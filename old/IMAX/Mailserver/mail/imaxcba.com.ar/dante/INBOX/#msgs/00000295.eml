@@ -1,0 +1,73 @@
+Return-Path: <bounce@flixster.com>
+X-Spam-Status: No, hits=1.5 required=5.0
+	tests=HTML_IMAGE_ONLY_16: 0.627,HTML_MESSAGE: 0.001,HTML_SHORT_LINK_IMG_2: 0.951,
+	MIME_HTML_ONLY: 0.001,TOTAL_SCORE: 1.580
+X-Spam-Level: *
+Return-Path: <bounce@flixster.com>
+Delivered-To: dantemerlo@imaxcba.com.ar
+Received: from localhost (localhost [127.0.0.1])
+	by ns3.miinetserver.com.ar (Postfix) with ESMTP id 3E4878B9B8
+	for <soporte@imaxcba.com.ar>; Fri, 27 Aug 2010 09:22:19 -0300 (ART)
+X-Virus-Scanned: Debian amavisd-new at ispconfig.miinet.com.ar
+Received: from ns3.miinetserver.com.ar ([127.0.0.1])
+	by localhost (ns3.miinetserver.com.ar [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id AVN-Z9eX7PwO for <soporte@imaxcba.com.ar>;
+	Fri, 27 Aug 2010 09:22:17 -0300 (ART)
+Received: from mail3.flixster.com (mail3.flixster.com [209.237.233.43])
+	by ns3.miinetserver.com.ar (Postfix) with ESMTP id 1B9A78B9BB
+	for <soporte@imaxcba.com.ar>; Fri, 27 Aug 2010 09:22:17 -0300 (ART)
+Received: from mail3.flixster.com (localhost.localdomain [127.0.0.1])
+	by mail3.flixster.com (Postfix) with ESMTP id E80D7A88BA4
+	for <soporte@imaxcba.com.ar>; Fri, 27 Aug 2010 05:22:14 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; d=flixster.com; h=message-id
+	:from:sender:to:subject:mime-version:content-type
+	:content-transfer-encoding:list-unsubscribe:date; s=f512; bh=BAM
+	F60GJTaC4hY/YzarblPPdSVs=; b=Rlz5NdfuIhZUooX3odzXTKKv9UmfAxp0AGU
+	O6fyyk11KVbSCngTWw6S2a3I2gBceDMNlLlAZwEbHKBvUkiU+mw==
+DomainKey-Signature: a=rsa-sha1; c=nofws; d=flixster.com; h=message-id
+	:from:sender:to:subject:mime-version:content-type
+	:content-transfer-encoding:list-unsubscribe:date; q=dns; s=f512; b=
+	OJ57bPsgjpalLfPrVqYLz6a0MkT/VYC50wHrKXmjV7dV1evY7Ivcxevnr+wiYpBb
+	lQdwgnldJTsAnBv3hyEIRg==
+Received: from job32.flixster.com (job32.flixster.com [10.0.35.32])
+	by mail3.flixster.com (Postfix) with ESMTP id D4DD1A88B3B
+	for <soporte@imaxcba.com.ar>; Fri, 27 Aug 2010 05:22:14 -0700 (PDT)
+Message-ID: <129689932.1282911734848.JavaMail.www@job32.flixster.com>
+From: Oscar Oscar <invites@flixster.com>
+Sender: Oscar Oscar <invites@flixster.com>
+To: soporte@imaxcba.com.ar
+Subject: Soporte@imaxcba.com.ar: Oscar Oscar has sent you private message
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+List-Unsubscribe: http://www.flixster.com/DoNotSend.jsp?e=soporte%40imaxcba.com.ar&ty=RS2
+Date: Fri, 27 Aug 2010 05:22:14 -0700 (PDT)
+X-EsetId: 101E3C2F2FB776690F183C7B23E733
+
+<html> <body bgcolor=3D"#FFFFFF" text=3D"#000000" topmargin=3D"0" leftmargi=
+n=3D"0" marginwidth=3D"0" marginheight=3D"0"> <a href=3D"http://www.flixste=
+r.com/iphone/install?lsrc=3Diph-flx-email"><img src=3D"http://www.flixster.=
+com/servlet/pixel?em.id=3D2352585075" border=3D"0" /></a> <div style=3D"pad=
+ding-left: 20px; padding-top: 20px;"> <font face=3D"Verdana, Arial, Helveti=
+ca, sans-serif" size=3D"2"> Just a reminder - click here to read your messa=
+ge from Oscar O:<br /><br /> <a href=3D"http://www.flixster.com/invite/8620=
+69179zxdA2174971194BC?em.id=3D2352585075#c=3Dactivities&m=3Demail&s=3Dinvit=
+ation">http://www.flixster.com/user/yarce205/connect</a><br /><br /> Oscar =
+O </font> <br /><br /> <hr size=3D"1" width=3D"100%" /> <font face=3D"Verda=
+na, Arial, Helvetica, sans-serif" size=3D"1">This note was sent via Flixste=
+r by Oscar Oscar to soporte@imaxcba.com.ar. If you prefer not to receive em=
+ails like this, <a href=3D"http://www.flixster.com/DoNotSend.jsp?ty=3DRS2&e=
+=3Dsoporte@imaxcba.com.ar">tell us here</a>.</font> <br /><font face=3D"Ver=
+dana, Arial, Helvetica, sans-serif" size=3D"1">Or you can notify us in writ=
+ing to this address: Flixster, PO Box 40577, San Francisco, CA 94110</font>=
+ </div> <BR>
+<BR>
+__________ Informaci=F3n de ESET NOD32 Antivirus, versi=F3n de la base de f=
+irmas de virus 5401 (20100827) __________<BR>
+<BR>
+ESET NOD32 Antivirus ha comprobado este mensaje.<BR>
+<BR>
+<A HREF=3D"http://www.eset.com">http://www.eset.com</A><BR>
+
+
+</body> </html> <!-- email generated successfully -->
