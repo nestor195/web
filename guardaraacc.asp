@@ -15,7 +15,9 @@ end if
 <%
 SET ObConn = Server.CreateObject ("ADODB.Connection")
 SET ObRs = Server.CreateObject ("ADODB.RecordSet")
-ObConn.Open "ACYP"
+%>
+<!--#include file="conector.asp"-->
+<%
 
 If Request.Form ("AC") = "Nuevo" then
 Sel = "Select * From Planilla"

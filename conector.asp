@@ -1,0 +1,3 @@
+<%
+ObConn.Open "ACYP"
+%>

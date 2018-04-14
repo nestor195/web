@@ -15,12 +15,12 @@ end if
 
 </head>
 <body>
-<p class="Tilulo">GC.P2.F1 - SOLICITUD DE ACCIONES CORRECTIVAS Y PREVENTIVAS - 
+<p class="Tilulo">GC.P2.F1 - SOLICITUD DE ACCIONES CORRECTIVAS Y PREVENTIVAS -
 REV 02</p>
 <form action="" method="get">
 	Buscar <input name="Dato" type="text"> en <select name="Campo">
 	<option></option>
-	<option selected="" value="Id">N°</option>
+	<option selected="" value="Id">NÂ°</option>
 	<option value="Estado">Estado</option>
 	<option value="NoConformidad">No Conformidad</option>
 	<option value="Fecha">Fecha</option>
@@ -30,17 +30,19 @@ REV 02</p>
 	<a href="consulta.asp?nuevoingreso=nuevo">Agregar nuevo</a></span></form>
 <table cellpadding="2" cellspacing="0" class="tablas" style="width: 100%">
 	<tr class="celdaazul">
-		<td class="celdaazul">N°</td>
+		<td class="celdaazul">NÂ°</td>
 		<td class="celdaazul">Estado</td>
 		<td class="celdaazul">No conformidad</td>
 		<td class="celdaazul">Fecha</td>
-		<td class="celdaazul">Área</td>
+		<td class="celdaazul">ï¿½rea</td>
 		<td class="celdaazul">Solicitante</td>
 	</tr>
 <%
 SET ObConn = Server.CreateObject ("ADODB.Connection")
 SET ObRs = Server.CreateObject ("ADODB.RecordSet")
-ObConn.Open "ACYP"
+%>
+<!--#include file="conector.asp"-->
+<%
 SQL = "SELECT Planilla.Id, Planilla.Estado, Estados.Estado, Planilla.NoConformidad, Planilla.Fecha, Areas.Area, Responsables.Responsable"
 SQL = SQL & " FROM ((Planilla INNER JOIN Estados ON Planilla.Estado = Estados.ID) INNER JOIN Areas ON Planilla.Area = Areas.Id) INNER JOIN Responsables ON Planilla.Solicita = Responsables.Id"
 

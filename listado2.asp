@@ -18,7 +18,7 @@ end if
 
 </head>
 <body style="">
-<p class="Tilulo">GC.P2.F1 - SOLICITUD DE ACCIONES CORRECTIVAS Y PREVENTIVAS - 
+<p class="Tilulo">GC.P2.F1 - SOLICITUD DE ACCIONES CORRECTIVAS Y PREVENTIVAS -
 REV 02</p>
 	<div id="tablewrapper">
 		<div id="tableheader">
@@ -38,7 +38,7 @@ REV 02</p>
         		<div><a href="javascript:sorter.reset()">reset</a></div>
         	</span>
         </div>
-        
+
         <table cellpadding="0" cellspacing="0" border="0" id="table" class="tinytable">
             <thead>
                 <tr>
@@ -54,7 +54,9 @@ REV 02</p>
 <%
 SET ObConn = Server.CreateObject ("ADODB.Connection")
 SET ObRs = Server.CreateObject ("ADODB.RecordSet")
-ObConn.Open "ACYP"
+%>
+<!--#include file="conector.asp"-->
+<%
 SQL = "SELECT Planilla.Id, Planilla.Estado, Estados.Estado, Planilla.NoConformidad, Planilla.Fecha, Areas.Area, Responsables.Responsable"
 SQL = SQL & " FROM ((Planilla INNER JOIN Estados ON Planilla.Estado = Estados.ID) INNER JOIN Areas ON Planilla.Area = Areas.Id) INNER JOIN Responsables ON Planilla.Solicita = Responsables.Id"
 
