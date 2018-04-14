@@ -1,3 +1,3 @@
 <%
-ObConn.Open "ACYP"
+ObConn.Open "ACYPcontrol"
 %>
