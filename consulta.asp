@@ -91,7 +91,7 @@ End If
 		<td class="auto-style2" colspan="2">
 		<table style="width: 100%">
 			<tr>
-				<td class="celdaazul" style="width: 112px">Accion Nï¿½ </td>
+				<td class="celdaazul" style="width: 112px">Accion N° </td>
 				<td class="auto-style7">
 				<input name="AC" type="text" readonly="readonly" value="<%Response.Write Id%>"></td>
 				<td class="celdaazul">Estado</td>
@@ -141,7 +141,7 @@ ObConn.Close
 				<td class="celdaazul" style="width: 301px; height: 25px">
 				Solicitada por:</td>
 				<td class="celdaazul" style="width: 131px; height: 25px">Area:</td>
-				<td class="celdaazul" style="height: 25px">Tipo de acciï¿½n a
+				<td class="celdaazul" style="height: 25px">Tipo de acción a
 				Implementar</td>
 			</tr>
 			<tr>
@@ -290,7 +290,8 @@ NCT3 = "checked='checked'"
 End Select
 %>
 		<td class="celdaazul" colspan="2" style="height: 24">NO CONFIRMIDAD
-		EXISTENTE<input <%Response.Write NCT0%> name="NoConformidadTipo" type="radio" value="0">&nbsp;&nbsp;&nbsp; - POTENCIAL<input <%Response.Write NCT1%> name="NoConformidadTipo" type="radio" value="1">&nbsp;&nbsp;&nbsp; - OBSERVACIï¿½N<input <%Response.Write NCT2%> name="NoConformidadTipo" type="radio" value="2">&nbsp;&nbsp;&nbsp; - OPORTUNIDAD DE MEJORA<input <%Response.Write NCT3%> name="NoConformidadTipo" type="radio" value="3"></td>
+		EXISTENTE<input <%Response.Write NCT0%> name="NoConformidadTipo" type="radio" value="0">&nbsp;&nbsp;&nbsp; - POTENCIAL<input <%Response.Write NCT1%> name="NoConformidadTipo" type="radio" value="1">&nbsp;&nbsp;&nbsp; 
+		- OBSERVACIÓN<input <%Response.Write NCT2%> name="NoConformidadTipo" type="radio" value="2">&nbsp;&nbsp;&nbsp; - OPORTUNIDAD DE MEJORA<input <%Response.Write NCT3%> name="NoConformidadTipo" type="radio" value="3"></td>
 	</tr>
 	<tr class="auto-style2">
 		<td class="auto-style2" colspan="2">
@@ -314,14 +315,15 @@ CNCT2 = "checked='checked'"
 End Select
 %>
 		<td class="celdaazul" colspan="2">CAUSA DE LA NO CONFORMIDAD EXISTENTE<input <%Response.Write CNCT0%> name="CausaNoConformidadTipo" type="radio" value="0">&nbsp;&nbsp;&nbsp;
-		- POTENCIAL<input <%Response.Write CNCT1%> name="CausaNoConformidadTipo" type="radio" value="1">&nbsp;&nbsp;&nbsp; - OBSERVACIï¿½N<input <%Response.Write CNCT2%> name="CausaNoConformidadTipo" type="radio" value="2"></td>
+		- POTENCIAL<input <%Response.Write CNCT1%> name="CausaNoConformidadTipo" type="radio" value="1">&nbsp;&nbsp;&nbsp; 
+		- OBSERVACIÓN<input <%Response.Write CNCT2%> name="CausaNoConformidadTipo" type="radio" value="2"></td>
 	</tr>
 	<tr class="auto-style2">
 		<td class="auto-style2" colspan="2">
 		<textarea name="CausaNoConformidad" style="width: 500px; height: 60px"><%Response.Write CausaNoConformidad%></textarea></td>
 	</tr>
 	<tr>
-		<td class="celdaazul" colspan="2">DESCRIPCIï¿½N DE LA ACCIï¿½N CORRECTIVA
+		<td class="celdaazul" colspan="2">DESCRIPCIÓN DE LA ACCIÓN CORRECTIVA
 		O PREVENTIVA A SER IMPLEMENTADA</td>
 	</tr>
 	<tr class="auto-style2">
@@ -337,11 +339,11 @@ End Select
 				<td class="celdaazul" style="height: 24px; width: 111px">
 				Responsable:</td>
 				<td class="celdaazul" rowspan="4" style="width: 172px">
-				Conforme del sector responsable de implementaciï¿½n</td>
+				Conforme del sector responsable de implementación</td>
 				<td class="celdaazul" style="height: 24px; width: 108px">
 				Responsable:</td>
 				<td class="celdaazul" rowspan="4" style="width: 177px">
-				Conforme Gestiï¿½n de Calidad</td>
+				Conforme Gestión de Calidad</td>
 				<td class="celdaazul" style="height: 24px">Responsable:</td>
 			</tr>
 			<tr>
@@ -505,7 +507,7 @@ ValorFecha = Year(FechaGestionCalidad) & guion1 & Month(FechaGestionCalidad) & g
 		</td>
 	</tr>
 	<tr>
-		<td class="celdaazul" style="width: 103px">Fecha de implementaciï¿½n:</td>
+		<td class="celdaazul" style="width: 103px">Fecha de implementación:</td>
 		<td class="auto-style2" style="width: 198px">
 <%
 If Month(FechaImplementacion) < 10 Then
@@ -524,8 +526,8 @@ ValorFecha = Year(FechaImplementacion) & guion1 & Month(FechaImplementacion) & g
 		<input name="FechaImplementacion" type="date" value="<%Response.Write ValorFecha%>"></td>
 	</tr>
 	<tr>
-		<td class="celdaazul" colspan="2">ACCIï¿½N CORRECTIVA O PREVENTIVA
-		IMPLEMENTADA (Descripciï¿½n de evidencia de implementaciï¿½n)</td>
+		<td class="celdaazul" colspan="2">ACCIÓN CORRECTIVA O PREVENTIVA
+		IMPLEMENTADA (Descripción de evidencia de implementación)</td>
 	</tr>
 	<tr class="auto-style2">
 		<td class="auto-style2" colspan="2">
@@ -537,7 +539,7 @@ ValorFecha = Year(FechaImplementacion) & guion1 & Month(FechaImplementacion) & g
 		<table cellpadding="2" cellspacing="0" style="width: 100%" class="tablas">
 			<tr>
 				<td class="celdaazul" rowspan="2" style="width: 137px">
-				Conforme del sector responsable de verificaciï¿½n</td>
+				Conforme del sector responsable de verificación</td>
 				<td class="celdaazul" style="width: 248px">Fecha</td>
 				<td class="auto-style2" style="width: 84px">
 <%
@@ -593,7 +595,7 @@ ObConn.Close
 			</tr>
 			<tr>
 				<td class="celdaazul" style="width: 248px">Fecha de
-				verificaciï¿½n de efectividad</td>
+				verificación de efectividad</td>
 				<td class="auto-style2" style="width: 84px">
 <%
 If Month(FechaVerificacionEfectividad) < 10 Then
@@ -614,8 +616,8 @@ ValorFecha = Year(FechaVerificacionEfectividad) & guion1 & Month(FechaVerificaci
 		</td>
 	</tr>
 	<tr>
-		<td class="celdaazul" colspan="2">ACCIï¿½N CORRECTIVA O PREVENTIVA
-		EFECTIVA (Descripciï¿½n de evidencia efectiva)</td>
+		<td class="celdaazul" colspan="2">ACCIÓN CORRECTIVA O PREVENTIVA
+		EFECTIVA (Descripción de evidencia efectiva)</td>
 	</tr>
 	<tr class="auto-style2">
 		<td class="auto-style2" colspan="2">
@@ -625,8 +627,8 @@ ValorFecha = Year(FechaVerificacionEfectividad) & guion1 & Month(FechaVerificaci
 		<td class="auto-style2" colspan="2">
 		<table class="auto-style6" style="width: 100%"class="tablas">
 			<tr>
-				<td class="celdaazul" style="width: 137px">Conforme del sector
-				responsable de verificaciï¿½n</td>
+				<td class="celdaazul" style="width: 137px">Conforme del sector 
+				responsable de verificación</td>
 				<td class="celdaazul" style="width: 243px">Fecha</td>
 				<td class="auto-style2" style="width: 88px">
 <%
