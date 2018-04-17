@@ -17,7 +17,8 @@ end if
 <body>
 <table style="width: 100%">
 	<tr>
-		<td><a href="listado.asp" class="Titulo2">Listado</a></td>
+		<td><a href="listado.asp" class="Titulo2">Listado</a><br><br>
+		<a href="equipos.asp" class="Titulo2">Equipos</a><br></td>
 		<td><a class="Titulo2" href="logout.asp">Salir</a></td>
 	</tr>
 </table>
